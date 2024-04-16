@@ -1,0 +1,1545 @@
+StudentID,SchoolCode,SchoolName,PaymentDate,AmountReceived,PaymentMethod,LatePayment,CreditCardNumber,TransactionNo,BankName,PaymentType,Weekday,CheckNumber
+1984,GP,Gabriel Pereira,1/1/2020,981,Cash,No,,81436116,,cas,Wednesday,
+1142,GP,Gabriel Pereira,1/2/2020,1285,Credit Card,Yes,1.98642E+15,39121870,Novobanco,cre,Thursday,
+1024,GP,Gabriel Pereira,1/3/2020,1248,Cash,Yes,,68826917,,cas,Friday,
+1764,GP,Gabriel Pereira,1/4/2020,1404,Check,No,,34185595,Millennium BCP,che,Saturday,9490
+814,GP,Gabriel Pereira,1/5/2020,1420,Credit Card,No,6.66155E+13,4502329,Millennium BCP,cre,Sunday,
+983,GP,Gabriel Pereira,1/5/2020,1563,Check,No,,16934292,Caixa Geral de Depósitos,che,Sunday,5076
+1803,GP,Gabriel Pereira,1/7/2020,1070,Cash,No,,42805376,,cas,Tuesday,
+1780,GP,Gabriel Pereira,1/8/2020,1529,Cash,No,,19916053,,cas,Wednesday,
+1225,GP,Gabriel Pereira,1/9/2020,1238,Credit Card,Yes,3.55373E+15,11952963,Banco Palmas,cre,Thursday,
+1659,GP,Gabriel Pereira,1/9/2020,1002,Credit Card,No,7.16349E+14,8511919,Banco Cruzeiro do Sul,cre,Thursday,
+1744,GP,Gabriel Pereira,1/9/2020,1242,Credit Card,No,6.55156E+15,9358201,Novobanco,cre,Thursday,
+1923,GP,Gabriel Pereira,1/9/2020,1022,Cash,Yes,,53718605,,cas,Thursday,
+1470,GP,Gabriel Pereira,1/10/2020,1513,Check,No,,9955049,Banco Do Brasil,che,Friday,3341
+630,GP,Gabriel Pereira,1/11/2020,1384,Cash,No,,72197054,,cas,Saturday,
+1126,GP,Gabriel Pereira,1/11/2020,1314,Cash,No,,26540165,,cas,Saturday,
+1284,GP,Gabriel Pereira,1/12/2020,1358,Cash,No,,73535247,,cas,Sunday,
+1001,GP,Gabriel Pereira,1/14/2020,1167,Cash,No,,20673231,,cas,Tuesday,
+1286,GP,Gabriel Pereira,1/15/2020,1196,Check,No,,53788033,Caixa Geral de Depósitos,che,Wednesday,9681
+1370,GP,Gabriel Pereira,1/15/2020,962,Credit Card,No,9.98519E+15,29163504,Novobanco,cre,Wednesday,
+151,GP,Gabriel Pereira,1/17/2020,1466,Check,No,,64235369,Banco Do Brasil,che,Friday,9180
+202,GP,Gabriel Pereira,1/17/2020,1222,Cash,No,,55743132,,cas,Friday,
+1004,GP,Gabriel Pereira,1/17/2020,1063,Credit Card,No,2.99875E+15,67086700,Millennium BCP,cre,Friday,
+1234,GP,Gabriel Pereira,1/17/2020,1269,Check,No,,45663113,Banco Palmas,che,Friday,1787
+1748,GP,Gabriel Pereira,1/17/2020,1179,Cash,No,,53926096,,cas,Friday,
+798,GP,Gabriel Pereira,1/24/2020,1444,Credit Card,No,8.84713E+15,41758231,Banco Do Brasil,cre,Friday,
+1310,GP,Gabriel Pereira,1/24/2020,1070,Credit Card,No,1.23191E+15,79419324,Banco Palmas,cre,Friday,
+969,GP,Gabriel Pereira,1/25/2020,1207,Check,No,,39464083,Millennium BCP,che,Saturday,4633
+1079,GP,Gabriel Pereira,1/26/2020,1467,Cash,No,,78889753,,cas,Sunday,
+1307,GP,Gabriel Pereira,1/27/2020,1101,Credit Card,No,6.88116E+15,73877583,Banco Do Brasil,cre,Monday,
+161,GP,Gabriel Pereira,1/31/2020,1057,Cash,No,,26551104,,cas,Friday,
+1010,GP,Gabriel Pereira,1/31/2020,1148,Credit Card,No,2.69429E+15,86314417,Millennium BCP,cre,Friday,
+1907,GP,Gabriel Pereira,1/31/2020,1393,Cash,Yes,,69509355,,cas,Friday,
+734,GP,Gabriel Pereira,2/1/2020,1114,Check,No,,87535778,Caixa Geral de Depósitos,che,Saturday,2721
+838,GP,Gabriel Pereira,2/3/2020,1488,Credit Card,No,7.79612E+15,14940976,Chase,cre,Monday,
+1441,GP,Gabriel Pereira,2/7/2020,1534,Cash,No,,39160770,,cas,Friday,
+23,GP,Gabriel Pereira,2/9/2020,1188,Check,No,,53487401,Novobanco,che,Sunday,5533
+955,GP,Gabriel Pereira,2/9/2020,1236,Check,No,,60944128,Banco Do Brasil,che,Sunday,4587
+1770,GP,Gabriel Pereira,2/9/2020,1094,Credit Card,No,4.27494E+15,80300735,Novobanco,cre,Sunday,
+106,GP,Gabriel Pereira,2/11/2020,1027,Cash,No,,67652775,,cas,Tuesday,
+1118,GP,Gabriel Pereira,2/12/2020,928,Check,No,,17718249,Millennium BCP,che,Wednesday,9957
+1277,GP,Gabriel Pereira,2/13/2020,1581,Cash,No,,86524062,,cas,Thursday,
+773,GP,Gabriel Pereira,2/14/2020,1090,Cash,No,,9624406,,cas,Friday,
+1602,GP,Gabriel Pereira,2/14/2020,1427,Check,No,,47558030,Millennium BCP,che,Friday,2689
+1157,GP,Gabriel Pereira,2/15/2020,954,Cash,No,,24728289,,cas,Saturday,
+1631,GP,Gabriel Pereira,2/15/2020,1075,Check,No,,6952223,Banco Do Brasil,che,Saturday,7685
+891,GP,Gabriel Pereira,2/17/2020,1102,Check,No,,42925010,Banco Palmas,che,Monday,8816
+978,GP,Gabriel Pereira,2/18/2020,1218,Check,No,,18984841,Novobanco,che,Tuesday,1667
+1825,GP,Gabriel Pereira,2/19/2020,1248,Credit Card,No,3.02364E+15,37203350,Banco Palmas,cre,Wednesday,
+1665,GP,Gabriel Pereira,2/21/2020,1454,Credit Card,No,9.36316E+15,93410406,Chase,cre,Friday,
+926,GP,Gabriel Pereira,2/22/2020,1170,Check,No,,39243588,Banco Palmas,che,Saturday,4349
+1668,GP,Gabriel Pereira,2/23/2020,1459,Cash,No,,65818981,,cas,Sunday,
+1619,GP,Gabriel Pereira,2/25/2020,1113,Credit Card,No,1.63034E+15,9089931,Banco Atlantico Europa,cre,Tuesday,
+1937,GP,Gabriel Pereira,2/25/2020,1357,Cash,No,,42937178,,cas,Tuesday,
+166,GP,Gabriel Pereira,2/26/2020,1302,Cash,No,,93982807,,cas,Wednesday,
+1169,GP,Gabriel Pereira,3/1/2020,944,Cash,Yes,,73279805,,cas,Sunday,
+1838,GP,Gabriel Pereira,3/2/2020,918,Cash,No,,8306978,,cas,Monday,
+1050,GP,Gabriel Pereira,3/3/2020,1255,Cash,No,,87071523,,cas,Tuesday,
+1693,GP,Gabriel Pereira,3/3/2020,1234,Credit Card,No,1.76505E+15,42887344,Novobanco,cre,Tuesday,
+1957,GP,Gabriel Pereira,3/3/2020,1457,Check,No,,87700623,Banco Cruzeiro do Sul,che,Tuesday,6124
+295,GP,Gabriel Pereira,3/5/2020,1472,Check,No,,43937690,Banco Cruzeiro do Sul,che,Thursday,3867
+189,GP,Gabriel Pereira,3/6/2020,927,Check,No,,38983640,Banco Do Brasil,che,Friday,9108
+231,GP,Gabriel Pereira,3/6/2020,928,Cash,Yes,,93333468,,cas,Friday,
+1544,GP,Gabriel Pereira,3/7/2020,1307,Credit Card,No,4.76254E+15,17299403,Novobanco,cre,Saturday,
+958,GP,Gabriel Pereira,3/9/2020,1149,Check,No,,52959611,Caixa Geral de Depósitos,che,Monday,2348
+1774,GP,Gabriel Pereira,3/9/2020,978,Credit Card,No,8.51367E+15,93768418,Banco Cruzeiro do Sul,cre,Monday,
+862,GP,Gabriel Pereira,3/10/2020,1552,Check,No,,64250642,Millennium BCP,che,Tuesday,8535
+1020,GP,Gabriel Pereira,3/10/2020,1011,Check,No,,36875092,Novobanco,che,Tuesday,4190
+485,GP,Gabriel Pereira,3/12/2020,1096,Cash,No,,38395972,,cas,Thursday,
+1731,GP,Gabriel Pereira,3/12/2020,1465,Credit Card,No,2.40655E+15,18985664,Banco Do Brasil,cre,Thursday,
+379,GP,Gabriel Pereira,3/13/2020,1586,Credit Card,No,1.02762E+15,68765326,Millennium BCP,cre,Friday,
+1526,GP,Gabriel Pereira,3/15/2020,914,Check,No,,37766183,Millennium BCP,che,Sunday,9656
+315,GP,Gabriel Pereira,3/16/2020,1013,Check,No,,74973502,Millennium BCP,che,Monday,9764
+1583,GP,Gabriel Pereira,3/16/2020,1351,Check,No,,37019453,Caixa Geral de Depósitos,che,Monday,2315
+1967,GP,Gabriel Pereira,3/16/2020,1559,Credit Card,No,1.21805E+15,79412325,Banco Cruzeiro do Sul,cre,Monday,
+738,GP,Gabriel Pereira,3/17/2020,1435,Check,No,,95894773,Banco Palmas,che,Tuesday,3217
+1969,GP,Gabriel Pereira,3/17/2020,1031,Credit Card,No,2.02914E+15,29890888,Caixa Geral de Depósitos,cre,Tuesday,
+785,GP,Gabriel Pereira,3/22/2020,1307,Check,No,,56876112,Banco Cruzeiro do Sul,che,Sunday,2831
+848,GP,Gabriel Pereira,3/22/2020,1541,Cash,No,,61707158,,cas,Sunday,
+415,GP,Gabriel Pereira,3/23/2020,1326,Check,No,,27567043,Caixa Geral de Depósitos,che,Monday,1361
+1862,GP,Gabriel Pereira,3/24/2020,988,Cash,No,,96743338,,cas,Tuesday,
+1128,GP,Gabriel Pereira,3/25/2020,1085,Cash,No,,77462591,,cas,Wednesday,
+217,GP,Gabriel Pereira,3/26/2020,920,Cash,No,,11526218,,cas,Thursday,
+390,GP,Gabriel Pereira,3/26/2020,1378,Check,No,,74654214,Millennium BCP,che,Thursday,7271
+912,GP,Gabriel Pereira,3/28/2020,1023,Credit Card,No,1.14717E+15,69979907,Millennium BCP,cre,Saturday,
+1844,GP,Gabriel Pereira,3/28/2020,1504,Credit Card,No,9.98398E+14,16303438,Banco Do Brasil,cre,Saturday,
+1540,GP,Gabriel Pereira,3/29/2020,1479,Cash,No,,39981615,,cas,Sunday,
+1683,GP,Gabriel Pereira,3/30/2020,1466,Cash,No,,2435094,,cas,Monday,
+447,GP,Gabriel Pereira,3/31/2020,1487,Cash,No,,91919541,,cas,Tuesday,
+118,GP,Gabriel Pereira,4/1/2020,1364,Credit Card,No,2.76774E+15,81537147,Banco Do Brasil,cre,Wednesday,
+1224,GP,Gabriel Pereira,4/1/2020,1486,Cash,No,,41636560,,cas,Wednesday,
+1293,GP,Gabriel Pereira,4/1/2020,1534,Check,No,,79572857,Banco Palmas,che,Wednesday,6710
+1656,GP,Gabriel Pereira,4/1/2020,1540,Credit Card,No,2.36881E+15,13346018,Banco Cruzeiro do Sul,cre,Wednesday,
+597,GP,Gabriel Pereira,4/3/2020,1262,Credit Card,Yes,2.65017E+15,24376545,Novobanco,cre,Friday,
+1718,GP,Gabriel Pereira,4/4/2020,1209,Credit Card,Yes,5.9441E+15,47741313,Banco Palmas,cre,Saturday,
+1382,GP,Gabriel Pereira,4/5/2020,1143,Check,No,,87797247,Chase,che,Sunday,7133
+157,GP,Gabriel Pereira,4/6/2020,1600,Credit Card,No,1.66687E+14,80339740,Caixa Geral de Depósitos,cre,Monday,
+1806,GP,Gabriel Pereira,4/7/2020,1017,Cash,Yes,,32888070,,cas,Tuesday,
+1429,GP,Gabriel Pereira,4/8/2020,1024,Credit Card,No,2.08493E+15,60001440,Banco Atlantico Europa,cre,Wednesday,
+433,GP,Gabriel Pereira,4/9/2020,1583,Credit Card,No,1.93933E+15,93891190,Banco Do Brasil,cre,Thursday,
+902,GP,Gabriel Pereira,4/10/2020,1045,Cash,No,,31072011,,cas,Friday,
+467,GP,Gabriel Pereira,4/11/2020,1304,Check,No,,80924287,Banco Palmas,che,Saturday,8669
+1863,GP,Gabriel Pereira,4/12/2020,1579,Check,No,,55239170,Banco Do Brasil,che,Sunday,4836
+1279,GP,Gabriel Pereira,4/13/2020,1454,Cash,No,,55939652,,cas,Monday,
+1721,GP,Gabriel Pereira,4/13/2020,1593,Credit Card,No,8.65582E+15,34891800,Banco Do Brasil,cre,Monday,
+417,GP,Gabriel Pereira,4/14/2020,1480,Credit Card,No,4.24375E+15,42222310,Banco Palmas,cre,Tuesday,
+1409,GP,Gabriel Pereira,4/15/2020,1596,Credit Card,No,9.87606E+15,86186706,Novobanco,cre,Wednesday,
+1787,GP,Gabriel Pereira,4/15/2020,948,Credit Card,No,8.33196E+15,71771703,Millennium BCP,cre,Wednesday,
+1671,GP,Gabriel Pereira,4/16/2020,1523,Cash,No,,88119389,,cas,Thursday,
+27,GP,Gabriel Pereira,4/17/2020,1133,Credit Card,Yes,3.65415E+15,40196556,Caixa Geral de Depósitos,cre,Friday,
+176,GP,Gabriel Pereira,4/17/2020,1019,Credit Card,No,2.86693E+15,42257905,Millennium BCP,cre,Friday,
+1134,GP,Gabriel Pereira,4/17/2020,1568,Cash,No,,75231123,,cas,Friday,
+560,GP,Gabriel Pereira,4/18/2020,1364,Cash,No,,97152732,,cas,Saturday,
+289,GP,Gabriel Pereira,4/20/2020,1491,Cash,No,,62137213,,cas,Monday,
+789,GP,Gabriel Pereira,4/20/2020,1062,Check,No,,77422294,Novobanco,che,Monday,5215
+615,GP,Gabriel Pereira,4/21/2020,1239,Cash,No,,8481001,,cas,Tuesday,
+420,GP,Gabriel Pereira,4/22/2020,925,Cash,No,,37515093,,cas,Wednesday,
+1398,GP,Gabriel Pereira,4/22/2020,1173,Cash,Yes,,72345653,,cas,Wednesday,
+192,GP,Gabriel Pereira,4/26/2020,980,Check,No,,28569146,Banco Do Brasil,che,Sunday,1948
+1434,GP,Gabriel Pereira,4/26/2020,1153,Cash,No,,12531379,,cas,Sunday,
+370,GP,Gabriel Pereira,4/27/2020,1600,Check,No,,77332945,Novobanco,che,Monday,4004
+1507,GP,Gabriel Pereira,4/29/2020,965,Cash,No,,1235036,,cas,Wednesday,
+979,GP,Gabriel Pereira,4/30/2020,1330,Credit Card,No,4.02119E+15,29831522,Caixa Geral de Depósitos,cre,Thursday,
+1877,GP,Gabriel Pereira,5/3/2020,1089,Check,No,,44484368,Novobanco,che,Sunday,9311
+629,GP,Gabriel Pereira,5/4/2020,1073,Cash,No,,49551127,,cas,Monday,
+1121,GP,Gabriel Pereira,5/4/2020,1575,Credit Card,No,9.29208E+15,3988636,Banco Palmas,cre,Monday,
+59,GP,Gabriel Pereira,5/6/2020,1158,Cash,No,,68087603,,cas,Wednesday,
+1593,GP,Gabriel Pereira,5/6/2020,905,Cash,No,,96568512,,cas,Wednesday,
+47,GP,Gabriel Pereira,5/8/2020,1022,Check,No,,23374989,Banco Cruzeiro do Sul,che,Friday,2647
+999,GP,Gabriel Pereira,5/8/2020,1166,Check,No,,3646871,Caixa Geral de Depósitos,che,Friday,3077
+1435,GP,Gabriel Pereira,5/8/2020,1314,Credit Card,Yes,7.77322E+15,59991938,Banco Atlantico Europa,cre,Friday,
+34,GP,Gabriel Pereira,5/11/2020,1353,Check,No,,86872774,Banco Do Brasil,che,Monday,5543
+508,GP,Gabriel Pereira,5/11/2020,1291,Cash,Yes,,18242241,,cas,Monday,
+708,GP,Gabriel Pereira,5/11/2020,1175,Credit Card,No,4.35354E+15,81579376,Banco Do Brasil,cre,Monday,
+1679,GP,Gabriel Pereira,5/13/2020,1139,Credit Card,No,3.09308E+15,98724089,Chase,cre,Wednesday,
+873,GP,Gabriel Pereira,5/14/2020,1070,Credit Card,No,4.4765E+15,4637660,Banco Cruzeiro do Sul,cre,Thursday,
+1380,GP,Gabriel Pereira,5/14/2020,1054,Check,No,,64612096,Caixa Geral de Depósitos,che,Thursday,8349
+1510,GP,Gabriel Pereira,5/15/2020,1391,Credit Card,No,8.31598E+15,83029158,Banco Palmas,cre,Friday,
+1947,GP,Gabriel Pereira,5/15/2020,1205,Cash,No,,85866356,,cas,Friday,
+323,GP,Gabriel Pereira,5/18/2020,964,Check,No,,63878294,Banco Palmas,che,Monday,7714
+413,GP,Gabriel Pereira,5/18/2020,1261,Cash,No,,64015577,,cas,Monday,
+1652,GP,Gabriel Pereira,5/18/2020,916,Cash,No,,91792651,,cas,Monday,
+1402,GP,Gabriel Pereira,5/19/2020,1504,Check,Yes,,9378146,Millennium BCP,che,Tuesday,5992
+1261,GP,Gabriel Pereira,5/20/2020,1546,Credit Card,No,2.43838E+15,7686276,Banco Do Brasil,cre,Wednesday,
+1858,GP,Gabriel Pereira,5/21/2020,1131,Cash,Yes,,40047486,,cas,Thursday,
+896,GP,Gabriel Pereira,5/23/2020,1296,Check,No,,8470681,Millennium BCP,che,Saturday,4278
+136,GP,Gabriel Pereira,5/24/2020,1154,Credit Card,No,3.7455E+15,68414593,Banco Do Brasil,cre,Sunday,
+180,GP,Gabriel Pereira,5/24/2020,1199,Cash,No,,81260422,,cas,Sunday,
+302,GP,Gabriel Pereira,5/28/2020,1270,Check,No,,28434795,Banco Palmas,che,Thursday,4013
+583,GP,Gabriel Pereira,5/28/2020,965,Check,No,,82606888,Banco Atlantico Europa,che,Thursday,2047
+1725,GP,Gabriel Pereira,5/28/2020,1210,Credit Card,No,2.99127E+15,10616691,Millennium BCP,cre,Thursday,
+1948,GP,Gabriel Pereira,5/29/2020,1203,Credit Card,No,2.88252E+14,94699842,Chase,cre,Friday,
+1158,GP,Gabriel Pereira,6/2/2020,1186,Credit Card,Yes,7.88225E+15,71058011,Banco Palmas,cre,Tuesday,
+514,GP,Gabriel Pereira,6/3/2020,916,Check,No,,9700268,Banco Atlantico Europa,che,Wednesday,7435
+1674,GP,Gabriel Pereira,6/5/2020,1174,Check,Yes,,4903729,Banco Palmas,che,Friday,5847
+1700,GP,Gabriel Pereira,6/7/2020,957,Check,No,,85762648,Caixa Geral de Depósitos,che,Sunday,7738
+356,GP,Gabriel Pereira,6/9/2020,989,Credit Card,No,2.25E+15,61681472,Caixa Geral de Depósitos,cre,Tuesday,
+957,GP,Gabriel Pereira,6/9/2020,1206,Credit Card,No,9.71507E+15,37769366,Banco Do Brasil,cre,Tuesday,
+1077,GP,Gabriel Pereira,6/9/2020,1152,Check,No,,78713752,Banco Do Brasil,che,Tuesday,3140
+211,GP,Gabriel Pereira,6/10/2020,1528,Credit Card,No,5.25003E+15,54522675,Chase,cre,Wednesday,
+1885,GP,Gabriel Pereira,6/10/2020,993,Check,No,,5108194,Banco Cruzeiro do Sul,che,Wednesday,3111
+554,GP,Gabriel Pereira,6/11/2020,1079,Check,No,,57150997,Novobanco,che,Thursday,9372
+1162,GP,Gabriel Pereira,6/11/2020,946,Credit Card,No,8.96322E+15,68064860,Novobanco,cre,Thursday,
+1198,GP,Gabriel Pereira,6/11/2020,1533,Cash,No,,52692559,,cas,Thursday,
+466,GP,Gabriel Pereira,6/12/2020,1140,Cash,No,,99004896,,cas,Friday,
+58,GP,Gabriel Pereira,6/13/2020,1228,Check,No,,25674680,Banco Atlantico Europa,che,Saturday,2442
+393,GP,Gabriel Pereira,6/13/2020,1598,Cash,No,,15851743,,cas,Saturday,
+1836,GP,Gabriel Pereira,6/15/2020,1309,Check,No,,26728007,Chase,che,Monday,8999
+491,GP,Gabriel Pereira,6/16/2020,1041,Credit Card,No,7.60375E+15,86326667,Banco Palmas,cre,Tuesday,
+757,GP,Gabriel Pereira,6/16/2020,1244,Check,No,,25427820,Banco Atlantico Europa,che,Tuesday,8478
+1303,GP,Gabriel Pereira,6/16/2020,1448,Check,No,,64051038,Millennium BCP,che,Tuesday,3217
+1536,GP,Gabriel Pereira,6/16/2020,1081,Cash,No,,65591476,,cas,Tuesday,
+1586,GP,Gabriel Pereira,6/17/2020,1151,Credit Card,No,7.18592E+15,11429430,Millennium BCP,cre,Wednesday,
+1757,GP,Gabriel Pereira,6/19/2020,1320,Check,No,,20949076,Banco Do Brasil,che,Friday,5889
+1432,GP,Gabriel Pereira,6/20/2020,1137,Credit Card,No,7.66919E+15,82017530,Banco Atlantico Europa,cre,Saturday,
+1848,GP,Gabriel Pereira,6/20/2020,971,Cash,No,,8123927,,cas,Saturday,
+1065,GP,Gabriel Pereira,6/21/2020,1585,Cash,No,,59655942,,cas,Sunday,
+13,GP,Gabriel Pereira,6/23/2020,921,Check,No,,93010310,Banco Palmas,che,Tuesday,2160
+1661,GP,Gabriel Pereira,6/24/2020,1298,Credit Card,No,7.67138E+15,61266783,Millennium BCP,cre,Wednesday,
+395,GP,Gabriel Pereira,6/25/2020,957,Cash,No,,6138782,,cas,Thursday,
+1754,GP,Gabriel Pereira,6/25/2020,1110,Check,No,,49828385,Banco Atlantico Europa,che,Thursday,5458
+373,GP,Gabriel Pereira,6/28/2020,1113,Check,No,,69583219,Banco Atlantico Europa,che,Sunday,2873
+96,GP,Gabriel Pereira,6/30/2020,1397,Credit Card,No,2.21419E+15,29270653,Banco Atlantico Europa,cre,Tuesday,
+1953,GP,Gabriel Pereira,7/1/2020,1335,Credit Card,No,2.77005E+15,73228570,Banco Cruzeiro do Sul,cre,Wednesday,
+1091,GP,Gabriel Pereira,7/2/2020,1227,Cash,No,,20340301,,cas,Thursday,
+1319,GP,Gabriel Pereira,7/2/2020,1085,Credit Card,No,4.12094E+15,55132761,Banco Atlantico Europa,cre,Thursday,
+1931,GP,Gabriel Pereira,7/4/2020,1408,Credit Card,No,7.49058E+15,8035862,Banco Cruzeiro do Sul,cre,Saturday,
+312,GP,Gabriel Pereira,7/5/2020,1193,Cash,No,,77406493,,cas,Sunday,
+1207,GP,Gabriel Pereira,7/5/2020,1030,Check,No,,95332227,Banco Do Brasil,che,Sunday,4114
+982,GP,Gabriel Pereira,7/6/2020,1039,Cash,No,,69443916,,cas,Monday,
+1363,GP,Gabriel Pereira,7/6/2020,1160,Credit Card,No,1.90384E+15,22271117,Banco Palmas,cre,Monday,
+422,GP,Gabriel Pereira,7/7/2020,1259,Cash,No,,81376742,,cas,Tuesday,
+770,GP,Gabriel Pereira,7/8/2020,1369,Check,No,,89701550,Chase,che,Wednesday,2656
+1788,GP,Gabriel Pereira,7/8/2020,1320,Check,No,,9412460,Banco Palmas,che,Wednesday,2527
+1132,GP,Gabriel Pereira,7/9/2020,1502,Check,No,,80785254,Chase,che,Thursday,6075
+1172,GP,Gabriel Pereira,7/9/2020,1149,Cash,No,,52056100,,cas,Thursday,
+301,GP,Gabriel Pereira,7/12/2020,1303,Check,No,,71875003,Novobanco,che,Sunday,2650
+175,GP,Gabriel Pereira,7/13/2020,1260,Cash,No,,49912513,,cas,Monday,
+1673,GP,Gabriel Pereira,7/13/2020,1093,Check,No,,16336131,Banco Atlantico Europa,che,Monday,9632
+471,GP,Gabriel Pereira,7/16/2020,995,Credit Card,No,2.28499E+15,15041659,Caixa Geral de Depósitos,cre,Thursday,
+1708,GP,Gabriel Pereira,7/19/2020,1104,Cash,Yes,,57330990,,cas,Sunday,
+188,GP,Gabriel Pereira,7/20/2020,1339,Cash,No,,34138999,,cas,Monday,
+654,GP,Gabriel Pereira,7/22/2020,1307,Credit Card,No,5.62531E+15,37953816,Banco Cruzeiro do Sul,cre,Wednesday,
+712,GP,Gabriel Pereira,7/26/2020,1030,Cash,No,,34155999,,cas,Sunday,
+1384,GP,Gabriel Pereira,7/26/2020,997,Cash,No,,2578464,,cas,Sunday,
+947,GP,Gabriel Pereira,7/27/2020,1424,Check,No,,71553482,Millennium BCP,che,Monday,2659
+1424,GP,Gabriel Pereira,7/27/2020,1127,Check,No,,48187540,Banco Do Brasil,che,Monday,7555
+1372,GP,Gabriel Pereira,7/29/2020,1110,Check,No,,99507088,Novobanco,che,Wednesday,5937
+568,GP,Gabriel Pereira,7/30/2020,1238,Credit Card,Yes,6.20918E+15,50505739,Banco Atlantico Europa,cre,Thursday,
+1605,GP,Gabriel Pereira,7/30/2020,1493,Check,No,,33261705,Millennium BCP,che,Thursday,6453
+104,GP,Gabriel Pereira,8/1/2020,969,Cash,No,,19520585,,cas,Saturday,
+685,GP,Gabriel Pereira,8/2/2020,1412,Check,No,,86812259,Banco Palmas,che,Sunday,8528
+550,GP,Gabriel Pereira,8/3/2020,1082,Credit Card,No,8.37082E+15,53310600,Banco Palmas,cre,Monday,
+1617,GP,Gabriel Pereira,8/3/2020,1403,Credit Card,No,1.49679E+15,3172665,Chase,cre,Monday,
+1186,GP,Gabriel Pereira,8/5/2020,1030,Check,No,,35302816,Banco Palmas,che,Wednesday,1770
+1243,GP,Gabriel Pereira,8/6/2020,1555,Check,No,,72725812,Chase,che,Thursday,6188
+1864,GP,Gabriel Pereira,8/7/2020,1149,Credit Card,No,4.99927E+14,17394624,Banco Atlantico Europa,cre,Friday,
+617,GP,Gabriel Pereira,8/8/2020,986,Credit Card,No,2.68593E+15,41022526,Banco Atlantico Europa,cre,Saturday,
+1196,GP,Gabriel Pereira,8/8/2020,1145,Cash,No,,74669861,,cas,Saturday,
+1869,GP,Gabriel Pereira,8/8/2020,1397,Credit Card,No,3.93427E+15,5092600,Millennium BCP,cre,Saturday,
+1151,GP,Gabriel Pereira,8/15/2020,931,Cash,No,,62571976,,cas,Saturday,
+1851,GP,Gabriel Pereira,8/21/2020,942,Credit Card,No,1.80267E+15,10471891,Caixa Geral de Depósitos,cre,Friday,
+195,GP,Gabriel Pereira,8/23/2020,1061,Cash,No,,91380003,,cas,Sunday,
+1019,GP,Gabriel Pereira,8/23/2020,1524,Cash,No,,1491189,,cas,Sunday,
+1200,GP,Gabriel Pereira,8/23/2020,1502,Credit Card,No,6.14049E+15,7963731,Millennium BCP,cre,Sunday,
+1908,GP,Gabriel Pereira,8/23/2020,1252,Check,No,,2006174,Caixa Geral de Depósitos,che,Sunday,4187
+892,GP,Gabriel Pereira,8/25/2020,1045,Cash,No,,68065625,,cas,Tuesday,
+378,GP,Gabriel Pereira,8/26/2020,1462,Credit Card,Yes,8.51404E+15,27238656,Chase,cre,Wednesday,
+500,GP,Gabriel Pereira,8/26/2020,1593,Check,No,,88649767,Banco Atlantico Europa,che,Wednesday,7830
+502,GP,Gabriel Pereira,8/30/2020,1212,Cash,No,,70229604,,cas,Sunday,
+1675,GP,Gabriel Pereira,8/30/2020,1428,Cash,No,,56399812,,cas,Sunday,
+756,GP,Gabriel Pereira,9/1/2020,1477,Cash,No,,5150267,,cas,Tuesday,
+1662,GP,Gabriel Pereira,9/1/2020,1272,Cash,No,,13887402,,cas,Tuesday,
+642,GP,Gabriel Pereira,9/3/2020,1081,Check,No,,86646491,Caixa Geral de Depósitos,che,Thursday,2700
+1600,GP,Gabriel Pereira,9/5/2020,951,Check,No,,1154617,Banco Palmas,che,Saturday,9693
+819,GP,Gabriel Pereira,9/6/2020,1577,Credit Card,No,6.03202E+14,53967379,Banco Cruzeiro do Sul,cre,Sunday,
+1037,GP,Gabriel Pereira,9/7/2020,1440,Credit Card,No,4.14915E+15,5344077,Banco Atlantico Europa,cre,Monday,
+579,GP,Gabriel Pereira,9/10/2020,1337,Check,No,,1572018,Banco Palmas,che,Thursday,8107
+929,GP,Gabriel Pereira,9/10/2020,1463,Cash,Yes,,34778948,,cas,Thursday,
+689,GP,Gabriel Pereira,9/12/2020,1036,Check,No,,33477433,Chase,che,Saturday,8111
+285,GP,Gabriel Pereira,9/13/2020,1294,Credit Card,No,3.88629E+15,72980686,Banco Palmas,cre,Sunday,
+17,GP,Gabriel Pereira,9/15/2020,902,Cash,No,,74687234,,cas,Tuesday,
+529,GP,Gabriel Pereira,9/15/2020,1570,Credit Card,No,3.47355E+15,86559630,Banco Do Brasil,cre,Tuesday,
+991,GP,Gabriel Pereira,9/17/2020,1383,Check,No,,35055738,Banco Palmas,che,Thursday,9079
+1086,GP,Gabriel Pereira,9/17/2020,1245,Credit Card,No,2.74812E+15,50952294,Novobanco,cre,Thursday,
+1628,GP,Gabriel Pereira,9/17/2020,1203,Credit Card,No,3.85805E+15,93912956,Banco Palmas,cre,Thursday,
+52,GP,Gabriel Pereira,9/18/2020,1361,Cash,No,,96499091,,cas,Friday,
+1052,GP,Gabriel Pereira,9/18/2020,979,Check,Yes,,77987682,Novobanco,che,Friday,9287
+1199,GP,Gabriel Pereira,9/19/2020,1306,Cash,No,,21307423,,cas,Saturday,
+7,GP,Gabriel Pereira,9/20/2020,1510,Cash,No,,80184514,,cas,Sunday,
+771,GP,Gabriel Pereira,9/21/2020,1424,Check,Yes,,46602416,Caixa Geral de Depósitos,che,Monday,4139
+1164,GP,Gabriel Pereira,9/22/2020,1545,Cash,No,,28055077,,cas,Tuesday,
+1480,GP,Gabriel Pereira,9/22/2020,1261,Cash,No,,22444189,,cas,Tuesday,
+63,GP,Gabriel Pereira,9/24/2020,1095,Check,No,,21465840,Banco Cruzeiro do Sul,che,Thursday,5891
+441,GP,Gabriel Pereira,9/24/2020,1360,Cash,No,,77002842,,cas,Thursday,
+69,GP,Gabriel Pereira,9/26/2020,1394,Credit Card,No,9.59441E+15,53394210,Banco Cruzeiro do Sul,cre,Saturday,
+1874,GP,Gabriel Pereira,9/26/2020,964,Check,No,,30236416,Banco Do Brasil,che,Saturday,7939
+28,GP,Gabriel Pereira,9/27/2020,1490,Credit Card,No,6.08836E+15,56482366,Chase,cre,Sunday,
+1265,GP,Gabriel Pereira,9/28/2020,997,Check,Yes,,59208814,Banco Do Brasil,che,Monday,2229
+1687,GP,Gabriel Pereira,9/28/2020,977,Check,No,,10356594,Chase,che,Monday,3874
+1901,GP,Gabriel Pereira,9/28/2020,1555,Cash,No,,34759160,,cas,Monday,
+190,GP,Gabriel Pereira,9/29/2020,1015,Credit Card,No,9.18055E+15,91043006,Banco Cruzeiro do Sul,cre,Tuesday,
+1479,GP,Gabriel Pereira,9/30/2020,1436,Cash,No,,68240516,,cas,Wednesday,
+1924,GP,Gabriel Pereira,10/1/2020,1307,Check,No,,31664795,Caixa Geral de Depósitos,che,Thursday,3364
+1502,GP,Gabriel Pereira,10/3/2020,1510,Credit Card,No,7.92373E+14,86497035,Millennium BCP,cre,Saturday,
+391,GP,Gabriel Pereira,10/4/2020,1240,Credit Card,No,4.27174E+15,17410119,Banco Cruzeiro do Sul,cre,Sunday,
+1734,GP,Gabriel Pereira,10/6/2020,1574,Credit Card,No,2.29011E+15,99038035,Caixa Geral de Depósitos,cre,Tuesday,
+1888,GP,Gabriel Pereira,10/6/2020,1001,Cash,No,,97008445,,cas,Tuesday,
+1023,GP,Gabriel Pereira,10/8/2020,1307,Check,Yes,,6271531,Chase,che,Thursday,4581
+1129,GP,Gabriel Pereira,10/8/2020,928,Credit Card,Yes,4.11585E+15,86778231,Chase,cre,Thursday,
+1897,GP,Gabriel Pereira,10/8/2020,1008,Check,No,,39979927,Caixa Geral de Depósitos,che,Thursday,6379
+649,GP,Gabriel Pereira,10/9/2020,1003,Cash,No,,61713665,,cas,Friday,
+1315,GP,Gabriel Pereira,10/9/2020,1324,Check,No,,95368900,Banco Palmas,che,Friday,8616
+859,GP,Gabriel Pereira,10/10/2020,1289,Credit Card,No,8.13236E+15,28501168,Millennium BCP,cre,Saturday,
+666,GP,Gabriel Pereira,10/11/2020,1302,Credit Card,No,4.73235E+15,32512257,Chase,cre,Sunday,
+928,GP,Gabriel Pereira,10/11/2020,1395,Check,No,,97852491,Banco Cruzeiro do Sul,che,Sunday,3038
+1453,GP,Gabriel Pereira,10/12/2020,942,Credit Card,No,8.60276E+15,89445381,Caixa Geral de Depósitos,cre,Monday,
+1868,GP,Gabriel Pereira,10/14/2020,1209,Cash,No,,98970145,,cas,Wednesday,
+943,GP,Gabriel Pereira,10/15/2020,1038,Credit Card,Yes,2.23959E+15,16204787,Novobanco,cre,Thursday,
+1377,GP,Gabriel Pereira,10/16/2020,1067,Check,No,,8059831,Chase,che,Friday,5414
+1773,GP,Gabriel Pereira,10/16/2020,1226,Cash,No,,46532554,,cas,Friday,
+204,GP,Gabriel Pereira,10/20/2020,1425,Credit Card,No,4.20679E+15,23651994,Caixa Geral de Depósitos,cre,Tuesday,
+839,GP,Gabriel Pereira,10/20/2020,1120,Check,No,,84539862,Banco Palmas,che,Tuesday,1111
+149,GP,Gabriel Pereira,10/21/2020,1145,Check,No,,46785445,Banco Atlantico Europa,che,Wednesday,8635
+276,GP,Gabriel Pereira,10/21/2020,1272,Check,Yes,,39282722,Chase,che,Wednesday,8921
+731,GP,Gabriel Pereira,10/22/2020,1137,Cash,No,,91452118,,cas,Thursday,
+1188,GP,Gabriel Pereira,10/23/2020,1498,Credit Card,No,3.21029E+15,83104384,Caixa Geral de Depósitos,cre,Friday,
+1455,GP,Gabriel Pereira,10/24/2020,1315,Credit Card,No,9.5218E+15,24860704,Banco Atlantico Europa,cre,Saturday,
+1149,GP,Gabriel Pereira,10/25/2020,1528,Check,No,,97089058,Banco Do Brasil,che,Sunday,8043
+298,GP,Gabriel Pereira,10/26/2020,1589,Check,No,,18275539,Banco Cruzeiro do Sul,che,Monday,3994
+569,GP,Gabriel Pereira,10/28/2020,1527,Credit Card,No,7.16493E+15,72717833,Banco Do Brasil,cre,Wednesday,
+1608,GP,Gabriel Pereira,10/28/2020,1575,Credit Card,Yes,7.58016E+15,2853272,Banco Atlantico Europa,cre,Wednesday,
+895,GP,Gabriel Pereira,10/29/2020,1458,Credit Card,No,6.28137E+15,70033228,Banco Palmas,cre,Thursday,
+1823,GP,Gabriel Pereira,10/29/2020,1534,Cash,No,,6754939,,cas,Thursday,
+1914,GP,Gabriel Pereira,10/29/2020,1006,Cash,No,,6701512,,cas,Thursday,
+631,GP,Gabriel Pereira,10/30/2020,1318,Check,No,,27589551,Novobanco,che,Friday,9289
+1215,GP,Gabriel Pereira,10/30/2020,1576,Credit Card,No,4.63976E+15,12151641,Caixa Geral de Depósitos,cre,Friday,
+1450,GP,Gabriel Pereira,10/30/2020,949,Cash,No,,6306636,,cas,Friday,
+327,GP,Gabriel Pereira,10/31/2020,1416,Cash,No,,89755855,,cas,Saturday,
+1255,GP,Gabriel Pereira,10/31/2020,1205,Credit Card,No,9.18549E+15,98778735,Banco Palmas,cre,Saturday,
+1714,GP,Gabriel Pereira,10/31/2020,1336,Credit Card,No,4.77619E+15,82905256,Banco Palmas,cre,Saturday,
+1305,GP,Gabriel Pereira,11/1/2020,1166,Check,No,,90922884,Banco Atlantico Europa,che,Sunday,5417
+776,GP,Gabriel Pereira,11/3/2020,933,Check,No,,17851385,Banco Cruzeiro do Sul,che,Tuesday,5781
+1405,GP,Gabriel Pereira,11/5/2020,1466,Credit Card,No,4.1859E+15,84507860,Banco Cruzeiro do Sul,cre,Thursday,
+1560,GP,Gabriel Pereira,11/5/2020,1036,Check,No,,50460700,Caixa Geral de Depósitos,che,Thursday,5817
+235,GP,Gabriel Pereira,11/6/2020,1297,Check,Yes,,93538758,Banco Cruzeiro do Sul,che,Friday,3785
+1056,GP,Gabriel Pereira,11/7/2020,1068,Cash,Yes,,52857256,,cas,Saturday,
+1517,GP,Gabriel Pereira,11/7/2020,1195,Check,No,,33026509,Novobanco,che,Saturday,4066
+1421,GP,Gabriel Pereira,11/9/2020,1301,Credit Card,Yes,8.20392E+14,59624587,Millennium BCP,cre,Monday,
+1008,GP,Gabriel Pereira,11/10/2020,1112,Credit Card,No,9.87951E+15,48188044,Chase,cre,Tuesday,
+1968,GP,Gabriel Pereira,11/10/2020,908,Credit Card,No,9.11343E+15,27686127,Banco Do Brasil,cre,Tuesday,
+296,GP,Gabriel Pereira,11/11/2020,1418,Credit Card,No,8.45185E+15,79071416,Banco Do Brasil,cre,Wednesday,
+1187,GP,Gabriel Pereira,11/11/2020,1159,Cash,No,,5937775,,cas,Wednesday,
+1173,GP,Gabriel Pereira,11/12/2020,1398,Check,No,,696801,Novobanco,che,Thursday,8196
+710,GP,Gabriel Pereira,11/14/2020,1331,Check,No,,97327021,Novobanco,che,Saturday,5315
+863,GP,Gabriel Pereira,11/18/2020,1454,Credit Card,No,2.53667E+15,83333939,Banco Palmas,cre,Wednesday,
+553,GP,Gabriel Pereira,11/19/2020,1208,Check,No,,18924195,Novobanco,che,Thursday,3177
+1426,GP,Gabriel Pereira,11/19/2020,1055,Credit Card,No,3.60668E+15,49722042,Novobanco,cre,Thursday,
+1013,GP,Gabriel Pereira,11/20/2020,1186,Cash,No,,88031538,,cas,Friday,
+1982,GP,Gabriel Pereira,11/20/2020,1161,Cash,No,,46648674,,cas,Friday,
+254,GP,Gabriel Pereira,11/22/2020,936,Check,No,,19948837,Banco Palmas,che,Sunday,6953
+328,GP,Gabriel Pereira,11/22/2020,1548,Cash,No,,59398368,,cas,Sunday,
+1227,GP,Gabriel Pereira,11/24/2020,1590,Credit Card,No,3.15949E+15,34544344,Caixa Geral de Depósitos,cre,Tuesday,
+78,GP,Gabriel Pereira,11/25/2020,1247,Cash,No,,15654527,,cas,Wednesday,
+641,GP,Gabriel Pereira,11/25/2020,1320,Cash,No,,86851276,,cas,Wednesday,
+1572,GP,Gabriel Pereira,11/26/2020,995,Credit Card,No,8.1498E+15,92964447,Banco Atlantico Europa,cre,Thursday,
+1854,GP,Gabriel Pereira,11/26/2020,901,Check,No,,6714878,Banco Do Brasil,che,Thursday,2133
+1703,GP,Gabriel Pereira,11/27/2020,1050,Credit Card,No,6.34444E+15,12335761,Banco Atlantico Europa,cre,Friday,
+172,GP,Gabriel Pereira,11/29/2020,987,Credit Card,No,2.54574E+15,1051238,Chase,cre,Sunday,
+197,GP,Gabriel Pereira,11/30/2020,1227,Cash,No,,95180238,,cas,Monday,
+1921,GP,Gabriel Pereira,12/1/2020,1225,Cash,No,,6129889,,cas,Tuesday,
+1250,GP,Gabriel Pereira,12/4/2020,982,Cash,No,,12920592,,cas,Friday,
+1400,GP,Gabriel Pereira,12/4/2020,1472,Check,Yes,,72386410,Millennium BCP,che,Friday,6552
+1909,GP,Gabriel Pereira,12/4/2020,1216,Cash,No,,59476121,,cas,Friday,
+127,GP,Gabriel Pereira,12/5/2020,1055,Cash,No,,68970283,,cas,Saturday,
+919,GP,Gabriel Pereira,12/5/2020,1385,Credit Card,No,8.61115E+15,92378584,Banco Atlantico Europa,cre,Saturday,
+207,GP,Gabriel Pereira,12/6/2020,1104,Check,No,,83806578,Banco Atlantico Europa,che,Sunday,6636
+1336,GP,Gabriel Pereira,12/6/2020,1124,Check,No,,1915305,Banco Atlantico Europa,che,Sunday,4358
+588,GP,Gabriel Pereira,12/7/2020,1057,Cash,No,,66093141,,cas,Monday,
+827,GP,Gabriel Pereira,12/7/2020,1582,Cash,No,,10173973,,cas,Monday,
+1150,GP,Gabriel Pereira,12/7/2020,1461,Credit Card,No,2.69E+15,88891787,Caixa Geral de Depósitos,cre,Monday,
+1496,GP,Gabriel Pereira,12/9/2020,1408,Cash,No,,98188907,,cas,Wednesday,
+1503,GP,Gabriel Pereira,12/9/2020,1402,Cash,No,,96833557,,cas,Wednesday,
+1641,GP,Gabriel Pereira,12/11/2020,1041,Cash,No,,51502045,,cas,Friday,
+452,GP,Gabriel Pereira,12/12/2020,1562,Credit Card,No,4.20448E+15,65162319,Caixa Geral de Depósitos,cre,Saturday,
+526,GP,Gabriel Pereira,12/12/2020,1252,Credit Card,No,3.15378E+15,17073033,Banco Atlantico Europa,cre,Saturday,
+1717,GP,Gabriel Pereira,12/12/2020,1078,Credit Card,Yes,5.13187E+14,91478524,Banco Atlantico Europa,cre,Saturday,
+1543,GP,Gabriel Pereira,12/15/2020,1393,Check,No,,8264931,Chase,che,Tuesday,3006
+1647,GP,Gabriel Pereira,12/16/2020,1484,Credit Card,Yes,6.304E+15,98226731,Chase,cre,Wednesday,
+1626,GP,Gabriel Pereira,12/18/2020,1342,Cash,No,,80937616,,cas,Friday,
+735,GP,Gabriel Pereira,12/19/2020,979,Cash,No,,2812371,,cas,Saturday,
+534,GP,Gabriel Pereira,12/20/2020,1361,Cash,No,,57546027,,cas,Sunday,
+1209,GP,Gabriel Pereira,12/22/2020,989,Check,No,,7610870,Chase,che,Tuesday,7374
+678,GP,Gabriel Pereira,12/23/2020,1377,Cash,No,,70806129,,cas,Wednesday,
+806,GP,Gabriel Pereira,12/23/2020,1305,Cash,No,,80850960,,cas,Wednesday,
+1992,GP,Gabriel Pereira,12/24/2020,1489,Cash,No,,17562752,,cas,Thursday,
+1022,GP,Gabriel Pereira,12/25/2020,1345,Check,Yes,,11260030,Banco Do Brasil,che,Friday,6919
+1360,GP,Gabriel Pereira,12/25/2020,1156,Credit Card,Yes,6.32714E+15,38687906,Millennium BCP,cre,Friday,
+538,GP,Gabriel Pereira,12/26/2020,1327,Credit Card,No,8.05292E+15,45909022,Banco Palmas,cre,Saturday,
+653,GP,Gabriel Pereira,12/27/2020,1104,Check,No,,17208496,Banco Cruzeiro do Sul,che,Sunday,9691
+1460,GP,Gabriel Pereira,12/27/2020,1238,Cash,No,,83359748,,cas,Sunday,
+1866,GP,Gabriel Pereira,12/29/2020,906,Cash,No,,17357921,,cas,Tuesday,
+1197,GP,Gabriel Pereira,12/30/2020,1113,Cash,No,,25450809,,cas,Wednesday,
+778,GP,Gabriel Pereira,12/31/2020,1325,Credit Card,No,4.87368E+15,42268653,Novobanco,cre,Thursday,
+836,GP,Gabriel Pereira,12/31/2020,1279,Cash,No,,35851253,,cas,Thursday,
+1893,GP,Gabriel Pereira,1/1/2021,969,Cash,No,,22935545,,cas,Friday,
+877,GP,Gabriel Pereira,1/3/2021,1138,Credit Card,Yes,1.65837E+15,80123428,Banco Do Brasil,cre,Sunday,
+493,GP,Gabriel Pereira,1/5/2021,962,Cash,No,,29084668,,cas,Tuesday,
+1032,GP,Gabriel Pereira,1/6/2021,1576,Cash,Yes,,86965613,,cas,Wednesday,
+8,GP,Gabriel Pereira,1/7/2021,1061,Cash,Yes,,48281489,,cas,Thursday,
+164,GP,Gabriel Pereira,1/7/2021,1182,Cash,No,,15437993,,cas,Thursday,
+1887,GP,Gabriel Pereira,1/7/2021,1486,Credit Card,No,8.09166E+15,33045441,Millennium BCP,cre,Thursday,
+42,GP,Gabriel Pereira,1/9/2021,1506,Cash,No,,31473799,,cas,Saturday,
+1690,GP,Gabriel Pereira,1/10/2021,1526,Cash,No,,86542438,,cas,Sunday,
+1951,GP,Gabriel Pereira,1/10/2021,1200,Credit Card,No,7.86269E+15,8778347,Caixa Geral de Depósitos,cre,Sunday,
+1099,GP,Gabriel Pereira,1/11/2021,1052,Credit Card,No,1.8327E+15,1107977,Caixa Geral de Depósitos,cre,Monday,
+1684,GP,Gabriel Pereira,1/16/2021,1321,Cash,No,,11861564,,cas,Saturday,
+90,GP,Gabriel Pereira,1/17/2021,969,Cash,No,,44905814,,cas,Sunday,
+1755,GP,Gabriel Pereira,1/18/2021,1355,Cash,No,,59070554,,cas,Monday,
+252,GP,Gabriel Pereira,1/19/2021,947,Credit Card,No,5.08994E+15,28900287,Banco Atlantico Europa,cre,Tuesday,
+338,GP,Gabriel Pereira,1/19/2021,945,Credit Card,No,5.21104E+15,53833884,Banco Atlantico Europa,cre,Tuesday,
+1458,GP,Gabriel Pereira,1/22/2021,1480,Cash,Yes,,64531579,,cas,Friday,
+1861,GP,Gabriel Pereira,1/22/2021,1009,Check,No,,60049021,Banco Cruzeiro do Sul,che,Friday,5695
+310,GP,Gabriel Pereira,1/24/2021,1541,Credit Card,No,2.00558E+15,79688457,Banco Do Brasil,cre,Sunday,
+369,GP,Gabriel Pereira,1/25/2021,951,Credit Card,Yes,1.60166E+14,81792171,Banco Atlantico Europa,cre,Monday,
+748,GP,Gabriel Pereira,1/25/2021,945,Cash,No,,86204485,,cas,Monday,
+784,GP,Gabriel Pereira,1/25/2021,1147,Credit Card,No,8.19524E+15,48198077,Millennium BCP,cre,Monday,
+985,GP,Gabriel Pereira,1/25/2021,1579,Credit Card,No,2.36534E+15,784361,Banco Cruzeiro do Sul,cre,Monday,
+162,GP,Gabriel Pereira,1/27/2021,1268,Cash,No,,12678886,,cas,Wednesday,
+1269,GP,Gabriel Pereira,1/28/2021,1174,Check,No,,96694179,Novobanco,che,Thursday,8936
+1202,GP,Gabriel Pereira,1/31/2021,994,Check,No,,23542687,Banco Cruzeiro do Sul,che,Sunday,5375
+1640,GP,Gabriel Pereira,2/1/2021,1132,Check,No,,29545038,Millennium BCP,che,Monday,2039
+870,GP,Gabriel Pereira,2/2/2021,920,Cash,No,,95515122,,cas,Tuesday,
+1809,GP,Gabriel Pereira,2/2/2021,1158,Cash,No,,3607854,,cas,Tuesday,
+1163,GP,Gabriel Pereira,2/3/2021,1098,Check,No,,44883842,Banco Palmas,che,Wednesday,4733
+419,GP,Gabriel Pereira,2/4/2021,1452,Credit Card,No,1.06728E+15,29751702,Caixa Geral de Depósitos,cre,Thursday,
+963,GP,Gabriel Pereira,2/5/2021,1029,Credit Card,No,4.55938E+15,26351004,Novobanco,cre,Friday,
+1069,GP,Gabriel Pereira,2/5/2021,1552,Cash,No,,46202582,,cas,Friday,
+1841,GP,Gabriel Pereira,2/6/2021,1281,Credit Card,No,5.71165E+15,18073920,Millennium BCP,cre,Saturday,
+632,GP,Gabriel Pereira,2/7/2021,1169,Check,Yes,,3802146,Chase,che,Sunday,7541
+1368,GP,Gabriel Pereira,2/8/2021,1375,Credit Card,No,1.63705E+15,44693172,Banco Cruzeiro do Sul,cre,Monday,
+809,GP,Gabriel Pereira,2/10/2021,1055,Check,No,,29578606,Banco Cruzeiro do Sul,che,Wednesday,1104
+1822,GP,Gabriel Pereira,2/10/2021,1415,Cash,No,,55404231,,cas,Wednesday,
+376,GP,Gabriel Pereira,2/13/2021,1444,Cash,No,,97335494,,cas,Saturday,
+1922,GP,Gabriel Pereira,2/15/2021,1056,Check,No,,68092826,Caixa Geral de Depósitos,che,Monday,7187
+634,GP,Gabriel Pereira,2/16/2021,939,Check,No,,72359096,Millennium BCP,che,Tuesday,6922
+1612,GP,Gabriel Pereira,2/19/2021,1018,Credit Card,No,8.42528E+15,10242344,Banco Atlantico Europa,cre,Friday,
+1753,GP,Gabriel Pereira,2/20/2021,1394,Cash,No,,29441492,,cas,Saturday,
+1236,GP,Gabriel Pereira,2/22/2021,1199,Credit Card,No,3.10438E+15,94690217,Banco Atlantico Europa,cre,Monday,
+165,GP,Gabriel Pereira,2/23/2021,1009,Credit Card,No,6.59658E+15,26547935,Novobanco,cre,Tuesday,
+1411,GP,Gabriel Pereira,2/23/2021,906,Check,No,,49426942,Millennium BCP,che,Tuesday,4379
+201,GP,Gabriel Pereira,2/24/2021,986,Check,Yes,,26199062,Banco Do Brasil,che,Wednesday,5778
+730,GP,Gabriel Pereira,2/25/2021,1107,Credit Card,No,9.76461E+15,7658173,Millennium BCP,cre,Thursday,
+761,GP,Gabriel Pereira,2/25/2021,1305,Credit Card,No,2.32441E+15,72517863,Banco Atlantico Europa,cre,Thursday,
+1896,GP,Gabriel Pereira,2/25/2021,1343,Check,No,,28989930,Banco Atlantico Europa,che,Thursday,5600
+1736,GP,Gabriel Pereira,2/27/2021,1476,Check,Yes,,53472839,Banco Palmas,che,Saturday,2523
+1461,GP,Gabriel Pereira,2/28/2021,1305,Check,No,,57023771,Banco Cruzeiro do Sul,che,Sunday,5003
+318,GP,Gabriel Pereira,3/1/2021,996,Check,No,,37645208,Caixa Geral de Depósitos,che,Monday,5150
+1153,GP,Gabriel Pereira,3/1/2021,1398,Cash,No,,12746921,,cas,Monday,
+1832,GP,Gabriel Pereira,3/1/2021,979,Cash,No,,36080901,,cas,Monday,
+388,GP,Gabriel Pereira,3/2/2021,1591,Check,No,,93852580,Millennium BCP,che,Tuesday,2113
+91,GP,Gabriel Pereira,3/3/2021,1362,Credit Card,Yes,4.11999E+15,78207151,Chase,cre,Wednesday,
+1840,GP,Gabriel Pereira,3/3/2021,981,Cash,No,,49066886,,cas,Wednesday,
+451,GP,Gabriel Pereira,3/5/2021,1051,Credit Card,No,4.66514E+15,23034778,Novobanco,cre,Friday,
+887,GP,Gabriel Pereira,3/5/2021,1517,Check,No,,76342507,Banco Do Brasil,che,Friday,4659
+1900,GP,Gabriel Pereira,3/5/2021,1600,Check,No,,44107692,Novobanco,che,Friday,3219
+1096,GP,Gabriel Pereira,3/7/2021,986,Credit Card,No,6.71307E+15,36213009,Novobanco,cre,Sunday,
+1341,GP,Gabriel Pereira,3/7/2021,1155,Credit Card,No,6.34359E+15,80664051,Caixa Geral de Depósitos,cre,Sunday,
+1639,GP,Gabriel Pereira,3/7/2021,1069,Check,No,,7342939,Millennium BCP,che,Sunday,8658
+683,GP,Gabriel Pereira,3/8/2021,1326,Cash,No,,47196094,,cas,Monday,
+1859,GP,Gabriel Pereira,3/8/2021,1513,Cash,No,,69894848,,cas,Monday,
+768,GP,Gabriel Pereira,3/9/2021,1188,Credit Card,No,7.75095E+15,60754091,Banco Palmas,cre,Tuesday,
+30,GP,Gabriel Pereira,3/10/2021,1352,Cash,No,,87214895,,cas,Wednesday,
+1658,GP,Gabriel Pereira,3/12/2021,1422,Check,No,,76720005,Chase,che,Friday,2323
+1925,GP,Gabriel Pereira,3/12/2021,1496,Check,No,,12428535,Banco Cruzeiro do Sul,che,Friday,2363
+367,GP,Gabriel Pereira,3/14/2021,947,Credit Card,No,4.09435E+15,24109881,Banco Do Brasil,cre,Sunday,
+1467,GP,Gabriel Pereira,3/14/2021,1123,Credit Card,No,6.80665E+15,5952984,Chase,cre,Sunday,
+702,GP,Gabriel Pereira,3/15/2021,1143,Credit Card,No,4.41385E+15,1495427,Banco Atlantico Europa,cre,Monday,
+1297,GP,Gabriel Pereira,3/16/2021,1490,Credit Card,No,2.86693E+15,32601193,Caixa Geral de Depósitos,cre,Tuesday,
+805,GP,Gabriel Pereira,3/17/2021,1133,Cash,No,,34490216,,cas,Wednesday,
+1564,GP,Gabriel Pereira,3/22/2021,1234,Credit Card,No,5.9994E+15,51135053,Banco Palmas,cre,Monday,
+1302,GP,Gabriel Pereira,3/23/2021,1397,Credit Card,No,2.89666E+15,16101975,Banco Do Brasil,cre,Tuesday,
+783,GP,Gabriel Pereira,3/25/2021,1104,Cash,No,,10397739,,cas,Thursday,
+1538,GP,Gabriel Pereira,3/26/2021,1278,Credit Card,No,9.52475E+15,98532436,Banco Atlantico Europa,cre,Friday,
+46,GP,Gabriel Pereira,3/27/2021,1466,Check,No,,85574443,Caixa Geral de Depósitos,che,Saturday,4155
+1339,GP,Gabriel Pereira,3/27/2021,1378,Credit Card,No,9.03501E+15,35434046,Novobanco,cre,Saturday,
+1316,GP,Gabriel Pereira,4/1/2021,1519,Cash,Yes,,17325900,,cas,Thursday,
+682,GP,Gabriel Pereira,4/2/2021,1391,Cash,No,,19754661,,cas,Friday,
+1352,GP,Gabriel Pereira,4/2/2021,1273,Check,No,,64633953,Banco Cruzeiro do Sul,che,Friday,2486
+591,GP,Gabriel Pereira,4/3/2021,1506,Credit Card,No,8.22269E+15,78446834,Caixa Geral de Depósitos,cre,Saturday,
+627,GP,Gabriel Pereira,4/3/2021,1500,Credit Card,No,2.71133E+15,45960633,Caixa Geral de Depósitos,cre,Saturday,
+287,GP,Gabriel Pereira,4/4/2021,1138,Credit Card,No,8.64301E+15,12694486,Banco Palmas,cre,Sunday,
+1174,GP,Gabriel Pereira,4/4/2021,1169,Credit Card,No,3.78423E+15,77625503,Chase,cre,Sunday,
+372,GP,Gabriel Pereira,4/7/2021,1372,Credit Card,No,5.99282E+15,63938276,Caixa Geral de Depósitos,cre,Wednesday,
+148,GP,Gabriel Pereira,4/8/2021,1113,Cash,No,,3317393,,cas,Thursday,
+1882,GP,Gabriel Pereira,4/8/2021,1591,Credit Card,No,7.03863E+15,23300805,Novobanco,cre,Thursday,
+431,GP,Gabriel Pereira,4/9/2021,1256,Cash,No,,27985240,,cas,Friday,
+1786,GP,Gabriel Pereira,4/10/2021,1218,Cash,No,,69351021,,cas,Saturday,
+319,GP,Gabriel Pereira,4/12/2021,1553,Cash,No,,3136502,,cas,Monday,
+362,GP,Gabriel Pereira,4/13/2021,1059,Check,No,,85760849,Banco Palmas,che,Tuesday,9779
+1676,GP,Gabriel Pereira,4/13/2021,1185,Check,No,,22551741,Chase,che,Tuesday,6286
+251,GP,Gabriel Pereira,4/15/2021,1482,Check,No,,96590277,Caixa Geral de Depósitos,che,Thursday,7738
+1439,GP,Gabriel Pereira,4/16/2021,1144,Check,No,,89514563,Banco Cruzeiro do Sul,che,Friday,1606
+2000,GP,Gabriel Pereira,4/16/2021,1485,Check,Yes,,66602865,Banco Do Brasil,che,Friday,9999
+849,GP,Gabriel Pereira,4/18/2021,1524,Cash,No,,40803149,,cas,Sunday,
+1793,GP,Gabriel Pereira,4/18/2021,1489,Cash,No,,75456572,,cas,Sunday,
+177,GP,Gabriel Pereira,4/19/2021,1039,Credit Card,No,8.87677E+15,38427978,Caixa Geral de Depósitos,cre,Monday,
+1749,GP,Gabriel Pereira,4/19/2021,1173,Check,No,,62720536,Banco Cruzeiro do Sul,che,Monday,2031
+724,GP,Gabriel Pereira,4/21/2021,1124,Cash,No,,4763928,,cas,Wednesday,
+483,GP,Gabriel Pereira,4/22/2021,1425,Check,No,,73080695,Caixa Geral de Depósitos,che,Thursday,5388
+488,GP,Gabriel Pereira,4/23/2021,1164,Cash,No,,8428910,,cas,Friday,
+1768,GP,Gabriel Pereira,4/23/2021,1145,Cash,No,,58960707,,cas,Friday,
+1913,GP,Gabriel Pereira,4/26/2021,1319,Credit Card,No,9.04601E+15,22209755,Millennium BCP,cre,Monday,
+1403,GP,Gabriel Pereira,4/27/2021,1563,Check,No,,14378844,Banco Do Brasil,che,Tuesday,8488
+1591,GP,Gabriel Pereira,4/28/2021,1274,Check,No,,69764878,Banco Cruzeiro do Sul,che,Wednesday,7977
+1972,GP,Gabriel Pereira,4/28/2021,955,Cash,No,,17103891,,cas,Wednesday,
+263,GP,Gabriel Pereira,5/1/2021,1486,Check,No,,58328182,Novobanco,che,Saturday,9897
+1304,GP,Gabriel Pereira,5/1/2021,1119,Credit Card,No,7.63628E+15,53096906,Banco Atlantico Europa,cre,Saturday,
+300,GP,Gabriel Pereira,5/2/2021,1087,Check,No,,39208678,Millennium BCP,che,Sunday,9232
+474,GP,Gabriel Pereira,5/2/2021,1342,Check,No,,49251583,Banco Atlantico Europa,che,Sunday,8298
+1920,GP,Gabriel Pereira,5/2/2021,1318,Credit Card,No,6.06472E+15,77884070,Banco Cruzeiro do Sul,cre,Sunday,
+442,GP,Gabriel Pereira,5/3/2021,1341,Credit Card,No,6.71979E+15,79695450,Millennium BCP,cre,Monday,
+72,GP,Gabriel Pereira,5/5/2021,1018,Credit Card,No,8.26759E+15,53773515,Banco Palmas,cre,Wednesday,
+1729,GP,Gabriel Pereira,5/5/2021,1032,Credit Card,No,7.0322E+15,87129514,Banco Palmas,cre,Wednesday,
+216,GP,Gabriel Pereira,5/6/2021,1287,Cash,No,,17932710,,cas,Thursday,
+658,GP,Gabriel Pereira,5/8/2021,1527,Credit Card,No,7.71591E+15,13580040,Caixa Geral de Depósitos,cre,Saturday,
+1247,GP,Gabriel Pereira,5/8/2021,1004,Credit Card,No,7.64339E+15,26549633,Millennium BCP,cre,Saturday,
+1053,GP,Gabriel Pereira,5/15/2021,1057,Credit Card,No,9.37086E+15,66957900,Caixa Geral de Depósitos,cre,Saturday,
+1542,GP,Gabriel Pereira,5/15/2021,1113,Cash,No,,7201489,,cas,Saturday,
+1567,GP,Gabriel Pereira,5/16/2021,1472,Check,No,,3789121,Banco Do Brasil,che,Sunday,8284
+303,GP,Gabriel Pereira,5/18/2021,1334,Credit Card,No,5.56473E+15,32270267,Chase,cre,Tuesday,
+450,GP,Gabriel Pereira,5/19/2021,1118,Check,No,,74896908,Banco Do Brasil,che,Wednesday,6968
+937,GP,Gabriel Pereira,5/19/2021,1419,Check,No,,79352196,Chase,che,Wednesday,7619
+765,GP,Gabriel Pereira,5/20/2021,1092,Credit Card,No,6.15626E+15,68171516,Millennium BCP,cre,Thursday,
+913,GP,Gabriel Pereira,5/20/2021,1227,Cash,Yes,,76816995,,cas,Thursday,
+1322,GP,Gabriel Pereira,5/21/2021,1438,Cash,No,,40837819,,cas,Friday,
+1579,GP,Gabriel Pereira,5/21/2021,946,Cash,No,,50220619,,cas,Friday,
+1993,GP,Gabriel Pereira,5/22/2021,907,Credit Card,No,1.73448E+15,83264897,Caixa Geral de Depósitos,cre,Saturday,
+414,GP,Gabriel Pereira,5/23/2021,1439,Credit Card,No,8.84795E+15,24127238,Millennium BCP,cre,Sunday,
+1399,GP,Gabriel Pereira,5/23/2021,1298,Check,No,,90254853,Novobanco,che,Sunday,3241
+727,GP,Gabriel Pereira,5/24/2021,1307,Cash,Yes,,44033041,,cas,Monday,
+334,GP,Gabriel Pereira,5/25/2021,1126,Credit Card,Yes,6.79981E+15,8641686,Chase,cre,Tuesday,
+1066,GP,Gabriel Pereira,5/25/2021,1031,Cash,No,,11650200,,cas,Tuesday,
+1115,GP,Gabriel Pereira,5/26/2021,1487,Credit Card,No,6.88391E+15,16091141,Banco Do Brasil,cre,Wednesday,
+669,GP,Gabriel Pereira,5/27/2021,1071,Credit Card,No,1.45776E+15,89714802,Novobanco,cre,Thursday,
+945,GP,Gabriel Pereira,5/27/2021,1411,Credit Card,No,3.19542E+15,3627924,Novobanco,cre,Thursday,
+76,GP,Gabriel Pereira,5/28/2021,1126,Check,Yes,,84700766,Caixa Geral de Depósitos,che,Friday,9032
+608,GP,Gabriel Pereira,5/28/2021,1437,Cash,No,,34481230,,cas,Friday,
+646,GP,Gabriel Pereira,5/29/2021,1021,Check,No,,64825311,Millennium BCP,che,Saturday,8166
+1558,GP,Gabriel Pereira,6/3/2021,1483,Check,No,,519567,Banco Palmas,che,Thursday,7584
+1875,GP,Gabriel Pereira,6/3/2021,1093,Cash,No,,99167640,,cas,Thursday,
+1835,GP,Gabriel Pereira,6/6/2021,1384,Check,No,,51856905,Millennium BCP,che,Sunday,7255
+290,GP,Gabriel Pereira,6/7/2021,1310,Cash,No,,90260127,,cas,Monday,
+1733,GP,Gabriel Pereira,6/7/2021,1422,Cash,No,,65699313,,cas,Monday,
+1664,GP,Gabriel Pereira,6/13/2021,1132,Credit Card,No,8.63647E+15,70368830,Millennium BCP,cre,Sunday,
+1794,GP,Gabriel Pereira,6/14/2021,1478,Cash,No,,69348540,,cas,Monday,
+1941,GP,Gabriel Pereira,6/16/2021,1164,Cash,No,,13401929,,cas,Wednesday,
+14,GP,Gabriel Pereira,6/18/2021,1143,Cash,No,,38299737,,cas,Friday,
+1963,GP,Gabriel Pereira,6/18/2021,1273,Cash,No,,83952525,,cas,Friday,
+280,GP,Gabriel Pereira,6/19/2021,1558,Cash,No,,22591365,,cas,Saturday,
+1141,GP,Gabriel Pereira,6/19/2021,1058,Check,No,,45792714,Banco Atlantico Europa,che,Saturday,3253
+1476,GP,Gabriel Pereira,6/21/2021,1338,Check,No,,49638309,Banco Atlantico Europa,che,Monday,3525
+1095,GP,Gabriel Pereira,6/23/2021,943,Check,Yes,,15712901,Banco Palmas,che,Wednesday,1996
+1326,GP,Gabriel Pereira,6/23/2021,1433,Check,No,,91141600,Caixa Geral de Depósitos,che,Wednesday,7299
+1120,GP,Gabriel Pereira,6/24/2021,1007,Credit Card,No,9.26649E+15,48694155,Banco Cruzeiro do Sul,cre,Thursday,
+1002,GP,Gabriel Pereira,6/26/2021,1051,Check,No,,68157245,Millennium BCP,che,Saturday,1542
+60,GP,Gabriel Pereira,6/27/2021,1270,Check,No,,70348247,Banco Atlantico Europa,che,Sunday,2989
+114,GP,Gabriel Pereira,6/27/2021,1056,Cash,No,,53584143,,cas,Sunday,
+429,GP,Gabriel Pereira,6/27/2021,1188,Cash,No,,65213283,,cas,Sunday,
+1047,GP,Gabriel Pereira,6/27/2021,1050,Credit Card,No,6.82122E+14,87146921,Chase,cre,Sunday,
+532,GP,Gabriel Pereira,6/28/2021,1375,Credit Card,No,5.87775E+15,34669254,Caixa Geral de Depósitos,cre,Monday,
+584,GP,Gabriel Pereira,6/28/2021,1498,Check,No,,13129208,Banco Atlantico Europa,che,Monday,6149
+1031,GP,Gabriel Pereira,6/30/2021,1521,Credit Card,No,9.53828E+15,50826958,Chase,cre,Wednesday,
+496,GP,Gabriel Pereira,7/1/2021,1453,Cash,No,,88485200,,cas,Thursday,
+1273,GP,Gabriel Pereira,7/1/2021,1006,Credit Card,Yes,8.98306E+15,85630275,Millennium BCP,cre,Thursday,
+1620,GP,Gabriel Pereira,7/3/2021,1016,Check,Yes,,48028354,Caixa Geral de Depósitos,che,Saturday,6490
+453,GP,Gabriel Pereira,7/4/2021,1580,Check,No,,84713915,Banco Palmas,che,Sunday,7388
+586,GP,Gabriel Pereira,7/6/2021,1260,Check,No,,31030324,Banco Do Brasil,che,Tuesday,3198
+794,GP,Gabriel Pereira,7/6/2021,1153,Credit Card,No,2.33721E+15,3339977,Caixa Geral de Depósitos,cre,Tuesday,
+1395,GP,Gabriel Pereira,7/7/2021,1270,Cash,No,,6349429,,cas,Wednesday,
+1614,GP,Gabriel Pereira,7/9/2021,1140,Credit Card,No,4.00952E+15,21914390,Banco Atlantico Europa,cre,Friday,
+1834,GP,Gabriel Pereira,7/10/2021,1412,Check,Yes,,93046163,Caixa Geral de Depósitos,che,Saturday,7678
+1457,GP,Gabriel Pereira,7/14/2021,1350,Check,Yes,,22441339,Banco Palmas,che,Wednesday,6039
+1743,GP,Gabriel Pereira,7/14/2021,1295,Check,No,,26751199,Banco Atlantico Europa,che,Wednesday,7953
+1740,GP,Gabriel Pereira,7/15/2021,1123,Credit Card,No,3.06886E+15,64583744,Banco Palmas,cre,Thursday,
+1849,GP,Gabriel Pereira,7/15/2021,1466,Cash,No,,79098636,,cas,Thursday,
+209,GP,Gabriel Pereira,7/20/2021,1266,Check,No,,21334803,Novobanco,che,Tuesday,6813
+1597,GP,Gabriel Pereira,7/20/2021,1037,Credit Card,No,8.23372E+15,63632863,Millennium BCP,cre,Tuesday,
+410,GP,Gabriel Pereira,7/23/2021,933,Cash,No,,49893195,,cas,Friday,
+1802,GP,Gabriel Pereira,7/23/2021,1469,Cash,No,,75311980,,cas,Friday,
+1871,GP,Gabriel Pereira,7/23/2021,1210,Check,No,,99086723,Banco Do Brasil,che,Friday,2205
+589,GP,Gabriel Pereira,7/24/2021,1012,Check,No,,15155423,Banco Cruzeiro do Sul,che,Saturday,1161
+1213,GP,Gabriel Pereira,7/24/2021,956,Cash,No,,74130753,,cas,Saturday,
+619,GP,Gabriel Pereira,7/26/2021,1449,Credit Card,No,9.68931E+15,5524728,Novobanco,cre,Monday,
+609,GP,Gabriel Pereira,7/28/2021,1143,Cash,Yes,,24240338,,cas,Wednesday,
+1387,GP,Gabriel Pereira,7/28/2021,1087,Cash,No,,62472863,,cas,Wednesday,
+1548,GP,Gabriel Pereira,7/28/2021,1002,Cash,Yes,,98410167,,cas,Wednesday,
+1268,GP,Gabriel Pereira,7/29/2021,1293,Credit Card,No,5.91257E+15,94607429,Millennium BCP,cre,Thursday,
+480,GP,Gabriel Pereira,7/30/2021,918,Credit Card,No,2.77697E+14,3103037,Chase,cre,Friday,
+993,GP,Gabriel Pereira,7/31/2021,974,Credit Card,No,8.72334E+15,73153911,Banco Cruzeiro do Sul,cre,Saturday,
+1182,GP,Gabriel Pereira,7/31/2021,1518,Credit Card,Yes,6.92897E+15,72002839,Banco Cruzeiro do Sul,cre,Saturday,
+1338,GP,Gabriel Pereira,7/31/2021,1073,Credit Card,No,1.27267E+15,19768784,Banco Cruzeiro do Sul,cre,Saturday,
+1611,GP,Gabriel Pereira,8/1/2021,1477,Cash,No,,7382777,,cas,Sunday,
+1508,GP,Gabriel Pereira,8/2/2021,1354,Credit Card,No,6.8911E+15,56844679,Banco Cruzeiro do Sul,cre,Monday,
+1606,GP,Gabriel Pereira,8/3/2021,1112,Cash,No,,58195657,,cas,Tuesday,
+264,GP,Gabriel Pereira,8/4/2021,1313,Credit Card,No,3.55544E+15,93056164,Banco Cruzeiro do Sul,cre,Wednesday,
+795,GP,Gabriel Pereira,8/4/2021,952,Cash,No,,13717173,,cas,Wednesday,
+1183,GP,Gabriel Pereira,8/4/2021,1030,Check,No,,32204144,Banco Atlantico Europa,che,Wednesday,5567
+37,GP,Gabriel Pereira,8/7/2021,1459,Check,No,,73467065,Novobanco,che,Saturday,3704
+515,GP,Gabriel Pereira,8/7/2021,983,Check,No,,80715695,Novobanco,che,Saturday,3903
+574,GP,Gabriel Pereira,8/7/2021,1371,Cash,No,,43772942,,cas,Saturday,
+1985,GP,Gabriel Pereira,8/8/2021,1290,Credit Card,No,6.03612E+15,54268368,Banco Cruzeiro do Sul,cre,Sunday,
+811,GP,Gabriel Pereira,8/11/2021,1256,Credit Card,No,5.33343E+15,7360776,Banco Do Brasil,cre,Wednesday,
+1292,GP,Gabriel Pereira,8/11/2021,1508,Cash,No,,44246488,,cas,Wednesday,
+1960,GP,Gabriel Pereira,8/12/2021,1589,Credit Card,No,5.33744E+15,15659695,Banco Atlantico Europa,cre,Thursday,
+1119,GP,Gabriel Pereira,8/13/2021,902,Cash,No,,82141746,,cas,Friday,
+322,GP,Gabriel Pereira,8/16/2021,1401,Credit Card,No,8.5575E+15,70862095,Banco Do Brasil,cre,Monday,
+368,GP,Gabriel Pereira,8/16/2021,1258,Check,No,,24932149,Banco Palmas,che,Monday,9856
+1045,GP,Gabriel Pereira,8/18/2021,1597,Cash,No,,53970798,,cas,Wednesday,
+1621,GP,Gabriel Pereira,8/18/2021,1514,Credit Card,No,9.30438E+14,81226815,Banco Cruzeiro do Sul,cre,Wednesday,
+1777,GP,Gabriel Pereira,8/18/2021,1142,Cash,No,,95076716,,cas,Wednesday,
+1946,GP,Gabriel Pereira,8/18/2021,914,Cash,No,,28780661,,cas,Wednesday,
+616,GP,Gabriel Pereira,8/20/2021,1203,Credit Card,No,6.20304E+15,13145195,Caixa Geral de Depósitos,cre,Friday,
+1625,GP,Gabriel Pereira,8/20/2021,1438,Check,No,,1627629,Chase,che,Friday,4015
+1785,GP,Gabriel Pereira,8/21/2021,1136,Check,No,,39106573,Banco Palmas,che,Saturday,2383
+820,GP,Gabriel Pereira,8/22/2021,1350,Credit Card,No,8.55246E+15,8213711,Banco Cruzeiro do Sul,cre,Sunday,
+1314,GP,Gabriel Pereira,8/23/2021,1308,Cash,No,,20200953,,cas,Monday,
+1113,GP,Gabriel Pereira,8/24/2021,1154,Check,No,,96047842,Caixa Geral de Depósitos,che,Tuesday,8273
+1936,GP,Gabriel Pereira,8/24/2021,1067,Check,No,,78192147,Banco Cruzeiro do Sul,che,Tuesday,9844
+953,GP,Gabriel Pereira,8/25/2021,1481,Cash,No,,30120471,,cas,Wednesday,
+1009,GP,Gabriel Pereira,8/26/2021,1385,Cash,No,,38363816,,cas,Thursday,
+1340,GP,Gabriel Pereira,8/26/2021,1056,Credit Card,No,5.64953E+15,19738818,Chase,cre,Thursday,
+1408,GP,Gabriel Pereira,8/27/2021,1038,Credit Card,No,6.67942E+15,59067396,Banco Do Brasil,cre,Friday,
+1752,GP,Gabriel Pereira,8/29/2021,1042,Credit Card,No,6.2644E+15,90751991,Caixa Geral de Depósitos,cre,Sunday,
+1512,GP,Gabriel Pereira,8/31/2021,1255,Check,No,,83966073,Banco Cruzeiro do Sul,che,Tuesday,5778
+152,GP,Gabriel Pereira,9/1/2021,1570,Check,No,,77725228,Banco Atlantico Europa,che,Wednesday,4015
+944,GP,Gabriel Pereira,9/1/2021,1454,Check,No,,87859964,Novobanco,che,Wednesday,3734
+1499,GP,Gabriel Pereira,9/1/2021,1424,Cash,No,,80207612,,cas,Wednesday,
+1910,GP,Gabriel Pereira,9/2/2021,1477,Credit Card,No,9.12707E+15,5644685,Banco Do Brasil,cre,Thursday,
+1348,GP,Gabriel Pereira,9/3/2021,1260,Cash,No,,70675169,,cas,Friday,
+173,GP,Gabriel Pereira,9/4/2021,1063,Cash,No,,73622660,,cas,Saturday,
+1889,GP,Gabriel Pereira,9/5/2021,928,Credit Card,No,1.7643E+15,5096996,Caixa Geral de Depósitos,cre,Sunday,
+160,GP,Gabriel Pereira,9/6/2021,1284,Cash,No,,96194311,,cas,Monday,
+49,GP,Gabriel Pereira,9/7/2021,1199,Check,No,,71094777,Banco Palmas,che,Tuesday,4020
+1486,GP,Gabriel Pereira,9/11/2021,1175,Credit Card,No,6.94805E+15,95739405,Millennium BCP,cre,Saturday,
+1928,GP,Gabriel Pereira,9/11/2021,1270,Credit Card,No,5.0255E+14,97599747,Banco Palmas,cre,Saturday,
+804,GP,Gabriel Pereira,9/14/2021,1443,Cash,No,,21557325,,cas,Tuesday,
+1454,GP,Gabriel Pereira,9/15/2021,916,Check,No,,89655834,Banco Cruzeiro do Sul,che,Wednesday,6409
+123,GP,Gabriel Pereira,9/16/2021,1274,Credit Card,No,8.68E+15,95269495,Banco Atlantico Europa,cre,Thursday,
+1624,GP,Gabriel Pereira,9/16/2021,1498,Credit Card,No,2.69377E+15,76288363,Novobanco,cre,Thursday,
+1677,GP,Gabriel Pereira,9/16/2021,968,Check,No,,47621236,Millennium BCP,che,Thursday,2990
+326,GP,Gabriel Pereira,9/17/2021,1471,Cash,No,,95761228,,cas,Friday,
+674,GP,Gabriel Pereira,9/17/2021,1580,Credit Card,No,4.1407E+15,425488,Chase,cre,Friday,
+808,GP,Gabriel Pereira,9/17/2021,1015,Check,No,,81979316,Banco Cruzeiro do Sul,che,Friday,8630
+905,GP,Gabriel Pereira,9/18/2021,1400,Credit Card,No,4.51958E+14,56296575,Banco Cruzeiro do Sul,cre,Saturday,
+1790,GP,Gabriel Pereira,9/18/2021,1165,Credit Card,No,7.6776E+15,73033249,Novobanco,cre,Saturday,
+130,GP,Gabriel Pereira,9/21/2021,1180,Cash,No,,86652404,,cas,Tuesday,
+361,GP,Gabriel Pereira,9/21/2021,1552,Credit Card,Yes,3.44145E+15,2355770,Chase,cre,Tuesday,
+1997,GP,Gabriel Pereira,9/21/2021,1033,Check,No,,18708941,Millennium BCP,che,Tuesday,8989
+128,GP,Gabriel Pereira,9/22/2021,1232,Check,No,,65278585,Banco Cruzeiro do Sul,che,Wednesday,8932
+233,GP,Gabriel Pereira,9/23/2021,1562,Check,No,,41715454,Banco Cruzeiro do Sul,che,Thursday,5895
+1098,GP,Gabriel Pereira,9/23/2021,905,Cash,No,,39627466,,cas,Thursday,
+923,GP,Gabriel Pereira,9/24/2021,986,Check,No,,20546475,Banco Cruzeiro do Sul,che,Friday,9770
+552,GP,Gabriel Pereira,9/25/2021,1541,Credit Card,No,8.66133E+15,73149501,Banco Do Brasil,cre,Saturday,
+723,GP,Gabriel Pereira,9/25/2021,1230,Cash,No,,66766404,,cas,Saturday,
+1108,GP,Gabriel Pereira,9/27/2021,987,Cash,No,,11287942,,cas,Monday,
+1576,GP,Gabriel Pereira,9/27/2021,1287,Credit Card,No,2.57033E+15,58286304,Millennium BCP,cre,Monday,
+1166,GP,Gabriel Pereira,9/30/2021,1087,Check,No,,90855107,Banco Cruzeiro do Sul,che,Thursday,1451
+885,GP,Gabriel Pereira,10/1/2021,1384,Credit Card,Yes,5.63354E+15,93993379,Banco Atlantico Europa,cre,Friday,
+1374,GP,Gabriel Pereira,10/1/2021,1075,Check,Yes,,21543904,Banco Cruzeiro do Sul,che,Friday,9883
+1216,GP,Gabriel Pereira,10/3/2021,1589,Cash,No,,40919693,,cas,Sunday,
+448,GP,Gabriel Pereira,10/4/2021,1443,Cash,No,,51484685,,cas,Monday,
+930,GP,Gabriel Pereira,10/6/2021,1330,Credit Card,No,6.79177E+15,41884216,Banco Do Brasil,cre,Wednesday,
+1327,GP,Gabriel Pereira,10/6/2021,1542,Credit Card,No,2.73799E+15,18674630,Millennium BCP,cre,Wednesday,
+539,GP,Gabriel Pereira,10/7/2021,1544,Check,No,,96636186,Banco Do Brasil,che,Thursday,8778
+754,GP,Gabriel Pereira,10/8/2021,1115,Check,No,,43588418,Banco Do Brasil,che,Friday,5230
+517,GP,Gabriel Pereira,10/9/2021,1412,Cash,No,,39992192,,cas,Saturday,
+1181,GP,Gabriel Pereira,10/9/2021,1374,Check,No,,21688005,Banco Do Brasil,che,Saturday,8843
+709,GP,Gabriel Pereira,10/10/2021,1028,Check,No,,69294455,Caixa Geral de Depósitos,che,Sunday,2335
+331,GP,Gabriel Pereira,10/12/2021,1309,Check,No,,15727919,Banco Cruzeiro do Sul,che,Tuesday,1612
+445,GP,Gabriel Pereira,10/12/2021,1299,Cash,No,,71357852,,cas,Tuesday,
+772,GP,Gabriel Pereira,10/13/2021,1167,Cash,No,,83059736,,cas,Wednesday,
+1103,GP,Gabriel Pereira,10/13/2021,1172,Credit Card,No,2.56239E+15,42620370,Banco Atlantico Europa,cre,Wednesday,
+1784,GP,Gabriel Pereira,10/14/2021,925,Check,No,,75480293,Banco Do Brasil,che,Thursday,7030
+178,GP,Gabriel Pereira,10/16/2021,1016,Cash,No,,58078361,,cas,Saturday,
+1375,GP,Gabriel Pereira,10/16/2021,935,Check,No,,25333202,Banco Do Brasil,che,Saturday,6857
+844,GP,Gabriel Pereira,10/19/2021,1081,Cash,No,,28270908,,cas,Tuesday,
+1299,GP,Gabriel Pereira,10/19/2021,960,Check,No,,81810450,Chase,che,Tuesday,5904
+418,GP,Gabriel Pereira,10/20/2021,1029,Cash,No,,23805525,,cas,Wednesday,
+1716,GP,Gabriel Pereira,10/20/2021,1090,Cash,No,,40547398,,cas,Wednesday,
+742,GP,Gabriel Pereira,10/22/2021,1506,Check,No,,97320331,Chase,che,Friday,3348
+87,GP,Gabriel Pereira,10/23/2021,1339,Check,No,,64160529,Banco Atlantico Europa,che,Saturday,6928
+687,GP,Gabriel Pereira,10/23/2021,1419,Check,No,,25995996,Caixa Geral de Depósitos,che,Saturday,1736
+910,GP,Gabriel Pereira,10/25/2021,1259,Check,No,,13723081,Banco Atlantico Europa,che,Monday,3365
+981,GP,Gabriel Pereira,10/25/2021,1092,Cash,No,,6396384,,cas,Monday,
+380,GP,Gabriel Pereira,10/27/2021,1410,Check,No,,84689500,Banco Atlantico Europa,che,Wednesday,7038
+1130,GP,Gabriel Pereira,10/27/2021,1509,Cash,No,,4726426,,cas,Wednesday,
+1350,GP,Gabriel Pereira,10/27/2021,1040,Cash,No,,48130041,,cas,Wednesday,
+1970,GP,Gabriel Pereira,10/28/2021,1288,Check,No,,52319199,Millennium BCP,che,Thursday,9407
+753,GP,Gabriel Pereira,10/29/2021,1272,Cash,No,,87209628,,cas,Friday,
+1666,GP,Gabriel Pereira,10/29/2021,996,Credit Card,No,2.28247E+15,7578984,Banco Atlantico Europa,cre,Friday,
+1267,GP,Gabriel Pereira,10/30/2021,1446,Check,No,,45720266,Banco Palmas,che,Saturday,7541
+1782,GP,Gabriel Pereira,10/30/2021,1300,Cash,No,,74215319,,cas,Saturday,
+935,GP,Gabriel Pereira,10/31/2021,1514,Cash,No,,31167726,,cas,Sunday,
+1498,GP,Gabriel Pereira,11/2/2021,1209,Cash,No,,96268384,,cas,Tuesday,
+1958,GP,Gabriel Pereira,11/6/2021,1507,Check,No,,26407608,Banco Palmas,che,Saturday,4380
+421,GP,Gabriel Pereira,11/7/2021,1439,Credit Card,No,4.30187E+15,56265650,Banco Cruzeiro do Sul,cre,Sunday,
+668,GP,Gabriel Pereira,11/7/2021,901,Cash,No,,71009438,,cas,Sunday,
+1428,GP,Gabriel Pereira,11/7/2021,1317,Credit Card,No,5.69993E+15,87779256,Millennium BCP,cre,Sunday,
+1485,GP,Gabriel Pereira,11/8/2021,1343,Check,Yes,,97979724,Banco Palmas,che,Monday,3504
+803,GP,Gabriel Pereira,11/13/2021,1284,Credit Card,No,5.48574E+15,93817359,Banco Cruzeiro do Sul,cre,Saturday,
+582,GP,Gabriel Pereira,11/14/2021,1486,Check,No,,19267649,Chase,che,Sunday,2629
+1388,GP,Gabriel Pereira,11/19/2021,1157,Credit Card,No,1.22341E+15,27026604,Banco Palmas,cre,Friday,
+244,GP,Gabriel Pereira,11/20/2021,1416,Credit Card,No,6.48909E+14,84723046,Caixa Geral de Depósitos,cre,Saturday,
+897,GP,Gabriel Pereira,11/20/2021,936,Credit Card,No,7.05196E+15,85862394,Banco Palmas,cre,Saturday,
+443,GP,Gabriel Pereira,11/22/2021,946,Credit Card,No,5.90562E+15,91141520,Banco Palmas,cre,Monday,
+829,GP,Gabriel Pereira,11/22/2021,1558,Credit Card,No,1.35997E+15,3920514,Novobanco,cre,Monday,
+657,GP,Gabriel Pereira,11/23/2021,1292,Credit Card,No,4.09074E+15,16445561,Banco Palmas,cre,Tuesday,
+828,GP,Gabriel Pereira,11/23/2021,1344,Check,No,,78996986,Millennium BCP,che,Tuesday,2766
+1217,GP,Gabriel Pereira,11/23/2021,1228,Cash,No,,52070204,,cas,Tuesday,
+1713,GP,Gabriel Pereira,11/24/2021,1308,Cash,No,,18158374,,cas,Wednesday,
+374,GP,Gabriel Pereira,11/25/2021,1510,Cash,No,,17246191,,cas,Thursday,
+520,GP,Gabriel Pereira,11/26/2021,1541,Cash,No,,31735058,,cas,Friday,
+186,GP,Gabriel Pereira,11/28/2021,1131,Check,No,,516271,Banco Do Brasil,che,Sunday,7276
+758,GP,Gabriel Pereira,11/28/2021,1489,Check,No,,67345957,Novobanco,che,Sunday,5918
+1016,GP,Gabriel Pereira,11/28/2021,993,Check,No,,73265306,Millennium BCP,che,Sunday,2258
+1230,GP,Gabriel Pereira,11/28/2021,1236,Check,No,,97398894,Caixa Geral de Depósitos,che,Sunday,5082
+1818,GP,Gabriel Pereira,11/29/2021,1057,Credit Card,No,9.30914E+15,26414756,Millennium BCP,cre,Monday,
+1977,GP,Gabriel Pereira,11/29/2021,1522,Cash,No,,96693233,,cas,Monday,
+56,GP,Gabriel Pereira,12/1/2021,1482,Cash,No,,74648877,,cas,Wednesday,
+524,GP,Gabriel Pereira,12/1/2021,969,Check,No,,39284567,Banco Atlantico Europa,che,Wednesday,4046
+385,GP,Gabriel Pereira,12/2/2021,1057,Cash,No,,66372395,,cas,Thursday,
+270,GP,Gabriel Pereira,12/4/2021,1303,Check,No,,14353682,Chase,che,Saturday,4014
+400,GP,Gabriel Pereira,12/4/2021,1084,Check,No,,14560833,Caixa Geral de Depósitos,che,Saturday,9686
+1894,GP,Gabriel Pereira,12/4/2021,1085,Credit Card,No,5.96758E+15,4576274,Banco Palmas,cre,Saturday,
+125,GP,Gabriel Pereira,12/5/2021,1385,Cash,No,,99309728,,cas,Sunday,
+1246,GP,Gabriel Pereira,12/8/2021,1054,Cash,No,,99452951,,cas,Wednesday,
+1038,GP,Gabriel Pereira,12/9/2021,1188,Cash,No,,72662925,,cas,Thursday,
+1244,GP,Gabriel Pereira,12/9/2021,941,Check,No,,56684482,Banco Do Brasil,che,Thursday,8953
+1109,GP,Gabriel Pereira,12/11/2021,1586,Cash,No,,82769704,,cas,Saturday,
+1549,GP,Gabriel Pereira,12/12/2021,1121,Credit Card,Yes,4.8116E+15,88661680,Caixa Geral de Depósitos,cre,Sunday,
+1578,GP,Gabriel Pereira,12/12/2021,1042,Credit Card,Yes,1.67822E+15,63250313,Chase,cre,Sunday,
+1715,GP,Gabriel Pereira,12/12/2021,1500,Cash,Yes,,91423302,,cas,Sunday,
+284,GP,Gabriel Pereira,12/13/2021,1046,Check,No,,29842579,Caixa Geral de Depósitos,che,Monday,4765
+1447,GP,Gabriel Pereira,12/13/2021,1381,Check,Yes,,74544708,Chase,che,Monday,4222
+841,GP,Gabriel Pereira,12/14/2021,1083,Credit Card,Yes,7.15117E+15,52647124,Novobanco,cre,Tuesday,
+917,GP,Gabriel Pereira,12/14/2021,1239,Cash,No,,21377306,,cas,Tuesday,
+1814,GP,Gabriel Pereira,12/14/2021,1068,Credit Card,No,7.57414E+15,59188312,Banco Cruzeiro do Sul,cre,Tuesday,
+655,GP,Gabriel Pereira,12/15/2021,1117,Check,No,,84919665,Banco Palmas,che,Wednesday,4246
+89,GP,Gabriel Pereira,12/16/2021,1056,Check,Yes,,77997995,Banco Palmas,che,Thursday,3473
+587,GP,Gabriel Pereira,12/16/2021,1465,Credit Card,No,4.29618E+15,83143598,Chase,cre,Thursday,
+1041,GP,Gabriel Pereira,12/17/2021,1067,Credit Card,No,3.63853E+15,18444902,Banco Palmas,cre,Friday,
+1102,GP,Gabriel Pereira,12/17/2021,1469,Check,No,,66123740,Banco Atlantico Europa,che,Friday,8862
+1320,GP,Gabriel Pereira,12/17/2021,1207,Check,No,,24559851,Novobanco,che,Friday,1607
+3,GP,Gabriel Pereira,12/19/2021,1170,Credit Card,No,8.16185E+15,16475255,Banco Do Brasil,cre,Sunday,
+1127,GP,Gabriel Pereira,12/19/2021,1522,Cash,No,,622122,,cas,Sunday,
+889,GP,Gabriel Pereira,12/21/2021,1449,Credit Card,No,3.9914E+15,32400615,Banco Atlantico Europa,cre,Tuesday,
+1632,GP,Gabriel Pereira,12/21/2021,1115,Credit Card,No,6.20073E+14,75374057,Caixa Geral de Depósitos,cre,Tuesday,
+924,GP,Gabriel Pereira,12/22/2021,1234,Cash,No,,78769899,,cas,Wednesday,
+1440,GP,Gabriel Pereira,12/22/2021,975,Check,No,,80558115,Banco Atlantico Europa,che,Wednesday,5269
+746,GP,Gabriel Pereira,12/25/2021,1179,Credit Card,No,7.60441E+15,5092221,Novobanco,cre,Saturday,
+1210,GP,Gabriel Pereira,12/26/2021,1409,Credit Card,No,2.36011E+15,21764846,Banco Atlantico Europa,cre,Sunday,
+1444,GP,Gabriel Pereira,12/28/2021,1246,Credit Card,No,6.46933E+15,40880670,Banco Atlantico Europa,cre,Tuesday,
+792,GP,Gabriel Pereira,12/29/2021,1022,Check,No,,77908335,Millennium BCP,che,Wednesday,7528
+1437,GP,Gabriel Pereira,12/30/2021,900,Cash,No,,7862351,,cas,Thursday,
+1781,GP,Gabriel Pereira,12/30/2021,1598,Credit Card,No,4.9097E+15,15891368,Chase,cre,Thursday,
+1812,GP,Gabriel Pereira,12/30/2021,1394,Check,No,,92519201,Chase,che,Thursday,6780
+840,GP,Gabriel Pereira,12/31/2021,954,Check,No,,91191862,Banco Do Brasil,che,Friday,5076
+1423,GP,Gabriel Pereira,1/1/2022,1285,Check,No,,2436524,Millennium BCP,che,Saturday,6766
+1965,GP,Gabriel Pereira,1/1/2022,1544,Check,No,,45744520,Banco Do Brasil,che,Saturday,1661
+97,GP,Gabriel Pereira,1/2/2022,1191,Check,No,,38347359,Banco Atlantico Europa,che,Sunday,8564
+1257,GP,Gabriel Pereira,1/2/2022,1044,Check,No,,22132041,Millennium BCP,che,Sunday,5658
+135,GP,Gabriel Pereira,1/3/2022,1554,Cash,No,,85161227,,cas,Monday,
+256,GP,Gabriel Pereira,1/3/2022,1100,Credit Card,No,6.37352E+15,8086978,Chase,cre,Monday,
+1481,GP,Gabriel Pereira,1/4/2022,1383,Cash,Yes,,33868608,,cas,Tuesday,
+288,GP,Gabriel Pereira,1/5/2022,1182,Check,No,,36887258,Banco Atlantico Europa,che,Wednesday,5157
+1083,GP,Gabriel Pereira,1/5/2022,1101,Credit Card,No,7.13972E+15,17672019,Caixa Geral de Depósitos,cre,Wednesday,
+1249,GP,Gabriel Pereira,1/5/2022,1220,Credit Card,No,7.74927E+15,77522592,Millennium BCP,cre,Wednesday,
+545,GP,Gabriel Pereira,1/7/2022,1079,Cash,No,,96762916,,cas,Friday,
+893,GP,Gabriel Pereira,1/7/2022,935,Check,No,,99080271,Caixa Geral de Depósitos,che,Friday,3292
+81,GP,Gabriel Pereira,1/8/2022,1591,Check,No,,94024455,Millennium BCP,che,Saturday,3972
+206,GP,Gabriel Pereira,1/9/2022,1534,Check,No,,47687014,Novobanco,che,Sunday,3248
+292,GP,Gabriel Pereira,1/9/2022,1571,Check,No,,90277038,Banco Cruzeiro do Sul,che,Sunday,4190
+1706,GP,Gabriel Pereira,1/9/2022,1467,Check,No,,74759443,Banco Cruzeiro do Sul,che,Sunday,9231
+359,GP,Gabriel Pereira,1/10/2022,1476,Cash,No,,77293430,,cas,Monday,
+1555,GP,Gabriel Pereira,1/10/2022,1013,Check,No,,19423215,Banco Cruzeiro do Sul,che,Monday,1784
+446,GP,Gabriel Pereira,1/11/2022,1206,Cash,No,,37183440,,cas,Tuesday,
+1283,GP,Gabriel Pereira,1/11/2022,986,Cash,Yes,,50805491,,cas,Tuesday,
+29,GP,Gabriel Pereira,1/12/2022,1482,Cash,No,,4436995,,cas,Wednesday,
+941,GP,Gabriel Pereira,1/12/2022,1466,Credit Card,No,8.47243E+15,19092487,Novobanco,cre,Wednesday,
+1433,GP,Gabriel Pereira,1/12/2022,1318,Cash,No,,86957240,,cas,Wednesday,
+860,GP,Gabriel Pereira,1/18/2022,1073,Check,No,,50213060,Millennium BCP,che,Tuesday,7349
+1973,GP,Gabriel Pereira,1/18/2022,1017,Check,No,,74050133,Chase,che,Tuesday,1375
+782,GP,Gabriel Pereira,1/19/2022,1129,Credit Card,No,8.19961E+15,68832753,Chase,cre,Wednesday,
+273,GP,Gabriel Pereira,1/20/2022,971,Credit Card,No,7.59493E+15,64525777,Banco Palmas,cre,Thursday,
+355,GP,Gabriel Pereira,1/21/2022,1543,Check,No,,30220502,Millennium BCP,che,Friday,5889
+1189,GP,Gabriel Pereira,1/21/2022,1296,Cash,No,,91316708,,cas,Friday,
+1266,GP,Gabriel Pereira,1/24/2022,1030,Cash,No,,61781596,,cas,Monday,
+853,GP,Gabriel Pereira,1/25/2022,1584,Cash,No,,69434606,,cas,Tuesday,
+872,GP,Gabriel Pereira,1/25/2022,1504,Cash,No,,54384807,,cas,Tuesday,
+339,GP,Gabriel Pereira,1/27/2022,1044,Check,No,,6980420,Banco Cruzeiro do Sul,che,Thursday,4288
+1309,GP,Gabriel Pereira,1/27/2022,1015,Cash,No,,60282625,,cas,Thursday,
+1493,GP,Gabriel Pereira,1/27/2022,1461,Check,No,,62327237,Caixa Geral de Depósitos,che,Thursday,8377
+868,GP,Gabriel Pereira,1/28/2022,1223,Check,No,,77524418,Chase,che,Friday,3490
+479,GP,Gabriel Pereira,1/29/2022,1171,Cash,No,,23219416,,cas,Saturday,
+527,GP,Gabriel Pereira,1/29/2022,1118,Credit Card,No,5.63621E+15,39500334,Chase,cre,Saturday,
+810,GP,Gabriel Pereira,1/29/2022,1299,Credit Card,Yes,5.6244E+15,34210890,Chase,cre,Saturday,
+495,GP,Gabriel Pereira,1/30/2022,1533,Check,No,,56341085,Novobanco,che,Sunday,3064
+871,GP,Gabriel Pereira,1/30/2022,1207,Check,No,,21354159,Banco Atlantico Europa,che,Sunday,1261
+1494,GP,Gabriel Pereira,1/31/2022,1414,Check,Yes,,22379006,Banco Palmas,che,Monday,5468
+354,GP,Gabriel Pereira,2/3/2022,1085,Credit Card,No,3.09408E+15,76719903,Banco Cruzeiro do Sul,cre,Thursday,
+793,GP,Gabriel Pereira,2/3/2022,1001,Cash,No,,48881079,,cas,Thursday,
+1025,GP,Gabriel Pereira,2/3/2022,1396,Cash,No,,29384401,,cas,Thursday,
+997,GP,Gabriel Pereira,2/5/2022,1206,Check,No,,12760250,Chase,che,Saturday,7887
+989,GP,Gabriel Pereira,2/6/2022,1408,Check,Yes,,5869507,Banco Do Brasil,che,Sunday,4069
+191,GP,Gabriel Pereira,2/8/2022,1413,Cash,No,,61889241,,cas,Tuesday,
+741,GP,Gabriel Pereira,2/8/2022,914,Credit Card,No,6.94596E+15,24912896,Banco Palmas,cre,Tuesday,
+126,GP,Gabriel Pereira,2/9/2022,1534,Cash,No,,30913075,,cas,Wednesday,
+605,GP,Gabriel Pereira,2/10/2022,1516,Credit Card,Yes,3.37119E+15,68485571,Novobanco,cre,Thursday,
+1468,GP,Gabriel Pereira,2/11/2022,1194,Credit Card,No,7.40274E+14,25906200,Banco Do Brasil,cre,Friday,
+1635,GP,Gabriel Pereira,2/11/2022,1063,Cash,No,,36648532,,cas,Friday,
+476,GP,Gabriel Pereira,2/12/2022,1336,Credit Card,Yes,5.73279E+15,43864908,Caixa Geral de Depósitos,cre,Saturday,
+884,GP,Gabriel Pereira,2/12/2022,1218,Check,No,,91928455,Chase,che,Saturday,7054
+980,GP,Gabriel Pereira,2/12/2022,917,Cash,No,,22836084,,cas,Saturday,
+308,GP,Gabriel Pereira,2/14/2022,1048,Credit Card,No,5.69961E+15,47598762,Chase,cre,Monday,
+1645,GP,Gabriel Pereira,2/15/2022,1341,Credit Card,No,1.93512E+15,72816733,Banco Atlantico Europa,cre,Tuesday,
+1847,GP,Gabriel Pereira,2/15/2022,1313,Credit Card,Yes,2.30234E+15,89041828,Millennium BCP,cre,Tuesday,
+888,GP,Gabriel Pereira,2/17/2022,903,Cash,No,,97824575,,cas,Thursday,
+1175,GP,Gabriel Pereira,2/17/2022,1256,Credit Card,Yes,3.65426E+15,92334511,Millennium BCP,cre,Thursday,
+182,GP,Gabriel Pereira,2/18/2022,995,Cash,No,,45775901,,cas,Friday,
+240,GP,Gabriel Pereira,2/18/2022,1339,Cash,No,,76008350,,cas,Friday,
+511,GP,Gabriel Pereira,2/18/2022,1139,Credit Card,No,9.13825E+15,38687007,Banco Cruzeiro do Sul,cre,Friday,
+650,GP,Gabriel Pereira,2/18/2022,1361,Credit Card,No,2.99016E+14,13908088,Chase,cre,Friday,
+115,GP,Gabriel Pereira,2/21/2022,1464,Cash,No,,49818299,,cas,Monday,
+1816,GP,Gabriel Pereira,2/22/2022,1213,Credit Card,No,5.49787E+15,80299034,Millennium BCP,cre,Tuesday,
+564,GP,Gabriel Pereira,2/23/2022,1486,Cash,No,,43640270,,cas,Wednesday,
+790,GP,Gabriel Pereira,2/25/2022,1133,Credit Card,No,9.42905E+15,85856728,Banco Atlantico Europa,cre,Friday,
+457,GP,Gabriel Pereira,3/1/2022,1271,Check,No,,37606441,Banco Do Brasil,che,Tuesday,5872
+547,GP,Gabriel Pereira,3/1/2022,1591,Check,No,,56360041,Chase,che,Tuesday,6359
+1,GP,Gabriel Pereira,3/2/2022,1014,Credit Card,No,3.32182E+15,83863794,Millennium BCP,cre,Wednesday,
+1522,GP,Gabriel Pereira,3/2/2022,1087,Cash,No,,64149003,,cas,Wednesday,
+1929,GP,Gabriel Pereira,3/3/2022,1135,Check,No,,97442526,Banco Cruzeiro do Sul,che,Thursday,3715
+555,GP,Gabriel Pereira,3/4/2022,1138,Check,No,,3091436,Banco Do Brasil,che,Friday,2300
+879,GP,Gabriel Pereira,3/4/2022,1192,Credit Card,No,5.38044E+15,70159591,Banco Cruzeiro do Sul,cre,Friday,
+324,GP,Gabriel Pereira,3/5/2022,1229,Credit Card,Yes,1.02203E+15,94053910,Banco Do Brasil,cre,Saturday,
+1817,GP,Gabriel Pereira,3/5/2022,1203,Credit Card,No,9.60009E+15,24266225,Banco Cruzeiro do Sul,cre,Saturday,
+268,GP,Gabriel Pereira,3/6/2022,1533,Credit Card,No,9.01581E+15,28326842,Banco Cruzeiro do Sul,cre,Sunday,
+787,GP,Gabriel Pereira,3/7/2022,975,Cash,No,,73454757,,cas,Monday,
+974,GP,Gabriel Pereira,3/8/2022,1277,Credit Card,No,7.30951E+14,98819277,Banco Palmas,cre,Tuesday,
+987,GP,Gabriel Pereira,3/12/2022,1129,Cash,No,,47642737,,cas,Saturday,
+1431,GP,Gabriel Pereira,3/12/2022,1235,Check,No,,22405920,Chase,che,Saturday,4826
+1899,GP,Gabriel Pereira,3/14/2022,904,Cash,No,,94999445,,cas,Monday,
+45,GP,Gabriel Pereira,3/15/2022,1402,Cash,No,,14363495,,cas,Tuesday,
+1698,GP,Gabriel Pereira,3/15/2022,1243,Cash,No,,93754024,,cas,Tuesday,
+1672,GP,Gabriel Pereira,3/20/2022,1494,Check,Yes,,82013071,Novobanco,che,Sunday,9089
+1761,GP,Gabriel Pereira,3/20/2022,1549,Cash,No,,68557395,,cas,Sunday,
+1940,GP,Gabriel Pereira,3/22/2022,1533,Cash,No,,88775445,,cas,Tuesday,
+481,GP,Gabriel Pereira,3/23/2022,1147,Cash,No,,83147276,,cas,Wednesday,
+1514,GP,Gabriel Pereira,3/24/2022,984,Check,No,,91617050,Chase,che,Thursday,3712
+1364,GP,Gabriel Pereira,3/26/2022,1401,Cash,No,,71620429,,cas,Saturday,
+745,GP,Gabriel Pereira,3/28/2022,1256,Credit Card,Yes,5.7564E+15,30945154,Millennium BCP,cre,Monday,
+512,GP,Gabriel Pereira,3/30/2022,1071,Credit Card,Yes,7.49465E+15,16128463,Banco Palmas,cre,Wednesday,
+1815,GP,Gabriel Pereira,3/30/2022,1488,Cash,No,,36772443,,cas,Wednesday,
+278,GP,Gabriel Pereira,3/31/2022,1287,Cash,No,,18463865,,cas,Thursday,
+916,GP,Gabriel Pereira,3/31/2022,949,Cash,No,,87274204,,cas,Thursday,
+572,GP,Gabriel Pereira,4/1/2022,1557,Check,No,,63341411,Caixa Geral de Depósitos,che,Friday,6574
+227,GP,Gabriel Pereira,4/3/2022,1397,Check,No,,2462996,Millennium BCP,che,Sunday,7484
+1184,GP,Gabriel Pereira,4/3/2022,1116,Check,No,,81165993,Millennium BCP,che,Sunday,3073
+325,GP,Gabriel Pereira,4/4/2022,1403,Credit Card,No,5.86509E+14,13863383,Chase,cre,Monday,
+697,GP,Gabriel Pereira,4/6/2022,978,Credit Card,No,8.37537E+15,10569741,Banco Do Brasil,cre,Wednesday,
+1649,GP,Gabriel Pereira,4/8/2022,1198,Check,No,,25936450,Chase,che,Friday,3878
+146,GP,Gabriel Pereira,4/14/2022,1433,Credit Card,No,4.08927E+15,46287334,Chase,cre,Thursday,
+951,GP,Gabriel Pereira,4/14/2022,1350,Check,No,,42231964,Novobanco,che,Thursday,4608
+925,GP,Gabriel Pereira,4/15/2022,1487,Credit Card,No,1.75889E+15,39354358,Novobanco,cre,Friday,
+55,GP,Gabriel Pereira,4/16/2022,1102,Cash,No,,32421024,,cas,Saturday,
+1007,GP,Gabriel Pereira,4/16/2022,950,Cash,No,,29608070,,cas,Saturday,
+440,GP,Gabriel Pereira,4/17/2022,1409,Cash,No,,85880061,,cas,Sunday,
+245,GP,Gabriel Pereira,4/18/2022,1432,Cash,No,,26189141,,cas,Monday,
+639,GP,Gabriel Pereira,4/22/2022,1224,Credit Card,No,7.27516E+15,36829635,Banco Do Brasil,cre,Friday,
+961,GP,Gabriel Pereira,4/23/2022,1066,Check,No,,75844663,Banco Cruzeiro do Sul,che,Saturday,6351
+571,GP,Gabriel Pereira,4/24/2022,1039,Check,No,,71539915,Novobanco,che,Sunday,7252
+1072,GP,Gabriel Pereira,4/24/2022,1366,Credit Card,No,5.77546E+15,91876831,Novobanco,cre,Sunday,
+602,GP,Gabriel Pereira,4/26/2022,1339,Credit Card,No,1.89239E+15,9310668,Banco Cruzeiro do Sul,cre,Tuesday,
+716,GP,Gabriel Pereira,4/26/2022,1185,Credit Card,Yes,8.82091E+15,67827411,Banco Atlantico Europa,cre,Tuesday,
+1167,GP,Gabriel Pereira,4/26/2022,1514,Credit Card,No,1.11786E+15,20695354,Caixa Geral de Depósitos,cre,Tuesday,
+1694,GP,Gabriel Pereira,4/27/2022,1286,Check,No,,67989947,Millennium BCP,che,Wednesday,7694
+1870,GP,Gabriel Pereira,4/27/2022,982,Credit Card,No,1.56162E+14,21300882,Banco Do Brasil,cre,Wednesday,
+43,GP,Gabriel Pereira,4/30/2022,1288,Cash,Yes,,52735454,,cas,Saturday,
+762,GP,Gabriel Pereira,4/30/2022,1285,Cash,No,,16252654,,cas,Saturday,
+248,GP,Gabriel Pereira,5/2/2022,1405,Credit Card,No,8.11437E+15,61100225,Banco Palmas,cre,Monday,
+4,GP,Gabriel Pereira,5/4/2022,1173,Check,No,,19283276,Banco Cruzeiro do Sul,che,Wednesday,4598
+260,GP,Gabriel Pereira,5/4/2022,957,Credit Card,No,2.44204E+15,63840666,Banco Palmas,cre,Wednesday,
+548,GP,Gabriel Pereira,5/4/2022,1375,Cash,No,,18372742,,cas,Wednesday,
+1584,GP,Gabriel Pereira,5/4/2022,1362,Cash,No,,66505276,,cas,Wednesday,
+1911,GP,Gabriel Pereira,5/6/2022,904,Cash,No,,55950263,,cas,Friday,
+20,GP,Gabriel Pereira,5/7/2022,1560,Cash,No,,10799118,,cas,Saturday,
+272,GP,Gabriel Pereira,5/7/2022,968,Cash,Yes,,97552314,,cas,Saturday,
+1563,GP,Gabriel Pereira,5/8/2022,1178,Credit Card,No,8.20762E+15,22282408,Banco Cruzeiro do Sul,cre,Sunday,
+567,GP,Gabriel Pereira,5/9/2022,1003,Credit Card,Yes,9.01381E+14,55553566,Millennium BCP,cre,Monday,
+84,GP,Gabriel Pereira,5/12/2022,983,Cash,No,,67976438,,cas,Thursday,
+259,GP,Gabriel Pereira,5/12/2022,1446,Cash,No,,60810620,,cas,Thursday,
+1220,GP,Gabriel Pereira,5/14/2022,928,Cash,No,,98897865,,cas,Saturday,
+1531,GP,Gabriel Pereira,5/14/2022,1234,Credit Card,No,1.14207E+15,20166338,Chase,cre,Saturday,
+1506,GP,Gabriel Pereira,5/15/2022,1127,Check,No,,44045883,Caixa Geral de Depósitos,che,Sunday,2250
+297,GP,Gabriel Pereira,5/18/2022,1135,Cash,No,,58804341,,cas,Wednesday,
+1843,GP,Gabriel Pereira,5/18/2022,1104,Credit Card,No,8.71926E+15,2545500,Banco Palmas,cre,Wednesday,
+269,GP,Gabriel Pereira,5/19/2022,1563,Cash,No,,8821009,,cas,Thursday,
+113,GP,Gabriel Pereira,5/24/2022,1429,Cash,No,,89226801,,cas,Tuesday,
+138,GP,Gabriel Pereira,5/25/2022,1510,Credit Card,No,8.51911E+15,13971870,Banco Atlantico Europa,cre,Wednesday,
+1505,GP,Gabriel Pereira,5/27/2022,1225,Cash,No,,5218799,,cas,Friday,
+1905,GP,Gabriel Pereira,5/28/2022,944,Check,No,,12653273,Banco Palmas,che,Saturday,6423
+1168,GP,Gabriel Pereira,5/29/2022,1081,Credit Card,No,2.27595E+15,25947950,Banco Atlantico Europa,cre,Sunday,
+346,GP,Gabriel Pereira,6/1/2022,1107,Credit Card,No,8.26293E+15,66474231,Chase,cre,Wednesday,
+915,GP,Gabriel Pereira,6/1/2022,1031,Check,No,,8718274,Novobanco,che,Wednesday,9776
+1742,GP,Gabriel Pereira,6/1/2022,1237,Check,No,,89748741,Caixa Geral de Depósitos,che,Wednesday,5769
+158,GP,Gabriel Pereira,6/2/2022,1187,Check,No,,2503926,Caixa Geral de Depósitos,che,Thursday,5903
+1800,GP,Gabriel Pereira,6/2/2022,1147,Credit Card,No,3.99345E+15,95235786,Banco Palmas,cre,Thursday,
+5,GP,Gabriel Pereira,6/3/2022,1232,Credit Card,No,5.6414E+14,88496965,Banco Do Brasil,cre,Friday,
+375,GP,Gabriel Pereira,6/4/2022,1510,Cash,No,,1329022,,cas,Saturday,
+1137,GP,Gabriel Pereira,6/4/2022,1073,Credit Card,No,5.0802E+15,58824935,Banco Do Brasil,cre,Saturday,
+1359,GP,Gabriel Pereira,6/4/2022,1440,Cash,No,,72884076,,cas,Saturday,
+939,GP,Gabriel Pereira,6/6/2022,1476,Credit Card,No,1.70696E+15,53454722,Banco Do Brasil,cre,Monday,
+1180,GP,Gabriel Pereira,6/6/2022,1274,Check,Yes,,11863855,Caixa Geral de Depósitos,che,Monday,6127
+1994,GP,Gabriel Pereira,6/7/2022,1599,Credit Card,Yes,7.07813E+15,48414235,Banco Palmas,cre,Tuesday,
+1727,GP,Gabriel Pereira,6/8/2022,985,Check,No,,56269962,Millennium BCP,che,Wednesday,9668
+348,GP,Gabriel Pereira,6/10/2022,1388,Credit Card,No,9.75268E+15,33312797,Banco Palmas,cre,Friday,
+1139,GP,Gabriel Pereira,6/10/2022,967,Cash,No,,37810539,,cas,Friday,
+638,GP,Gabriel Pereira,6/11/2022,1064,Check,No,,96089319,Chase,che,Saturday,6304
+1332,GP,Gabriel Pereira,6/11/2022,1232,Credit Card,No,5.36424E+15,28518161,Chase,cre,Saturday,
+54,GP,Gabriel Pereira,6/12/2022,1508,Cash,No,,34471349,,cas,Sunday,
+250,GP,Gabriel Pereira,6/13/2022,1389,Cash,No,,21202169,,cas,Monday,
+351,GP,Gabriel Pereira,6/14/2022,1429,Credit Card,No,7.1813E+15,37145211,Caixa Geral de Depósitos,cre,Tuesday,
+1349,GP,Gabriel Pereira,6/14/2022,1021,Credit Card,No,5.21502E+15,50842431,Banco Do Brasil,cre,Tuesday,
+1978,GP,Gabriel Pereira,6/14/2022,1372,Credit Card,Yes,1.5801E+15,43065874,Banco Cruzeiro do Sul,cre,Tuesday,
+680,GP,Gabriel Pereira,6/15/2022,1239,Credit Card,No,9.80383E+15,31102918,Caixa Geral de Depósitos,cre,Wednesday,
+1638,GP,Gabriel Pereira,6/15/2022,1245,Check,Yes,,4505092,Banco Cruzeiro do Sul,che,Wednesday,7568
+1989,GP,Gabriel Pereira,6/15/2022,1001,Check,No,,73683850,Banco Palmas,che,Wednesday,8388
+257,GP,Gabriel Pereira,6/17/2022,1492,Credit Card,No,2.16996E+15,22698485,Banco Do Brasil,cre,Friday,
+1934,GP,Gabriel Pereira,6/17/2022,958,Check,No,,18466898,Banco Palmas,che,Friday,4643
+1248,GP,Gabriel Pereira,6/18/2022,1452,Credit Card,No,4.44705E+15,2059685,Caixa Geral de Depósitos,cre,Saturday,
+1942,GP,Gabriel Pereira,6/18/2022,1118,Cash,No,,5962751,,cas,Saturday,
+1383,GP,Gabriel Pereira,6/19/2022,1157,Credit Card,No,1.88346E+15,67693332,Novobanco,cre,Sunday,
+1949,GP,Gabriel Pereira,6/19/2022,1445,Cash,No,,5203132,,cas,Sunday,
+215,GP,Gabriel Pereira,6/20/2022,969,Cash,No,,10067626,,cas,Monday,
+1080,GP,Gabriel Pereira,6/20/2022,1281,Check,No,,23860030,Banco Cruzeiro do Sul,che,Monday,5949
+1846,GP,Gabriel Pereira,6/20/2022,1099,Cash,Yes,,96225275,,cas,Monday,
+357,GP,Gabriel Pereira,6/23/2022,1181,Cash,No,,83390198,,cas,Thursday,
+438,GP,Gabriel Pereira,6/24/2022,1504,Credit Card,No,2.15354E+15,65796784,Chase,cre,Friday,
+578,GP,Gabriel Pereira,6/26/2022,1394,Cash,No,,33305912,,cas,Sunday,
+1678,GP,Gabriel Pereira,6/26/2022,1455,Cash,No,,94541384,,cas,Sunday,
+1898,GP,Gabriel Pereira,6/26/2022,1303,Credit Card,No,3.38789E+15,84397630,Millennium BCP,cre,Sunday,
+562,GP,Gabriel Pereira,6/27/2022,959,Check,No,,63370502,Banco Cruzeiro do Sul,che,Monday,8462
+874,GP,Gabriel Pereira,6/28/2022,1284,Cash,No,,86652548,,cas,Tuesday,
+1961,GP,Gabriel Pereira,6/28/2022,1495,Check,No,,57595995,Banco Palmas,che,Tuesday,1416
+1014,GP,Gabriel Pereira,6/29/2022,1412,Check,No,,45279050,Banco Cruzeiro do Sul,che,Wednesday,1942
+1475,GP,Gabriel Pereira,6/30/2022,1161,Check,No,,64799846,Millennium BCP,che,Thursday,6317
+1569,GP,Gabriel Pereira,6/30/2022,921,Check,No,,29069690,Banco Cruzeiro do Sul,che,Thursday,6886
+546,GP,Gabriel Pereira,7/1/2022,944,Credit Card,No,2.48414E+15,72438070,Caixa Geral de Depósitos,cre,Friday,
+1943,GP,Gabriel Pereira,7/1/2022,1495,Credit Card,No,3.89012E+15,11568622,Banco Do Brasil,cre,Friday,
+831,GP,Gabriel Pereira,7/2/2022,1550,Cash,No,,23885652,,cas,Saturday,
+1516,GP,Gabriel Pereira,7/2/2022,959,Check,No,,83774029,Chase,che,Saturday,9782
+371,GP,Gabriel Pereira,7/3/2022,1581,Cash,No,,57701715,,cas,Sunday,
+788,GP,Gabriel Pereira,7/3/2022,1164,Check,No,,2284035,Banco Palmas,che,Sunday,5771
+603,GP,Gabriel Pereira,7/4/2022,1548,Credit Card,No,6.7086E+15,20005347,Banco Cruzeiro do Sul,cre,Monday,
+878,GP,Gabriel Pereira,7/4/2022,1026,Check,No,,32532694,Novobanco,che,Monday,9301
+1582,GP,Gabriel Pereira,7/4/2022,1404,Credit Card,No,5.59408E+15,16778145,Novobanco,cre,Monday,
+1695,GP,Gabriel Pereira,7/6/2022,1009,Cash,No,,6901497,,cas,Wednesday,
+194,GP,Gabriel Pereira,7/7/2022,911,Credit Card,No,5.88425E+15,91778507,Chase,cre,Thursday,
+1281,GP,Gabriel Pereira,7/7/2022,1510,Credit Card,Yes,3.62212E+15,39585585,Chase,cre,Thursday,
+1075,GP,Gabriel Pereira,7/9/2022,1150,Check,No,,83584461,Banco Atlantico Europa,che,Saturday,8586
+1680,GP,Gabriel Pereira,7/9/2022,1010,Cash,No,,35166811,,cas,Saturday,
+22,GP,Gabriel Pereira,7/11/2022,1209,Check,No,,80841241,Caixa Geral de Depósitos,che,Monday,3546
+576,GP,Gabriel Pereira,7/13/2022,1285,Credit Card,No,5.23303E+15,56618443,Novobanco,cre,Wednesday,
+883,GP,Gabriel Pereira,7/16/2022,1388,Check,No,,38736704,Chase,che,Saturday,6547
+1607,GP,Gabriel Pereira,7/16/2022,1053,Check,No,,53399824,Chase,che,Saturday,7355
+1912,GP,Gabriel Pereira,7/16/2022,1240,Cash,Yes,,77894332,,cas,Saturday,
+352,GP,Gabriel Pereira,7/17/2022,1360,Check,No,,86892686,Millennium BCP,che,Sunday,3799
+1469,GP,Gabriel Pereira,7/18/2022,1314,Credit Card,No,5.64615E+15,39979849,Caixa Geral de Depósitos,cre,Monday,
+212,GP,Gabriel Pereira,7/19/2022,1475,Check,No,,95392644,Chase,che,Tuesday,3911
+505,GP,Gabriel Pereira,7/19/2022,925,Check,No,,48181398,Millennium BCP,che,Tuesday,9548
+1772,GP,Gabriel Pereira,7/20/2022,969,Credit Card,No,8.66911E+15,11978925,Banco Cruzeiro do Sul,cre,Wednesday,
+1170,GP,Gabriel Pereira,7/21/2022,1504,Check,No,,3100649,Banco Do Brasil,che,Thursday,5981
+124,GP,Gabriel Pereira,7/22/2022,1476,Cash,No,,5516940,,cas,Friday,
+662,GP,Gabriel Pereira,7/22/2022,1364,Check,No,,81235679,Banco Do Brasil,che,Friday,7556
+1954,GP,Gabriel Pereira,7/23/2022,1067,Cash,Yes,,25554689,,cas,Saturday,
+1999,GP,Gabriel Pereira,7/25/2022,1089,Credit Card,No,7.4877E+15,12180822,Novobanco,cre,Monday,
+1386,GP,Gabriel Pereira,7/26/2022,1389,Credit Card,No,2.08467E+15,62822250,Caixa Geral de Depósitos,cre,Tuesday,
+77,GP,Gabriel Pereira,7/29/2022,1354,Credit Card,No,5.92125E+15,96118367,Banco Do Brasil,cre,Friday,
+1707,GP,Gabriel Pereira,7/30/2022,1242,Credit Card,No,3.77404E+15,7675149,Banco Atlantico Europa,cre,Saturday,
+1765,GP,Gabriel Pereira,7/30/2022,1121,Cash,No,,56017039,,cas,Saturday,
+12,GP,Gabriel Pereira,7/31/2022,1219,Cash,No,,57871331,,cas,Sunday,
+1589,GP,Gabriel Pereira,8/1/2022,1164,Credit Card,No,8.37659E+15,65266426,Banco Atlantico Europa,cre,Monday,
+1704,GP,Gabriel Pereira,8/2/2022,948,Cash,No,,17445776,,cas,Tuesday,
+168,GP,Gabriel Pereira,8/4/2022,1333,Cash,Yes,,97968868,,cas,Thursday,
+686,GP,Gabriel Pereira,8/4/2022,1043,Cash,No,,46176792,,cas,Thursday,
+434,GP,Gabriel Pereira,8/5/2022,1096,Cash,No,,80138759,,cas,Friday,
+456,GP,Gabriel Pereira,8/5/2022,1276,Cash,Yes,,90034864,,cas,Friday,
+1601,GP,Gabriel Pereira,8/5/2022,1557,Credit Card,No,3.88904E+14,66851353,Caixa Geral de Depósitos,cre,Friday,
+543,GP,Gabriel Pereira,8/7/2022,1369,Cash,No,,27169385,,cas,Sunday,
+133,GP,Gabriel Pereira,8/9/2022,1383,Credit Card,No,2.08268E+15,2620672,Banco Cruzeiro do Sul,cre,Tuesday,
+459,GP,Gabriel Pereira,8/9/2022,1332,Credit Card,No,4.8157E+15,34591123,Chase,cre,Tuesday,
+1865,GP,Gabriel Pereira,8/9/2022,1055,Credit Card,No,8.58654E+15,49317967,Millennium BCP,cre,Tuesday,
+1412,GP,Gabriel Pereira,8/10/2022,1505,Check,No,,31354901,Banco Cruzeiro do Sul,che,Wednesday,6878
+1630,GP,Gabriel Pereira,8/11/2022,1517,Credit Card,No,9.28788E+15,12501860,Banco Atlantico Europa,cre,Thursday,
+1046,GP,Gabriel Pereira,8/12/2022,1551,Cash,No,,17706736,,cas,Friday,
+1049,GP,Gabriel Pereira,8/12/2022,1512,Check,No,,84249598,Caixa Geral de Depósitos,che,Friday,2376
+1117,GP,Gabriel Pereira,8/13/2022,1317,Credit Card,No,3.04588E+15,41916503,Banco Cruzeiro do Sul,cre,Saturday,
+900,GP,Gabriel Pereira,8/14/2022,1235,Cash,No,,92778943,,cas,Sunday,
+281,GP,Gabriel Pereira,8/15/2022,1016,Cash,No,,73926030,,cas,Monday,
+1557,GP,Gabriel Pereira,8/15/2022,966,Check,No,,89948856,Novobanco,che,Monday,5625
+618,GP,Gabriel Pereira,8/17/2022,1389,Credit Card,No,6.42152E+15,23668788,Banco Atlantico Europa,cre,Wednesday,
+786,GP,Gabriel Pereira,8/18/2022,1073,Cash,No,,52373415,,cas,Thursday,
+1085,GP,Gabriel Pereira,8/20/2022,1251,Check,No,,87339304,Banco Do Brasil,che,Saturday,8068
+537,GP,Gabriel Pereira,8/21/2022,1114,Cash,No,,98775153,,cas,Sunday,
+1599,GP,Gabriel Pereira,8/22/2022,1553,Credit Card,No,6.05495E+15,13249519,Banco Do Brasil,cre,Monday,
+366,GP,Gabriel Pereira,8/23/2022,937,Cash,No,,81040915,,cas,Tuesday,
+903,GP,Gabriel Pereira,8/24/2022,1140,Cash,No,,98440971,,cas,Wednesday,
+1756,GP,Gabriel Pereira,8/25/2022,1527,Cash,No,,34368771,,cas,Thursday,
+1955,GP,Gabriel Pereira,8/27/2022,1600,Credit Card,No,7.70412E+15,73865690,Banco Cruzeiro do Sul,cre,Saturday,
+613,GP,Gabriel Pereira,8/28/2022,912,Check,Yes,,60100231,Banco Cruzeiro do Sul,che,Sunday,3336
+121,GP,Gabriel Pereira,8/29/2022,1274,Cash,No,,60983584,,cas,Monday,
+880,GP,Gabriel Pereira,8/29/2022,1226,Cash,No,,75747583,,cas,Monday,
+1998,GP,Gabriel Pereira,8/30/2022,1490,Credit Card,No,6.11464E+15,54247388,Banco Palmas,cre,Tuesday,
+213,GP,Gabriel Pereira,9/1/2022,901,Check,No,,69029593,Caixa Geral de Depósitos,che,Thursday,9129
+1061,GP,Gabriel Pereira,9/1/2022,1077,Cash,No,,36781367,,cas,Thursday,
+1663,GP,Gabriel Pereira,9/2/2022,1043,Credit Card,No,4.61447E+15,76142152,Banco Cruzeiro do Sul,cre,Friday,
+183,GP,Gabriel Pereira,9/5/2022,1369,Check,No,,51863637,Banco Cruzeiro do Sul,che,Monday,6289
+332,GP,Gabriel Pereira,9/5/2022,1490,Cash,Yes,,5566139,,cas,Monday,
+1890,GP,Gabriel Pereira,9/5/2022,1099,Credit Card,No,2.55232E+15,35404762,Banco Palmas,cre,Monday,
+904,GP,Gabriel Pereira,9/6/2022,1056,Credit Card,Yes,6.00768E+15,40433700,Novobanco,cre,Tuesday,
+769,GP,Gabriel Pereira,9/7/2022,937,Check,No,,32181227,Novobanco,che,Wednesday,5500
+275,GP,Gabriel Pereira,9/11/2022,1541,Credit Card,No,8.09969E+14,63942788,Caixa Geral de Depósitos,cre,Sunday,
+1932,GP,Gabriel Pereira,9/13/2022,946,Check,No,,44509998,Novobanco,che,Tuesday,4425
+1810,GP,Gabriel Pereira,9/14/2022,1455,Credit Card,No,9.58724E+15,79232671,Banco Cruzeiro do Sul,cre,Wednesday,
+1918,GP,Gabriel Pereira,9/14/2022,1454,Check,No,,28206322,Millennium BCP,che,Wednesday,2296
+411,GP,Gabriel Pereira,9/15/2022,956,Check,No,,50165790,Banco Palmas,che,Thursday,7003
+1185,GP,Gabriel Pereira,9/15/2022,1542,Check,Yes,,3042322,Banco Atlantico Europa,che,Thursday,9159
+179,GP,Gabriel Pereira,9/16/2022,1569,Credit Card,No,7.45171E+14,33095849,Chase,cre,Friday,
+407,GP,Gabriel Pereira,9/16/2022,1152,Credit Card,No,9.39291E+15,17731806,Banco Do Brasil,cre,Friday,
+729,GP,Gabriel Pereira,9/16/2022,1502,Cash,No,,94568044,,cas,Friday,
+470,GP,Gabriel Pereira,9/18/2022,1403,Credit Card,No,7.03203E+15,75877712,Caixa Geral de Depósitos,cre,Sunday,
+1076,GP,Gabriel Pereira,9/18/2022,1404,Credit Card,No,6.43095E+15,70292712,Millennium BCP,cre,Sunday,
+1176,GP,Gabriel Pereira,9/18/2022,932,Check,Yes,,60530886,Banco Cruzeiro do Sul,che,Sunday,4980
+174,GP,Gabriel Pereira,9/19/2022,1528,Credit Card,No,6.60334E+15,47859696,Caixa Geral de Depósitos,cre,Monday,
+1390,GP,Gabriel Pereira,9/19/2022,986,Check,No,,53892224,Banco Atlantico Europa,che,Monday,2534
+1351,GP,Gabriel Pereira,9/21/2022,1335,Check,No,,10530215,Caixa Geral de Depósitos,che,Wednesday,7177
+557,GP,Gabriel Pereira,9/22/2022,1236,Credit Card,No,8.64036E+14,85270171,Banco Do Brasil,cre,Thursday,
+1193,GP,Gabriel Pereira,9/24/2022,1537,Cash,No,,34199643,,cas,Saturday,
+1449,GP,Gabriel Pereira,9/24/2022,1447,Cash,Yes,,57870368,,cas,Saturday,
+573,GP,Gabriel Pereira,9/25/2022,1506,Credit Card,No,1.95257E+15,52899316,Millennium BCP,cre,Sunday,
+813,GP,Gabriel Pereira,9/25/2022,1519,Cash,No,,56331857,,cas,Sunday,
+396,GP,Gabriel Pereira,9/26/2022,1493,Credit Card,No,2.7079E+14,29111799,Banco Do Brasil,cre,Monday,
+1763,GP,Gabriel Pereira,9/27/2022,1570,Check,No,,4071469,Banco Atlantico Europa,che,Tuesday,2573
+1811,GP,Gabriel Pereira,9/27/2022,1579,Check,No,,19701501,Novobanco,che,Tuesday,9132
+1655,GP,Gabriel Pereira,9/29/2022,1433,Credit Card,No,8.90345E+15,4093467,Banco Palmas,cre,Thursday,
+1318,GP,Gabriel Pereira,10/1/2022,1317,Credit Card,No,1.92817E+15,42252160,Chase,cre,Saturday,
+432,GP,Gabriel Pereira,10/3/2022,1021,Credit Card,No,2.34232E+15,8907140,Caixa Geral de Depósitos,cre,Monday,
+1710,GP,Gabriel Pereira,10/4/2022,1197,Check,No,,38565352,Banco Do Brasil,che,Tuesday,3132
+140,GP,Gabriel Pereira,10/6/2022,1123,Check,Yes,,65180170,Banco Cruzeiro do Sul,che,Thursday,7698
+518,GP,Gabriel Pereira,10/6/2022,966,Credit Card,No,9.38431E+15,64187758,Millennium BCP,cre,Thursday,
+387,GP,Gabriel Pereira,10/7/2022,1445,Credit Card,No,6.74286E+15,69454414,Novobanco,cre,Friday,
+1891,GP,Gabriel Pereira,10/7/2022,1592,Credit Card,No,1.11526E+14,26031748,Millennium BCP,cre,Friday,
+575,GP,Gabriel Pereira,10/8/2022,1581,Check,Yes,,54814973,Banco Atlantico Europa,che,Saturday,5775
+751,GP,Gabriel Pereira,10/9/2022,1035,Cash,Yes,,42429563,,cas,Sunday,
+850,GP,Gabriel Pereira,10/10/2022,1484,Check,No,,50800463,Banco Palmas,che,Monday,9810
+1791,GP,Gabriel Pereira,10/11/2022,1362,Cash,No,,74510484,,cas,Tuesday,
+818,GP,Gabriel Pereira,10/12/2022,1484,Credit Card,No,8.22312E+15,79889425,Novobanco,cre,Wednesday,
+1497,GP,Gabriel Pereira,10/12/2022,1115,Cash,No,,59157908,,cas,Wednesday,
+777,GP,Gabriel Pereira,10/16/2022,1222,Cash,No,,2992959,,cas,Sunday,
+626,GP,Gabriel Pereira,10/18/2022,1300,Check,No,,21568182,Millennium BCP,che,Tuesday,7260
+1478,GP,Gabriel Pereira,10/18/2022,1267,Cash,No,,24764000,,cas,Tuesday,
+1419,GP,Gabriel Pereira,10/19/2022,930,Check,No,,72889592,Banco Atlantico Europa,che,Wednesday,5515
+170,GP,Gabriel Pereira,10/20/2022,1239,Cash,No,,14388899,,cas,Thursday,
+1378,GP,Gabriel Pereira,10/20/2022,1176,Credit Card,No,9.07597E+15,63177495,Banco Cruzeiro do Sul,cre,Thursday,
+1294,GP,Gabriel Pereira,10/23/2022,1432,Credit Card,No,1.90222E+15,39717059,Banco Cruzeiro do Sul,cre,Sunday,
+1609,GP,Gabriel Pereira,10/23/2022,1293,Cash,No,,34515025,,cas,Sunday,
+1146,GP,Gabriel Pereira,10/25/2022,948,Cash,No,,82354695,,cas,Tuesday,
+1525,GP,Gabriel Pereira,10/25/2022,1146,Credit Card,Yes,5.46157E+15,88795312,Millennium BCP,cre,Tuesday,
+1058,GP,Gabriel Pereira,10/27/2022,1399,Check,No,,43034918,Caixa Geral de Depósitos,che,Thursday,2854
+1252,GP,Gabriel Pereira,10/30/2022,1580,Check,No,,36372629,Banco Cruzeiro do Sul,che,Sunday,3947
+1795,GP,Gabriel Pereira,10/31/2022,1108,Check,Yes,,84685606,Novobanco,che,Monday,3981
+950,GP,Gabriel Pereira,11/1/2022,1399,Cash,No,,8981265,,cas,Tuesday,
+2,GP,Gabriel Pereira,11/2/2022,1063,Check,No,,42351161,Banco Palmas,che,Wednesday,6635
+1735,GP,Gabriel Pereira,11/4/2022,1162,Check,No,,53829441,Caixa Geral de Depósitos,che,Friday,5253
+1804,GP,Gabriel Pereira,11/4/2022,1209,Credit Card,No,7.86888E+14,13170195,Novobanco,cre,Friday,
+1839,GP,Gabriel Pereira,11/4/2022,1512,Check,No,,95145498,Banco Do Brasil,che,Friday,7744
+1701,GP,Gabriel Pereira,11/5/2022,1155,Check,No,,93680635,Banco Palmas,che,Saturday,4616
+1530,GP,Gabriel Pereira,11/6/2022,1365,Credit Card,No,8.02693E+15,23028655,Millennium BCP,cre,Sunday,
+335,GP,Gabriel Pereira,11/8/2022,1038,Cash,No,,76938983,,cas,Tuesday,
+801,GP,Gabriel Pereira,11/9/2022,1313,Credit Card,No,5.27403E+15,83398741,Caixa Geral de Depósitos,cre,Wednesday,
+1974,GP,Gabriel Pereira,11/11/2022,1154,Cash,No,,49560714,,cas,Friday,
+398,GP,Gabriel Pereira,11/13/2022,946,Check,No,,11426258,Chase,che,Sunday,8187
+621,GP,Gabriel Pereira,11/15/2022,1086,Cash,No,,84765704,,cas,Tuesday,
+711,GP,Gabriel Pereira,11/15/2022,1467,Check,No,,12060212,Novobanco,che,Tuesday,7919
+1003,GP,Gabriel Pereira,11/15/2022,911,Credit Card,No,1.52911E+13,2556184,Banco Cruzeiro do Sul,cre,Tuesday,
+35,GP,Gabriel Pereira,11/16/2022,1433,Cash,No,,47143455,,cas,Wednesday,
+117,GP,Gabriel Pereira,11/18/2022,1485,Cash,No,,7844736,,cas,Friday,
+1028,GP,Gabriel Pereira,11/18/2022,1539,Check,No,,48997184,Chase,che,Friday,9769
+1895,GP,Gabriel Pereira,11/18/2022,1599,Credit Card,Yes,6.08959E+15,68960083,Banco Cruzeiro do Sul,cre,Friday,
+439,GP,Gabriel Pereira,11/20/2022,1365,Credit Card,No,7.73201E+15,99118773,Banco Cruzeiro do Sul,cre,Sunday,
+764,GP,Gabriel Pereira,11/20/2022,1140,Cash,No,,80996132,,cas,Sunday,
+858,GP,Gabriel Pereira,11/21/2022,1115,Check,No,,90254257,Banco Do Brasil,che,Monday,1924
+861,GP,Gabriel Pereira,11/22/2022,1480,Credit Card,No,9.8108E+14,57727853,Chase,cre,Tuesday,
+98,GP,Gabriel Pereira,11/23/2022,1188,Cash,No,,62392407,,cas,Wednesday,
+967,GP,Gabriel Pereira,11/24/2022,940,Cash,No,,98487045,,cas,Thursday,
+1845,GP,Gabriel Pereira,11/29/2022,1587,Credit Card,Yes,9.14353E+15,96546628,Banco Atlantico Europa,cre,Tuesday,
+1171,GP,Gabriel Pereira,11/30/2022,912,Credit Card,No,9.10452E+15,49135992,Banco Palmas,cre,Wednesday,
+1637,GP,Gabriel Pereira,12/1/2022,1566,Cash,No,,98344369,,cas,Thursday,
+722,GP,Gabriel Pereira,12/2/2022,1395,Cash,No,,30448360,,cas,Friday,
+1995,GP,Gabriel Pereira,12/2/2022,1053,Check,No,,37287567,Caixa Geral de Depósitos,che,Friday,4409
+93,GP,Gabriel Pereira,12/4/2022,1246,Check,No,,51518644,Chase,che,Sunday,6461
+274,GP,Gabriel Pereira,12/4/2022,1212,Cash,No,,29142834,,cas,Sunday,
+1222,GP,Gabriel Pereira,12/4/2022,1257,Cash,No,,44974700,,cas,Sunday,
+1413,GP,Gabriel Pereira,12/5/2022,1479,Check,No,,70692195,Banco Atlantico Europa,che,Monday,4110
+890,GP,Gabriel Pereira,12/6/2022,1051,Cash,No,,82975147,,cas,Tuesday,
+918,GP,Gabriel Pereira,12/6/2022,1569,Credit Card,No,4.23597E+14,7756085,Caixa Geral de Depósitos,cre,Tuesday,
+1482,GP,Gabriel Pereira,12/6/2022,1138,Cash,No,,1703630,,cas,Tuesday,
+1256,GP,Gabriel Pereira,12/7/2022,1297,Check,No,,64196234,Chase,che,Wednesday,2831
+392,GP,Gabriel Pereira,12/9/2022,1356,Credit Card,No,2.00643E+15,83067198,Banco Palmas,cre,Friday,
+581,GP,Gabriel Pereira,12/10/2022,1374,Check,No,,75011117,Banco Do Brasil,che,Saturday,1377
+1654,GP,Gabriel Pereira,12/11/2022,1395,Credit Card,No,5.29877E+15,44500202,Novobanco,cre,Sunday,
+1618,GP,Gabriel Pereira,12/12/2022,1430,Credit Card,No,8.54927E+15,14605190,Banco Palmas,cre,Monday,
+1801,GP,Gabriel Pereira,12/12/2022,1043,Check,No,,28537006,Banco Cruzeiro do Sul,che,Monday,5158
+1088,GP,Gabriel Pereira,12/13/2022,1497,Cash,No,,13712436,,cas,Tuesday,
+1112,GP,Gabriel Pereira,12/13/2022,1371,Check,No,,62409649,Novobanco,che,Tuesday,7287
+294,GP,Gabriel Pereira,12/14/2022,1309,Cash,No,,69380118,,cas,Wednesday,
+1565,GP,Gabriel Pereira,12/14/2022,1353,Credit Card,No,8.92064E+15,28010419,Banco Cruzeiro do Sul,cre,Wednesday,
+203,GP,Gabriel Pereira,12/15/2022,1498,Credit Card,No,2.77562E+15,49035213,Banco Palmas,cre,Thursday,
+1622,GP,Gabriel Pereira,12/15/2022,1369,Check,No,,70531105,Banco Do Brasil,che,Thursday,5006
+307,GP,Gabriel Pereira,12/16/2022,1191,Cash,No,,87716947,,cas,Friday,
+1311,GP,Gabriel Pereira,12/17/2022,1145,Check,No,,9794122,Banco Cruzeiro do Sul,che,Saturday,9912
+1125,GP,Gabriel Pereira,12/20/2022,1215,Cash,No,,38906235,,cas,Tuesday,
+1369,GP,Gabriel Pereira,12/20/2022,1354,Cash,No,,80839065,,cas,Tuesday,
+1553,GP,Gabriel Pereira,12/20/2022,1000,Check,No,,2470288,Caixa Geral de Depósitos,che,Tuesday,5740
+1029,GP,Gabriel Pereira,12/22/2022,1274,Check,No,,93259140,Banco Cruzeiro do Sul,che,Thursday,4185
+1689,GP,Gabriel Pereira,12/22/2022,1212,Credit Card,No,2.40663E+15,33437518,Novobanco,cre,Thursday,
+1745,GP,Gabriel Pereira,12/24/2022,1096,Credit Card,Yes,5.97224E+15,66809846,Millennium BCP,cre,Saturday,
+222,GP,Gabriel Pereira,12/25/2022,1307,Cash,No,,41862565,,cas,Sunday,
+246,GP,Gabriel Pereira,12/25/2022,1008,Cash,No,,34835642,,cas,Sunday,
+1650,GP,Gabriel Pereira,12/26/2022,1143,Credit Card,No,2.75577E+15,44318343,Novobanco,cre,Monday,
+1333,GP,Gabriel Pereira,12/28/2022,1546,Cash,No,,4610079,,cas,Wednesday,
+1356,GP,Gabriel Pereira,12/29/2022,1199,Cash,No,,54677205,,cas,Thursday,
+1490,GP,Gabriel Pereira,12/29/2022,1556,Check,No,,84196233,Chase,che,Thursday,8034
+1278,GP,Gabriel Pereira,12/30/2022,1029,Credit Card,No,5.99673E+15,34704747,Novobanco,cre,Friday,
+1562,GP,Gabriel Pereira,12/30/2022,1424,Cash,No,,10066890,,cas,Friday,
+70,GP,Gabriel Pereira,1/2/2023,1351,Credit Card,No,2.14562E+15,45171236,Banco Palmas,cre,Monday,
+1012,GP,Gabriel Pereira,1/2/2023,1134,Check,No,,58243017,Novobanco,che,Monday,6041
+1709,GP,Gabriel Pereira,1/2/2023,933,Check,No,,94065658,Chase,che,Monday,4967
+340,GP,Gabriel Pereira,1/3/2023,1532,Cash,Yes,,1645104,,cas,Tuesday,
+1966,GP,Gabriel Pereira,1/3/2023,1580,Credit Card,No,6.94731E+15,24402936,Banco Do Brasil,cre,Tuesday,
+635,GP,Gabriel Pereira,1/4/2023,1340,Cash,No,,30644212,,cas,Wednesday,
+994,GP,Gabriel Pereira,1/7/2023,1512,Check,No,,30748207,Banco Do Brasil,che,Saturday,7747
+1228,GP,Gabriel Pereira,1/8/2023,1212,Check,No,,99939344,Banco Atlantico Europa,che,Sunday,5670
+601,GP,Gabriel Pereira,1/10/2023,921,Credit Card,No,8.03057E+15,92823414,Banco Do Brasil,cre,Tuesday,
+673,GP,Gabriel Pereira,1/10/2023,1255,Cash,No,,7272849,,cas,Tuesday,
+1535,GP,Gabriel Pereira,1/11/2023,905,Credit Card,No,8.66342E+15,85297356,Caixa Geral de Depósitos,cre,Wednesday,
+320,GP,Gabriel Pereira,1/13/2023,1182,Check,No,,30097925,Caixa Geral de Depósitos,che,Friday,5075
+521,GP,Gabriel Pereira,1/13/2023,1142,Credit Card,No,9.71791E+15,49611080,Banco Cruzeiro do Sul,cre,Friday,
+1513,GP,Gabriel Pereira,1/14/2023,1293,Cash,No,,62159584,,cas,Saturday,
+523,GP,Gabriel Pereira,1/15/2023,1338,Check,No,,50785931,Caixa Geral de Depósitos,che,Sunday,1201
+837,GP,Gabriel Pereira,1/16/2023,1451,Check,No,,87851935,Banco Do Brasil,che,Monday,8623
+959,GP,Gabriel Pereira,1/17/2023,908,Credit Card,No,7.12007E+15,45109109,Millennium BCP,cre,Tuesday,
+1881,GP,Gabriel Pereira,1/17/2023,906,Credit Card,No,5.99977E+15,19247411,Caixa Geral de Depósitos,cre,Tuesday,
+313,GP,Gabriel Pereira,1/18/2023,907,Check,No,,68663266,Banco Do Brasil,che,Wednesday,5308
+1145,GP,Gabriel Pereira,1/18/2023,995,Cash,Yes,,38453198,,cas,Wednesday,
+1361,GP,Gabriel Pereira,1/19/2023,1169,Check,No,,86932055,Banco Do Brasil,che,Thursday,5255
+1484,GP,Gabriel Pereira,1/19/2023,1240,Check,Yes,,98309413,Banco Cruzeiro do Sul,che,Thursday,1198
+927,GP,Gabriel Pereira,1/21/2023,1373,Check,No,,14339527,Banco Palmas,che,Saturday,5024
+949,GP,Gabriel Pereira,1/22/2023,1527,Cash,No,,54508917,,cas,Sunday,
+1317,GP,Gabriel Pereira,1/22/2023,1372,Credit Card,No,1.30722E+15,67221045,Banco Cruzeiro do Sul,cre,Sunday,
+1660,GP,Gabriel Pereira,1/22/2023,1558,Cash,No,,56972965,,cas,Sunday,
+1074,GP,Gabriel Pereira,1/24/2023,1234,Check,No,,14388232,Banco Palmas,che,Tuesday,6958
+921,GP,Gabriel Pereira,1/27/2023,1118,Credit Card,No,7.73127E+15,19236534,Novobanco,cre,Friday,
+1820,GP,Gabriel Pereira,1/27/2023,1213,Credit Card,No,8.35967E+15,24736500,Banco Do Brasil,cre,Friday,
+691,GP,Gabriel Pereira,1/28/2023,968,Cash,No,,61912841,,cas,Saturday,
+726,GP,Gabriel Pereira,1/28/2023,1065,Cash,No,,38300081,,cas,Saturday,
+1629,GP,Gabriel Pereira,1/28/2023,995,Check,No,,11486005,Millennium BCP,che,Saturday,1071
+830,GP,Gabriel Pereira,1/29/2023,929,Check,No,,45553470,Banco Palmas,che,Sunday,8507
+33,GP,Gabriel Pereira,2/2/2023,1430,Cash,Yes,,31727889,,cas,Thursday,
+677,GP,Gabriel Pereira,2/3/2023,1492,Credit Card,No,3.42683E+15,12875857,Banco Palmas,cre,Friday,
+1527,GP,Gabriel Pereira,2/3/2023,1282,Check,Yes,,18731439,Caixa Geral de Depósitos,che,Friday,6317
+311,GP,Gabriel Pereira,2/4/2023,991,Cash,No,,64240082,,cas,Saturday,
+147,GP,Gabriel Pereira,2/6/2023,1374,Credit Card,No,6.88263E+15,46990139,Banco Do Brasil,cre,Monday,
+423,GP,Gabriel Pereira,2/6/2023,1334,Check,No,,29912347,Banco Palmas,che,Monday,2083
+454,GP,Gabriel Pereira,2/6/2023,1141,Cash,No,,12347649,,cas,Monday,
+507,GP,Gabriel Pereira,2/8/2023,1446,Check,No,,90705626,Millennium BCP,che,Wednesday,9649
+1633,GP,Gabriel Pereira,2/8/2023,1557,Cash,No,,95674068,,cas,Wednesday,
+15,GP,Gabriel Pereira,2/9/2023,1316,Credit Card,Yes,6.5667E+15,26247317,Caixa Geral de Depósitos,cre,Thursday,
+701,GP,Gabriel Pereira,2/9/2023,1011,Check,No,,48769984,Chase,che,Thursday,7247
+1738,GP,Gabriel Pereira,2/10/2023,1469,Cash,No,,86865629,,cas,Friday,
+225,GP,Gabriel Pereira,2/11/2023,1097,Credit Card,Yes,1.63295E+15,70998616,Chase,cre,Saturday,
+1381,GP,Gabriel Pereira,2/12/2023,1134,Credit Card,Yes,9.28452E+15,5143219,Caixa Geral de Depósitos,cre,Sunday,
+1906,GP,Gabriel Pereira,2/12/2023,1021,Cash,No,,24903223,,cas,Sunday,
+1242,GP,Gabriel Pereira,2/13/2023,916,Credit Card,No,2.22405E+15,46199240,Novobanco,cre,Monday,
+676,GP,Gabriel Pereira,2/18/2023,1594,Check,No,,61449429,Novobanco,che,Saturday,6283
+1107,GP,Gabriel Pereira,2/18/2023,926,Cash,No,,67571236,,cas,Saturday,
+1415,GP,Gabriel Pereira,2/18/2023,955,Check,No,,17816780,Novobanco,che,Saturday,7175
+1289,GP,Gabriel Pereira,2/19/2023,1424,Credit Card,No,9.15673E+15,69143362,Banco Cruzeiro do Sul,cre,Sunday,
+95,GP,Gabriel Pereira,2/21/2023,1030,Check,No,,81685054,Chase,che,Tuesday,4509
+728,GP,Gabriel Pereira,2/21/2023,1286,Check,No,,41118600,Chase,che,Tuesday,2565
+105,GP,Gabriel Pereira,2/22/2023,1558,Credit Card,No,7.72217E+15,87403450,Banco Palmas,cre,Wednesday,
+690,GP,Gabriel Pereira,2/22/2023,1441,Credit Card,Yes,1.30206E+14,39785598,Chase,cre,Wednesday,
+1852,GP,Gabriel Pereira,2/24/2023,1494,Check,No,,56924768,Banco Do Brasil,che,Friday,5742
+1950,GP,Gabriel Pereira,2/24/2023,1531,Check,No,,71232036,Novobanco,che,Friday,9568
+908,GP,Gabriel Pereira,2/27/2023,1110,Check,No,,61880819,Millennium BCP,che,Monday,5173
+1373,GP,Gabriel Pereira,2/27/2023,902,Cash,No,,56020801,,cas,Monday,
+279,GP,Gabriel Pereira,3/1/2023,1253,Cash,No,,90827231,,cas,Wednesday,
+1627,GP,Gabriel Pereira,3/1/2023,1232,Credit Card,No,9.89075E+15,97772659,Banco Atlantico Europa,cre,Wednesday,
+1594,GP,Gabriel Pereira,3/4/2023,1588,Credit Card,No,2.76729E+15,12914650,Chase,cre,Saturday,
+1935,GP,Gabriel Pereira,3/4/2023,1069,Credit Card,No,9.61831E+15,25972055,Banco Cruzeiro do Sul,cre,Saturday,
+763,GP,Gabriel Pereira,3/6/2023,1590,Check,No,,96815790,Banco Do Brasil,che,Monday,3918
+1104,GP,Gabriel Pereira,3/6/2023,1453,Credit Card,No,6.02042E+15,72117088,Banco Cruzeiro do Sul,cre,Monday,
+1124,GP,Gabriel Pereira,3/7/2023,1218,Cash,No,,57758097,,cas,Tuesday,
+1354,GP,Gabriel Pereira,3/7/2023,1499,Cash,No,,15738551,,cas,Tuesday,
+551,GP,Gabriel Pereira,3/8/2023,1096,Check,No,,31220681,Banco Palmas,che,Wednesday,6286
+1545,GP,Gabriel Pereira,3/8/2023,1486,Cash,No,,11266497,,cas,Wednesday,
+960,GP,Gabriel Pereira,3/10/2023,1096,Credit Card,No,7.1495E+15,81793406,Banco Palmas,cre,Friday,
+1011,GP,Gabriel Pereira,3/11/2023,1299,Cash,No,,62554026,,cas,Saturday,
+857,GP,Gabriel Pereira,3/13/2023,1106,Credit Card,No,7.32808E+15,69572790,Banco Do Brasil,cre,Monday,
+1233,GP,Gabriel Pereira,3/13/2023,928,Credit Card,No,5.12138E+15,70861993,Caixa Geral de Depósitos,cre,Monday,
+854,GP,Gabriel Pereira,3/14/2023,1323,Cash,No,,37490607,,cas,Tuesday,
+1471,GP,Gabriel Pereira,3/14/2023,1326,Cash,No,,22394612,,cas,Tuesday,
+221,GP,Gabriel Pereira,3/15/2023,1577,Check,No,,31032417,Caixa Geral de Depósitos,che,Wednesday,6052
+501,GP,Gabriel Pereira,3/15/2023,1066,Credit Card,No,7.72881E+15,11594082,Caixa Geral de Depósitos,cre,Wednesday,
+1903,GP,Gabriel Pereira,3/15/2023,1123,Cash,No,,73071776,,cas,Wednesday,
+1766,GP,Gabriel Pereira,3/16/2023,1297,Credit Card,Yes,7.59002E+15,69285516,Chase,cre,Thursday,
+255,GP,Gabriel Pereira,3/18/2023,955,Credit Card,No,5.89976E+15,51027261,Banco Cruzeiro do Sul,cre,Saturday,
+428,GP,Gabriel Pereira,3/21/2023,1208,Cash,No,,51895202,,cas,Tuesday,
+1425,GP,Gabriel Pereira,3/21/2023,1178,Check,No,,15977385,Banco Cruzeiro do Sul,che,Tuesday,7554
+1927,GP,Gabriel Pereira,3/21/2023,1192,Credit Card,No,3.68958E+15,10900701,Banco Atlantico Europa,cre,Tuesday,
+1389,GP,Gabriel Pereira,3/23/2023,953,Check,No,,32174003,Caixa Geral de Depósitos,che,Thursday,1817
+184,GP,Gabriel Pereira,3/24/2023,1190,Cash,No,,29750017,,cas,Friday,
+645,GP,Gabriel Pereira,3/24/2023,952,Check,No,,62658263,Caixa Geral de Depósitos,che,Friday,3069
+1451,GP,Gabriel Pereira,3/26/2023,908,Cash,Yes,,81640989,,cas,Sunday,
+781,GP,Gabriel Pereira,3/27/2023,1242,Cash,No,,16966630,,cas,Monday,
+1116,GP,Gabriel Pereira,3/27/2023,1015,Check,No,,35923613,Banco Do Brasil,che,Monday,8784
+1741,GP,Gabriel Pereira,3/29/2023,1488,Cash,No,,13531755,,cas,Wednesday,
+430,GP,Gabriel Pereira,3/31/2023,1092,Check,No,,88816711,Chase,che,Friday,1284
+1147,GP,Gabriel Pereira,4/1/2023,1592,Credit Card,Yes,3.07621E+15,66664110,Novobanco,cre,Saturday,
+1534,GP,Gabriel Pereira,4/1/2023,1321,Check,No,,23428644,Banco Atlantico Europa,che,Saturday,8015
+48,GP,Gabriel Pereira,4/2/2023,1098,Cash,No,,24082400,,cas,Sunday,
+1035,GP,Gabriel Pereira,4/2/2023,1068,Cash,No,,869661,,cas,Sunday,
+835,GP,Gabriel Pereira,4/3/2023,1124,Credit Card,No,7.32043E+15,28969645,Banco Cruzeiro do Sul,cre,Monday,
+747,GP,Gabriel Pereira,4/5/2023,1022,Credit Card,No,5.18439E+14,60138241,Chase,cre,Wednesday,
+752,GP,Gabriel Pereira,4/7/2023,1092,Cash,No,,24474175,,cas,Friday,
+1071,GP,Gabriel Pereira,4/9/2023,964,Credit Card,No,2.04911E+15,87508276,Caixa Geral de Depósitos,cre,Sunday,
+1876,GP,Gabriel Pereira,4/10/2023,1149,Credit Card,No,9.19325E+15,79499952,Chase,cre,Monday,
+472,GP,Gabriel Pereira,4/11/2023,1231,Credit Card,Yes,7.77491E+15,50189616,Banco Cruzeiro do Sul,cre,Tuesday,
+64,GP,Gabriel Pereira,4/12/2023,1501,Check,No,,72787558,Novobanco,che,Wednesday,8460
+1926,GP,Gabriel Pereira,4/14/2023,1308,Credit Card,Yes,9.19848E+15,15207710,Banco Atlantico Europa,cre,Friday,
+516,GP,Gabriel Pereira,4/15/2023,908,Credit Card,No,3.70305E+15,47930361,Banco Cruzeiro do Sul,cre,Saturday,
+822,GP,Gabriel Pereira,4/17/2023,1596,Credit Card,No,3.5893E+15,21293289,Novobanco,cre,Monday,
+38,GP,Gabriel Pereira,4/18/2023,1378,Credit Card,No,8.0699E+15,75564641,Banco Atlantico Europa,cre,Tuesday,
+236,GP,Gabriel Pereira,4/18/2023,1573,Check,No,,17248251,Banco Do Brasil,che,Tuesday,6820
+1358,GP,Gabriel Pereira,4/18/2023,1208,Check,No,,72602925,Banco Cruzeiro do Sul,che,Tuesday,7462
+1094,GP,Gabriel Pereira,4/20/2023,1008,Credit Card,No,4.76011E+15,31764172,Novobanco,cre,Thursday,
+1771,GP,Gabriel Pereira,4/24/2023,1273,Check,No,,60825263,Banco Atlantico Europa,che,Monday,5332
+1203,GP,Gabriel Pereira,4/25/2023,1596,Check,No,,70173208,Novobanco,che,Tuesday,6594
+832,GP,Gabriel Pereira,4/26/2023,1411,Credit Card,No,9.83541E+15,55752250,Caixa Geral de Depósitos,cre,Wednesday,
+427,GP,Gabriel Pereira,4/28/2023,1165,Credit Card,No,2.57252E+15,83219285,Banco Palmas,cre,Friday,
+460,GP,Gabriel Pereira,5/1/2023,1508,Check,No,,57724295,Banco Cruzeiro do Sul,che,Monday,4254
+80,GP,Gabriel Pereira,5/2/2023,1010,Cash,No,,51493689,,cas,Tuesday,
+1987,GP,Gabriel Pereira,5/2/2023,1480,Cash,No,,60030119,,cas,Tuesday,
+1724,GP,Gabriel Pereira,5/5/2023,955,Credit Card,No,3.04408E+14,84557663,Banco Cruzeiro do Sul,cre,Friday,
+522,GP,Gabriel Pereira,5/7/2023,1290,Cash,Yes,,63990767,,cas,Sunday,
+1463,GP,Gabriel Pereira,5/8/2023,1047,Check,No,,73239644,Millennium BCP,che,Monday,4048
+936,GP,Gabriel Pereira,5/9/2023,1529,Cash,Yes,,43768550,,cas,Tuesday,
+1062,GP,Gabriel Pereira,5/10/2023,1224,Credit Card,Yes,9.42141E+15,78092704,Banco Palmas,cre,Wednesday,
+1015,GP,Gabriel Pereira,5/13/2023,1198,Credit Card,No,3.35385E+15,78718093,Banco Do Brasil,cre,Saturday,
+633,GP,Gabriel Pereira,5/15/2023,974,Credit Card,No,7.15779E+15,15597371,Banco Cruzeiro do Sul,cre,Monday,
+940,GP,Gabriel Pereira,5/15/2023,1499,Check,No,,83065031,Chase,che,Monday,2513
+309,GP,Gabriel Pereira,5/16/2023,923,Credit Card,No,4.13261E+15,49216433,Banco Cruzeiro do Sul,cre,Tuesday,
+530,GP,Gabriel Pereira,5/16/2023,1448,Cash,No,,53042897,,cas,Tuesday,
+1462,GP,Gabriel Pereira,5/19/2023,906,Check,No,,22095673,Banco Do Brasil,che,Friday,4107
+1829,GP,Gabriel Pereira,5/19/2023,989,Credit Card,No,8.07819E+15,97157557,Caixa Geral de Depósitos,cre,Friday,
+670,GP,Gabriel Pereira,5/20/2023,1125,Check,No,,57039653,Caixa Geral de Depósitos,che,Saturday,4175
+1214,GP,Gabriel Pereira,5/21/2023,1472,Cash,No,,85201362,,cas,Sunday,
+1393,GP,Gabriel Pereira,5/22/2023,1128,Check,No,,36109441,Novobanco,che,Monday,5909
+1262,GP,Gabriel Pereira,5/23/2023,1132,Credit Card,No,3.89634E+15,71368410,Caixa Geral de Depósitos,cre,Tuesday,
+823,GP,Gabriel Pereira,5/24/2023,1107,Cash,Yes,,64686775,,cas,Wednesday,
+1596,GP,Gabriel Pereira,5/24/2023,1040,Cash,No,,84070339,,cas,Wednesday,
+75,GP,Gabriel Pereira,5/25/2023,1048,Credit Card,No,2.10205E+15,11775891,Banco Atlantico Europa,cre,Thursday,
+780,GP,Gabriel Pereira,5/26/2023,1313,Cash,No,,47226408,,cas,Friday,
+1561,GP,Gabriel Pereira,5/26/2023,1569,Cash,No,,30686240,,cas,Friday,
+1573,GP,Gabriel Pereira,5/27/2023,1084,Cash,No,,8423242,,cas,Saturday,
+1541,GP,Gabriel Pereira,5/29/2023,1129,Check,No,,11683710,Banco Do Brasil,che,Monday,1378
+1775,GP,Gabriel Pereira,6/1/2023,1408,Credit Card,No,2.20148E+15,28360308,Banco Atlantico Europa,cre,Thursday,
+559,GP,Gabriel Pereira,6/2/2023,1392,Credit Card,No,5.66278E+15,49828246,Banco Atlantico Europa,cre,Friday,
+1259,GP,Gabriel Pereira,6/2/2023,1529,Cash,No,,69999498,,cas,Friday,
+1456,GP,Gabriel Pereira,6/4/2023,1555,Credit Card,No,6.02352E+15,31671560,Banco Palmas,cre,Sunday,
+1064,GP,Gabriel Pereira,6/5/2023,1497,Check,No,,78744227,Banco Palmas,che,Monday,9359
+1520,GP,Gabriel Pereira,6/5/2023,1363,Check,Yes,,24461440,Chase,che,Monday,4461
+1758,GP,Gabriel Pereira,6/7/2023,1015,Cash,No,,97710011,,cas,Wednesday,
+1590,GP,Gabriel Pereira,6/9/2023,1125,Cash,Yes,,27245533,,cas,Friday,
+349,GP,Gabriel Pereira,6/11/2023,1368,Credit Card,No,9.657E+14,38860868,Millennium BCP,cre,Sunday,
+341,GP,Gabriel Pereira,6/12/2023,1564,Cash,No,,68157981,,cas,Monday,
+1345,GP,Gabriel Pereira,6/12/2023,1273,Credit Card,No,1.37536E+15,7279037,Caixa Geral de Depósitos,cre,Monday,
+965,GP,Gabriel Pereira,6/13/2023,1088,Credit Card,No,2.46175E+15,60055955,Millennium BCP,cre,Tuesday,
+1944,GP,Gabriel Pereira,6/13/2023,963,Cash,Yes,,65948053,,cas,Tuesday,
+1068,GP,Gabriel Pereira,6/14/2023,1224,Credit Card,No,5.57084E+15,66997273,Novobanco,cre,Wednesday,
+1464,GP,Gabriel Pereira,6/14/2023,1474,Credit Card,No,2.67699E+15,52023209,Caixa Geral de Depósitos,cre,Wednesday,
+229,GP,Gabriel Pereira,6/15/2023,1133,Credit Card,No,7.54691E+15,14862890,Chase,cre,Thursday,
+1643,GP,Gabriel Pereira,6/15/2023,1070,Cash,No,,74286625,,cas,Thursday,
+253,GP,Gabriel Pereira,6/16/2023,1069,Credit Card,No,5.35408E+15,17751701,Novobanco,cre,Friday,
+82,GP,Gabriel Pereira,6/17/2023,1046,Check,No,,12018366,Banco Atlantico Europa,che,Saturday,6585
+1747,GP,Gabriel Pereira,6/18/2023,1124,Cash,No,,58667155,,cas,Sunday,
+66,GP,Gabriel Pereira,6/19/2023,1570,Credit Card,Yes,4.59616E+15,31611724,Millennium BCP,cre,Monday,
+1306,GP,Gabriel Pereira,6/20/2023,1227,Cash,No,,35872717,,cas,Tuesday,
+416,GP,Gabriel Pereira,6/21/2023,1137,Check,No,,69557988,Banco Atlantico Europa,che,Wednesday,8503
+469,GP,Gabriel Pereira,6/21/2023,1187,Check,No,,64494856,Chase,che,Wednesday,6169
+1495,GP,Gabriel Pereira,6/23/2023,1455,Check,No,,8477954,Caixa Geral de Depósitos,che,Friday,8293
+494,GP,Gabriel Pereira,6/25/2023,1211,Check,No,,50489267,Banco Do Brasil,che,Sunday,9919
+1285,GP,Gabriel Pereira,6/25/2023,1441,Check,No,,41715949,Banco Atlantico Europa,che,Sunday,4267
+1301,GP,Gabriel Pereira,6/25/2023,1340,Credit Card,No,4.73157E+15,64369028,Banco Do Brasil,cre,Sunday,
+99,GP,Gabriel Pereira,6/26/2023,1280,Check,No,,81412478,Chase,che,Monday,8167
+286,GP,Gabriel Pereira,6/27/2023,944,Check,No,,37659916,Chase,che,Tuesday,5170
+826,GP,Gabriel Pereira,6/28/2023,1178,Credit Card,No,4.17693E+15,76601444,Banco Palmas,cre,Wednesday,
+1204,GP,Gabriel Pereira,6/28/2023,1051,Credit Card,No,7.72967E+15,52781055,Millennium BCP,cre,Wednesday,
+1524,GP,Gabriel Pereira,6/28/2023,1462,Cash,No,,28839047,,cas,Wednesday,
+1550,GP,Gabriel Pereira,6/30/2023,1535,Check,Yes,,42134854,Banco Cruzeiro do Sul,che,Friday,3554
+134,GP,Gabriel Pereira,7/1/2023,938,Credit Card,No,9.15479E+15,74205493,Chase,cre,Saturday,
+1681,GP,Gabriel Pereira,7/2/2023,1111,Credit Card,No,7.36707E+15,24198306,Banco Do Brasil,cre,Sunday,
+721,GP,Gabriel Pereira,7/3/2023,1207,Credit Card,No,7.76959E+15,61275156,Chase,cre,Monday,
+283,GP,Gabriel Pereira,7/5/2023,1577,Cash,No,,37977236,,cas,Wednesday,
+1776,GP,Gabriel Pereira,7/5/2023,1304,Cash,No,,70906761,,cas,Wednesday,
+1819,GP,Gabriel Pereira,7/5/2023,911,Check,Yes,,42933598,Banco Cruzeiro do Sul,che,Wednesday,8346
+1751,GP,Gabriel Pereira,7/7/2023,1265,Cash,No,,38307755,,cas,Friday,
+44,GP,Gabriel Pereira,7/8/2023,1510,Check,No,,80831367,Banco Do Brasil,che,Saturday,8800
+956,GP,Gabriel Pereira,7/9/2023,1154,Cash,No,,18856669,,cas,Sunday,
+1867,GP,Gabriel Pereira,7/9/2023,1024,Cash,No,,6989354,,cas,Sunday,
+1138,GP,Gabriel Pereira,7/10/2023,1212,Credit Card,Yes,1.81678E+15,54460838,Banco Palmas,cre,Monday,
+1979,GP,Gabriel Pereira,7/11/2023,1454,Check,No,,39237590,Banco Atlantico Europa,che,Tuesday,4055
+1483,GP,Gabriel Pereira,7/12/2023,1537,Cash,No,,42386020,,cas,Wednesday,
+1329,GP,Gabriel Pereira,7/13/2023,987,Cash,Yes,,98545829,,cas,Thursday,
+1417,GP,Gabriel Pereira,7/13/2023,1494,Check,No,,81503701,Banco Atlantico Europa,che,Thursday,1891
+486,GP,Gabriel Pereira,7/14/2023,1200,Check,No,,65729341,Banco Atlantico Europa,che,Friday,3115
+1365,GP,Gabriel Pereira,7/14/2023,1456,Cash,No,,48698305,,cas,Friday,
+1651,GP,Gabriel Pereira,7/14/2023,1529,Cash,No,,10297711,,cas,Friday,
+513,GP,Gabriel Pereira,7/16/2023,1598,Cash,No,,74355379,,cas,Sunday,
+519,GP,Gabriel Pereira,7/16/2023,1129,Credit Card,No,6.87506E+15,25411076,Millennium BCP,cre,Sunday,
+1235,GP,Gabriel Pereira,7/18/2023,1109,Cash,No,,36220334,,cas,Tuesday,
+475,GP,Gabriel Pereira,7/19/2023,1297,Cash,No,,96165926,,cas,Wednesday,
+32,GP,Gabriel Pereira,7/20/2023,1544,Check,No,,67632016,Banco Do Brasil,che,Thursday,3881
+760,GP,Gabriel Pereira,7/21/2023,1511,Check,No,,39225014,Chase,che,Friday,6670
+1880,GP,Gabriel Pereira,7/21/2023,1306,Cash,No,,32358418,,cas,Friday,
+995,GP,Gabriel Pereira,7/23/2023,1238,Credit Card,Yes,9.39407E+15,32230233,Banco Do Brasil,cre,Sunday,
+845,GP,Gabriel Pereira,7/25/2023,1023,Cash,No,,15298217,,cas,Tuesday,
+1290,GP,Gabriel Pereira,7/25/2023,1285,Check,No,,45099990,Millennium BCP,che,Tuesday,2837
+503,GP,Gabriel Pereira,7/26/2023,1190,Credit Card,No,7.01851E+15,92287772,Banco Palmas,cre,Wednesday,
+717,GP,Gabriel Pereira,7/26/2023,1342,Cash,No,,24151315,,cas,Wednesday,
+228,GP,Gabriel Pereira,7/27/2023,1239,Check,No,,74505444,Banco Atlantico Europa,che,Thursday,2609
+1237,GP,Gabriel Pereira,7/27/2023,1192,Credit Card,No,3.0435E+15,66527523,Banco Do Brasil,cre,Thursday,
+382,GP,Gabriel Pereira,7/28/2023,1524,Credit Card,No,1.89491E+15,54420949,Banco Cruzeiro do Sul,cre,Friday,
+497,GP,Gabriel Pereira,7/29/2023,1452,Check,No,,46810548,Banco Palmas,che,Saturday,3028
+886,GP,Gabriel Pereira,7/29/2023,919,Cash,No,,16295187,,cas,Saturday,
+1797,GP,Gabriel Pereira,7/29/2023,1367,Cash,No,,70399626,,cas,Saturday,
+1739,GP,Gabriel Pereira,7/30/2023,1070,Cash,No,,82282801,,cas,Sunday,
+1962,GP,Gabriel Pereira,7/30/2023,1250,Cash,No,,36291714,,cas,Sunday,
+241,GP,Gabriel Pereira,8/1/2023,1229,Check,No,,3354216,Banco Cruzeiro do Sul,che,Tuesday,3736
+598,GP,Gabriel Pereira,8/2/2023,1086,Check,No,,17722560,Banco Palmas,che,Wednesday,4251
+36,GP,Gabriel Pereira,8/3/2023,1453,Credit Card,No,3.62317E+15,9670546,Novobanco,cre,Thursday,
+484,GP,Gabriel Pereira,8/3/2023,1563,Cash,No,,17957602,,cas,Thursday,
+825,GP,Gabriel Pereira,8/3/2023,1311,Credit Card,No,9.23725E+15,74189721,Banco Palmas,cre,Thursday,
+304,GP,Gabriel Pereira,8/4/2023,1545,Check,No,,57448906,Caixa Geral de Depósitos,che,Friday,3676
+1208,GP,Gabriel Pereira,8/5/2023,1434,Check,No,,4573532,Banco Do Brasil,che,Saturday,7934
+1570,GP,Gabriel Pereira,8/5/2023,1056,Check,No,,86061065,Novobanco,che,Saturday,8531
+249,GP,Gabriel Pereira,8/6/2023,1348,Check,No,,15521667,Banco Cruzeiro do Sul,che,Sunday,7319
+1667,GP,Gabriel Pereira,8/6/2023,1191,Check,No,,99052217,Caixa Geral de Depósitos,che,Sunday,2808
+1830,GP,Gabriel Pereira,8/6/2023,1301,Cash,No,,28246306,,cas,Sunday,
+1975,GP,Gabriel Pereira,8/6/2023,1431,Cash,No,,50775257,,cas,Sunday,
+637,GP,Gabriel Pereira,8/7/2023,1338,Cash,No,,42356778,,cas,Monday,
+942,GP,Gabriel Pereira,8/7/2023,1071,Credit Card,Yes,3.91114E+15,30524808,Millennium BCP,cre,Monday,
+1051,GP,Gabriel Pereira,8/8/2023,1457,Cash,No,,73820974,,cas,Tuesday,
+1828,GP,Gabriel Pereira,8/8/2023,1563,Check,No,,56411992,Banco Palmas,che,Tuesday,7099
+1466,GP,Gabriel Pereira,8/11/2023,1298,Credit Card,No,7.56999E+15,32262277,Banco Atlantico Europa,cre,Friday,
+1792,GP,Gabriel Pereira,8/11/2023,1446,Credit Card,No,7.31816E+15,59476111,Millennium BCP,cre,Friday,
+1264,GP,Gabriel Pereira,8/13/2023,1091,Cash,No,,18750677,,cas,Sunday,
+26,GP,Gabriel Pereira,8/15/2023,1266,Credit Card,No,1.58692E+15,21607337,Banco Palmas,cre,Tuesday,
+1347,GP,Gabriel Pereira,8/17/2023,907,Credit Card,No,8.08558E+15,22169069,Novobanco,cre,Thursday,
+864,GP,Gabriel Pereira,8/18/2023,1374,Check,No,,65436271,Banco Atlantico Europa,che,Friday,5920
+779,GP,Gabriel Pereira,8/19/2023,1513,Cash,No,,51588863,,cas,Saturday,
+1000,GP,Gabriel Pereira,8/19/2023,955,Credit Card,No,8.18769E+15,98138815,Caixa Geral de Depósitos,cre,Saturday,
+68,GP,Gabriel Pereira,8/20/2023,1194,Check,No,,17594647,Banco Cruzeiro do Sul,che,Sunday,4263
+1699,GP,Gabriel Pereira,8/20/2023,1082,Check,No,,78925714,Millennium BCP,che,Sunday,3130
+243,GP,Gabriel Pereira,8/21/2023,1401,Cash,No,,26033230,,cas,Monday,
+1634,GP,Gabriel Pereira,8/24/2023,1404,Credit Card,No,4.45345E+15,48348358,Novobanco,cre,Thursday,
+865,GP,Gabriel Pereira,8/27/2023,1538,Cash,Yes,,35826862,,cas,Sunday,
+988,GP,Gabriel Pereira,8/28/2023,1036,Credit Card,No,7.63882E+15,1913443,Chase,cre,Monday,
+1160,GP,Gabriel Pereira,8/30/2023,1569,Credit Card,No,9.48543E+15,52944716,Caixa Geral de Depósitos,cre,Wednesday,
+462,GP,Gabriel Pereira,9/1/2023,991,Cash,No,,20696942,,cas,Friday,
+679,GP,Gabriel Pereira,9/1/2023,1209,Credit Card,No,5.29894E+15,4159149,Banco Atlantico Europa,cre,Friday,
+1696,GP,Gabriel Pereira,9/3/2023,984,Credit Card,Yes,3.84716E+15,86016744,Chase,cre,Sunday,
+604,GP,Gabriel Pereira,9/4/2023,1521,Credit Card,No,4.75541E+15,53439611,Chase,cre,Monday,
+816,GP,Gabriel Pereira,9/5/2023,1171,Check,No,,5070260,Novobanco,che,Tuesday,9604
+1566,GP,Gabriel Pereira,9/7/2023,1237,Credit Card,No,9.52814E+15,18893063,Banco Palmas,cre,Thursday,
+1653,GP,Gabriel Pereira,9/7/2023,1362,Credit Card,No,8.16291E+15,36915737,Novobanco,cre,Thursday,
+544,GP,Gabriel Pereira,9/8/2023,1482,Cash,No,,90147546,,cas,Friday,
+267,GP,Gabriel Pereira,9/9/2023,1164,Cash,No,,66506180,,cas,Saturday,
+1018,GP,Gabriel Pereira,9/10/2023,1089,Credit Card,No,9.15618E+14,44916093,Novobanco,cre,Sunday,
+1488,GP,Gabriel Pereira,9/10/2023,1443,Check,No,,25849073,Banco Cruzeiro do Sul,che,Sunday,3516
+698,GP,Gabriel Pereira,9/11/2023,1040,Check,No,,83152037,Banco Atlantico Europa,che,Monday,2871
+847,GP,Gabriel Pereira,9/11/2023,1439,Check,No,,88683452,Banco Atlantico Europa,che,Monday,4244
+1577,GP,Gabriel Pereira,9/11/2023,1043,Check,No,,29917217,Banco Cruzeiro do Sul,che,Monday,3571
+353,GP,Gabriel Pereira,9/12/2023,1243,Check,No,,22220644,Banco Atlantico Europa,che,Tuesday,5731
+208,GP,Gabriel Pereira,9/13/2023,1479,Check,No,,42059304,Millennium BCP,che,Wednesday,8728
+111,GP,Gabriel Pereira,9/14/2023,1475,Credit Card,No,4.73947E+15,18844225,Banco Do Brasil,cre,Thursday,
+1059,GP,Gabriel Pereira,9/15/2023,1392,Check,No,,3859340,Caixa Geral de Depósitos,che,Friday,6967
+1100,GP,Gabriel Pereira,9/15/2023,1158,Credit Card,Yes,4.93882E+15,49980949,Banco Atlantico Europa,cre,Friday,
+1275,GP,Gabriel Pereira,9/15/2023,919,Check,No,,72600136,Banco Palmas,che,Friday,3013
+1407,GP,Gabriel Pereira,9/17/2023,1335,Check,No,,30677306,Banco Atlantico Europa,che,Sunday,2970
+1443,GP,Gabriel Pereira,9/18/2023,1457,Check,No,,40788026,Banco Palmas,che,Monday,3579
+911,GP,Gabriel Pereira,9/19/2023,973,Check,No,,36438130,Millennium BCP,che,Tuesday,1509
+1295,GP,Gabriel Pereira,9/19/2023,1168,Cash,No,,43672868,,cas,Tuesday,
+1826,GP,Gabriel Pereira,9/19/2023,974,Cash,Yes,,32510715,,cas,Tuesday,
+561,GP,Gabriel Pereira,9/20/2023,1094,Credit Card,Yes,8.57667E+15,92364587,Banco Palmas,cre,Wednesday,
+1148,GP,Gabriel Pereira,9/20/2023,1279,Cash,No,,13407851,,cas,Wednesday,
+153,GP,Gabriel Pereira,9/21/2023,1455,Check,No,,80100623,Caixa Geral de Depósitos,che,Thursday,3474
+477,GP,Gabriel Pereira,9/22/2023,946,Check,No,,66179454,Caixa Geral de Depósitos,che,Friday,9248
+377,GP,Gabriel Pereira,9/25/2023,1345,Check,No,,51909862,Banco Cruzeiro do Sul,che,Monday,2022
+1938,GP,Gabriel Pereira,9/25/2023,1158,Check,No,,21461727,Banco Palmas,che,Monday,9770
+1070,GP,Gabriel Pereira,9/26/2023,1277,Cash,No,,18328123,,cas,Tuesday,
+1143,GP,Gabriel Pereira,9/28/2023,1060,Check,No,,28809832,Chase,che,Thursday,2984
+671,GP,Gabriel Pereira,9/29/2023,1286,Check,No,,48782455,Novobanco,che,Friday,7836
+1511,GP,Gabriel Pereira,10/1/2023,1577,Cash,No,,33241651,,cas,Sunday,
+1603,GP,Gabriel Pereira,10/2/2023,1312,Check,No,,64717784,Millennium BCP,che,Monday,2494
+1796,GP,Gabriel Pereira,10/2/2023,1565,Check,No,,13826870,Banco Atlantico Europa,che,Monday,8220
+1438,GP,Gabriel Pereira,10/4/2023,905,Check,No,,65191708,Banco Palmas,che,Wednesday,2471
+1539,GP,Gabriel Pereira,10/5/2023,1506,Credit Card,No,5.71276E+15,86390616,Chase,cre,Thursday,
+107,GP,Gabriel Pereira,10/6/2023,1431,Cash,No,,61692845,,cas,Friday,
+907,GP,Gabriel Pereira,10/7/2023,1267,Check,No,,82058295,Chase,che,Saturday,3285
+1986,GP,Gabriel Pereira,10/8/2023,1137,Cash,No,,40344545,,cas,Sunday,
+291,GP,Gabriel Pereira,10/10/2023,1514,Cash,Yes,,43519066,,cas,Tuesday,
+329,GP,Gabriel Pereira,10/10/2023,1160,Cash,No,,76004908,,cas,Tuesday,
+489,GP,Gabriel Pereira,10/11/2023,1348,Cash,No,,11991808,,cas,Wednesday,
+1165,GP,Gabriel Pereira,10/12/2023,1183,Check,Yes,,57955156,Chase,che,Thursday,4374
+1523,GP,Gabriel Pereira,10/13/2023,1460,Cash,Yes,,25513444,,cas,Friday,
+932,GP,Gabriel Pereira,10/14/2023,1465,Cash,No,,20895326,,cas,Saturday,
+1105,GP,Gabriel Pereira,10/14/2023,1577,Check,Yes,,18644822,Caixa Geral de Depósitos,che,Saturday,8393
+1492,GP,Gabriel Pereira,10/14/2023,1428,Credit Card,Yes,7.30663E+15,24265594,Novobanco,cre,Saturday,
+333,GP,Gabriel Pereira,10/15/2023,911,Check,No,,60480589,Chase,che,Sunday,6354
+10,GP,Gabriel Pereira,10/16/2023,1271,Cash,No,,39117182,,cas,Monday,
+1101,GP,Gabriel Pereira,10/17/2023,1304,Check,No,,73137971,Novobanco,che,Tuesday,7262
+1191,GP,Gabriel Pereira,10/18/2023,1056,Credit Card,No,6.55049E+15,33965049,Novobanco,cre,Wednesday,
+1430,GP,Gabriel Pereira,10/18/2023,1308,Credit Card,No,1.43049E+15,28720998,Novobanco,cre,Wednesday,
+695,GP,Gabriel Pereira,10/21/2023,956,Credit Card,No,3.89609E+15,71955356,Millennium BCP,cre,Saturday,
+306,GP,Gabriel Pereira,10/22/2023,1163,Cash,Yes,,15939982,,cas,Sunday,
+65,GP,Gabriel Pereira,10/24/2023,1229,Credit Card,No,3.96361E+15,51718702,Novobanco,cre,Tuesday,
+1239,GP,Gabriel Pereira,10/24/2023,910,Cash,No,,27995530,,cas,Tuesday,
+424,GP,Gabriel Pereira,10/25/2023,1504,Cash,Yes,,64628792,,cas,Wednesday,
+909,GP,Gabriel Pereira,10/27/2023,1463,Check,No,,35715586,Novobanco,che,Friday,4589
+210,GP,Gabriel Pereira,10/29/2023,1077,Credit Card,No,5.5906E+15,10393087,Millennium BCP,cre,Sunday,
+1089,GP,Gabriel Pereira,10/29/2023,1267,Check,No,,56423041,Chase,che,Sunday,1420
+693,GP,Gabriel Pereira,11/1/2023,1169,Check,Yes,,56435023,Banco Palmas,che,Wednesday,2021
+1418,GP,Gabriel Pereira,11/1/2023,1513,Credit Card,No,4.07031E+15,29682448,Banco Palmas,cre,Wednesday,
+1902,GP,Gabriel Pereira,11/1/2023,1165,Credit Card,No,8.39859E+15,37568167,Banco Cruzeiro do Sul,cre,Wednesday,
+700,GP,Gabriel Pereira,11/2/2023,926,Check,No,,54930596,Novobanco,che,Thursday,1935
+614,GP,Gabriel Pereira,11/5/2023,1542,Check,Yes,,1851327,Banco Atlantico Europa,che,Sunday,3672
+277,GP,Gabriel Pereira,11/6/2023,1267,Credit Card,No,7.31453E+15,18449892,Novobanco,cre,Monday,
+1669,GP,Gabriel Pereira,11/9/2023,909,Cash,Yes,,35631631,,cas,Thursday,
+218,GP,Gabriel Pereira,11/11/2023,995,Cash,No,,97062962,,cas,Saturday,
+1711,GP,Gabriel Pereira,11/11/2023,1321,Cash,No,,470911,,cas,Saturday,
+1575,GP,Gabriel Pereira,11/12/2023,1307,Check,No,,85574906,Chase,che,Sunday,9175
+167,GP,Gabriel Pereira,11/14/2023,1114,Cash,No,,16724342,,cas,Tuesday,
+866,GP,Gabriel Pereira,11/14/2023,1353,Credit Card,No,6.92493E+15,59980111,Millennium BCP,cre,Tuesday,
+492,GP,Gabriel Pereira,11/15/2023,930,Cash,No,,8115562,,cas,Wednesday,
+563,GP,Gabriel Pereira,11/16/2023,1597,Credit Card,No,9.92012E+15,48869461,Caixa Geral de Depósitos,cre,Thursday,
+714,GP,Gabriel Pereira,11/17/2023,999,Credit Card,No,5.0989E+15,68499515,Banco Cruzeiro do Sul,cre,Friday,
+1324,GP,Gabriel Pereira,11/17/2023,940,Check,No,,39865462,Chase,che,Friday,1159
+672,GP,Gabriel Pereira,11/18/2023,1182,Cash,No,,98591679,,cas,Saturday,
+744,GP,Gabriel Pereira,11/19/2023,1548,Cash,No,,68774186,,cas,Sunday,
+1346,GP,Gabriel Pereira,11/19/2023,1325,Credit Card,No,8.81972E+15,37530768,Caixa Geral de Depósitos,cre,Sunday,
+62,GP,Gabriel Pereira,11/22/2023,1020,Check,No,,74846773,Banco Atlantico Europa,che,Wednesday,3369
+299,GP,Gabriel Pereira,11/22/2023,1599,Credit Card,No,3.33433E+15,8075957,Banco Cruzeiro do Sul,cre,Wednesday,
+1106,GP,Gabriel Pereira,11/22/2023,1264,Check,No,,39785708,Chase,che,Wednesday,2011
+1827,GP,Gabriel Pereira,11/22/2023,1265,Cash,No,,70940422,,cas,Wednesday,
+53,GP,Gabriel Pereira,11/23/2023,1112,Check,No,,12328120,Novobanco,che,Thursday,8381
+592,GP,Gabriel Pereira,11/23/2023,1212,Cash,No,,11131290,,cas,Thursday,
+914,GP,Gabriel Pereira,11/26/2023,1402,Credit Card,No,7.17481E+15,54873961,Millennium BCP,cre,Sunday,
+852,GP,Gabriel Pereira,11/28/2023,1090,Credit Card,No,1.37399E+15,63560229,Banco Do Brasil,cre,Tuesday,
+1759,GP,Gabriel Pereira,11/28/2023,1241,Check,No,,73494314,Banco Atlantico Europa,che,Tuesday,3187
+970,GP,Gabriel Pereira,12/2/2023,1360,Credit Card,No,6.01489E+15,84136852,Banco Do Brasil,cre,Saturday,
+1312,GP,Gabriel Pereira,12/2/2023,1376,Credit Card,No,8.7265E+15,40432611,Millennium BCP,cre,Saturday,
+640,GP,Gabriel Pereira,12/3/2023,1095,Check,No,,5504481,Banco Atlantico Europa,che,Sunday,8471
+1648,GP,Gabriel Pereira,12/3/2023,1120,Cash,No,,88804851,,cas,Sunday,
+103,GP,Gabriel Pereira,12/5/2023,1438,Check,No,,88067065,Banco Cruzeiro do Sul,che,Tuesday,1266
+972,GP,Gabriel Pereira,12/5/2023,1145,Credit Card,No,4.21752E+15,15263840,Caixa Geral de Depósitos,cre,Tuesday,
+1030,GP,Gabriel Pereira,12/5/2023,1079,Credit Card,No,3.4267E+15,76072348,Banco Do Brasil,cre,Tuesday,
+675,GP,Gabriel Pereira,12/6/2023,988,Check,No,,36914307,Banco Palmas,che,Wednesday,5075
+1416,GP,Gabriel Pereira,12/6/2023,1556,Cash,No,,15890164,,cas,Wednesday,
+1746,GP,Gabriel Pereira,12/8/2023,984,Check,No,,4033480,Caixa Geral de Depósitos,che,Friday,6466
+131,GP,Gabriel Pereira,12/9/2023,980,Cash,No,,47338484,,cas,Saturday,
+856,GP,Gabriel Pereira,12/9/2023,1597,Check,No,,64844941,Caixa Geral de Depósitos,che,Saturday,7470
+1988,GP,Gabriel Pereira,12/9/2023,1323,Check,No,,27238697,Banco Cruzeiro do Sul,che,Saturday,3059
+607,GP,Gabriel Pereira,12/10/2023,1479,Credit Card,No,3.67881E+15,20293908,Banco Atlantico Europa,cre,Sunday,
+1017,GP,Gabriel Pereira,12/11/2023,985,Check,No,,75617868,Millennium BCP,che,Monday,1174
+1883,GP,Gabriel Pereira,12/11/2023,1155,Credit Card,No,8.29248E+15,31273654,Banco Palmas,cre,Monday,
+1952,GP,Gabriel Pereira,12/12/2023,907,Cash,No,,83345573,,cas,Tuesday,
+137,GP,Gabriel Pereira,12/13/2023,1036,Cash,No,,95687833,,cas,Wednesday,
+1737,GP,Gabriel Pereira,12/13/2023,1318,Cash,No,,9532670,,cas,Wednesday,
+628,GP,Gabriel Pereira,12/15/2023,1056,Check,No,,71024817,Caixa Geral de Depósitos,che,Friday,8451
+1161,GP,Gabriel Pereira,12/17/2023,1539,Check,No,,27348131,Millennium BCP,che,Sunday,5224
+807,GP,Gabriel Pereira,12/18/2023,1416,Cash,No,,74951191,,cas,Monday,
+1537,GP,Gabriel Pereira,12/19/2023,1061,Cash,No,,80966414,,cas,Tuesday,
+19,GP,Gabriel Pereira,12/20/2023,1420,Credit Card,No,1.91362E+15,85435346,Chase,cre,Wednesday,
+41,GP,Gabriel Pereira,12/20/2023,1270,Check,No,,72628498,Banco Atlantico Europa,che,Wednesday,8616
+1722,GP,Gabriel Pereira,12/20/2023,1445,Credit Card,No,6.34292E+15,12185273,Banco Cruzeiro do Sul,cre,Wednesday,
+1367,GP,Gabriel Pereira,12/21/2023,1482,Check,Yes,,42647106,Millennium BCP,che,Thursday,2170
+667,GP,Gabriel Pereira,12/23/2023,913,Check,No,,50241209,Banco Palmas,che,Saturday,8763
+1604,GP,Gabriel Pereira,12/23/2023,1522,Credit Card,No,7.16988E+15,86119976,Banco Atlantico Europa,cre,Saturday,
+1330,GP,Gabriel Pereira,12/24/2023,1216,Credit Card,No,3.40154E+15,99449466,Banco Atlantico Europa,cre,Sunday,
+1789,GP,Gabriel Pereira,12/25/2023,1301,Cash,No,,38953376,,cas,Monday,
+1337,GP,Gabriel Pereira,12/27/2023,1216,Cash,No,,43586176,,cas,Wednesday,
+1956,GP,Gabriel Pereira,12/27/2023,1185,Check,No,,46733229,Caixa Geral de Depósitos,che,Wednesday,3671
+1805,GP,Gabriel Pereira,12/28/2023,1324,Credit Card,No,9.28799E+15,56291796,Banco Cruzeiro do Sul,cre,Thursday,
+50,GP,Gabriel Pereira,12/30/2023,952,Cash,No,,71167190,,cas,Saturday,
+261,GP,Gabriel Pereira,12/31/2023,1465,Credit Card,Yes,4.39736E+15,28160648,Banco Cruzeiro do Sul,cre,Sunday,
+607,GP,Gabriel Pereira,1/3/2024,1479,Credit Card,No,3.67881E+15,20293908,Banco Atlantico Europa,cre,Sunday,
+1017,GP,Gabriel Pereira,1/3/2024,985,Check,No,,75617868,Millennium BCP,che,Monday,1176
+1883,GP,Gabriel Pereira,1/3/2024,1155,Credit Card,No,8.29248E+15,31273654,Banco Palmas,cre,Monday,
+1952,GP,Gabriel Pereira,1/3/2024,907,Cash,No,,83345573,,cas,Tuesday,
+137,GP,Gabriel Pereira,1/3/2024,1036,Cash,No,,95687833,,cas,Wednesday,
+1737,GP,Gabriel Pereira,1/8/2024,1318,Cash,No,,9532670,,cas,Wednesday,
+628,GP,Gabriel Pereira,1/9/2024,1056,Check,No,,71024817,Caixa Geral de Depósitos,che,Friday,8454
+1161,GP,Gabriel Pereira,1/10/2024,1539,Check,No,,27348131,Millennium BCP,che,Sunday,5228
+807,GP,Gabriel Pereira,1/10/2024,1416,Cash,No,,74951191,,cas,Monday,
+1537,GP,Gabriel Pereira,1/10/2024,1061,Cash,No,,80966414,,cas,Tuesday,
+19,GP,Gabriel Pereira,1/10/2024,1420,Credit Card,No,1.91362E+15,85435346,Chase,cre,Wednesday,
+41,GP,Gabriel Pereira,1/10/2024,1270,Check,No,,72628498,Banco Atlantico Europa,che,Wednesday,8617
+1722,GP,Gabriel Pereira,1/10/2024,1445,Credit Card,No,6.34292E+15,12185273,Banco Cruzeiro do Sul,cre,Wednesday,
+1367,GP,Gabriel Pereira,1/10/2024,1482,Check,Yes,,42647106,Millennium BCP,che,Thursday,2172
+667,GP,Gabriel Pereira,1/17/2024,913,Check,No,,50241209,Banco Palmas,che,Saturday,8767
+1604,GP,Gabriel Pereira,1/18/2024,1522,Credit Card,No,7.16988E+15,86119976,Banco Atlantico Europa,cre,Saturday,
+1330,GP,Gabriel Pereira,1/19/2024,1216,Credit Card,No,3.40154E+15,99449466,Banco Atlantico Europa,cre,Sunday,
+1789,GP,Gabriel Pereira,1/20/2024,1301,Cash,No,,38953376,,cas,Monday,
+1337,GP,Gabriel Pereira,1/20/2024,1216,Cash,No,,43586176,,cas,Wednesday,
+1956,GP,Gabriel Pereira,1/20/2024,1185,Check,No,,46733229,Caixa Geral de Depósitos,che,Wednesday,3679
+1805,GP,Gabriel Pereira,1/20/2024,1324,Credit Card,No,9.28799E+15,56291796,Banco Cruzeiro do Sul,cre,Thursday,
+50,GP,Gabriel Pereira,1/24/2024,952,Cash,No,,71167190,,cas,Saturday,
+261,GP,Gabriel Pereira,1/25/2024,1465,Credit Card,Yes,4.39736E+15,28160648,Banco Cruzeiro do Sul,cre,Sunday,
+607,GP,Gabriel Pereira,2/1/2024,1479,Credit Card,No,3.67881E+15,20293908,Banco Atlantico Europa,cre,Sunday,
+1017,GP,Gabriel Pereira,2/1/2024,985,Check,No,,75617868,Millennium BCP,che,Monday,1184
+1883,GP,Gabriel Pereira,2/1/2024,1155,Credit Card,No,8.29248E+15,31273654,Banco Palmas,cre,Monday,
+1952,GP,Gabriel Pereira,2/4/2024,907,Cash,No,,83345573,,cas,Tuesday,
+137,GP,Gabriel Pereira,2/5/2024,1036,Cash,No,,95687833,,cas,Wednesday,
+1737,GP,Gabriel Pereira,2/6/2024,1318,Cash,No,,9532670,,cas,Wednesday,
+628,GP,Gabriel Pereira,2/6/2024,1056,Check,No,,71024817,Caixa Geral de Depósitos,che,Friday,8461
+1161,GP,Gabriel Pereira,2/6/2024,1539,Check,No,,27348131,Millennium BCP,che,Sunday,5234
+807,GP,Gabriel Pereira,2/6/2024,1416,Cash,No,,74951191,,cas,Monday,
+1537,GP,Gabriel Pereira,2/10/2024,1061,Cash,No,,80966414,,cas,Tuesday,
+19,GP,Gabriel Pereira,2/11/2024,1420,Credit Card,No,1.91362E+15,85435346,Chase,cre,Wednesday,
+41,GP,Gabriel Pereira,2/12/2024,1270,Check,No,,72628498,Banco Atlantico Europa,che,Wednesday,8626
+1722,GP,Gabriel Pereira,2/13/2024,1445,Credit Card,No,6.34292E+15,12185273,Banco Cruzeiro do Sul,cre,Wednesday,
+1367,GP,Gabriel Pereira,2/13/2024,1482,Check,Yes,,42647106,Millennium BCP,che,Thursday,2180
+667,GP,Gabriel Pereira,2/15/2024,913,Check,No,,50241209,Banco Palmas,che,Saturday,8773
+1604,GP,Gabriel Pereira,2/16/2024,1522,Credit Card,No,7.16988E+15,86119976,Banco Atlantico Europa,cre,Saturday,
+1330,GP,Gabriel Pereira,2/17/2024,1216,Credit Card,No,3.40154E+15,99449466,Banco Atlantico Europa,cre,Sunday,
+1789,GP,Gabriel Pereira,2/4/2024,1301,Cash,No,,38953376,,cas,Monday,
+1337,GP,Gabriel Pereira,2/17/2024,1216,Cash,No,,43586176,,cas,Wednesday,
+1956,GP,Gabriel Pereira,2/17/2024,1185,Check,No,,46733229,Caixa Geral de Depósitos,che,Wednesday,3681
+1805,GP,Gabriel Pereira,2/21/2024,1324,Credit Card,No,9.28799E+15,56291796,Banco Cruzeiro do Sul,cre,Thursday,
+50,GP,Gabriel Pereira,2/22/2024,952,Cash,No,,71167190,,cas,Saturday,
+261,GP,Gabriel Pereira,2/15/2024,1465,Credit Card,Yes,4.39736E+15,28160648,Banco Cruzeiro do Sul,cre,Sunday,
+607,GP,Gabriel Pereira,3/2/2024,1479,Credit Card,No,3.67881E+15,20293908,Banco Atlantico Europa,cre,Sunday,
+1017,GP,Gabriel Pereira,3/2/2024,985,Check,No,,75617868,Millennium BCP,che,Monday,1274
+1883,GP,Gabriel Pereira,3/3/2024,1155,Credit Card,No,8.29248E+15,31273654,Banco Palmas,cre,Monday,
+1952,GP,Gabriel Pereira,3/4/2024,907,Cash,No,,83345573,,cas,Tuesday,
+137,GP,Gabriel Pereira,3/5/2024,1036,Cash,No,,95687833,,cas,Wednesday,
+1737,GP,Gabriel Pereira,3/6/2024,1318,Cash,No,,9532670,,cas,Wednesday,
+628,GP,Gabriel Pereira,3/6/2024,1056,Check,No,,71024817,Caixa Geral de Depósitos,che,Friday,8551
+1161,GP,Gabriel Pereira,3/8/2024,1539,Check,No,,27348131,Millennium BCP,che,Sunday,5324
+807,GP,Gabriel Pereira,3/9/2024,1416,Cash,No,,74951191,,cas,Monday,
+1537,GP,Gabriel Pereira,3/10/2024,1061,Cash,No,,80966414,,cas,Tuesday,
+19,GP,Gabriel Pereira,3/11/2024,1420,Credit Card,No,1.91362E+15,85435346,Chase,cre,Wednesday,
+41,GP,Gabriel Pereira,3/12/2024,1270,Check,No,,72628498,Banco Atlantico Europa,che,Wednesday,8716
+1722,GP,Gabriel Pereira,3/13/2024,1445,Credit Card,No,6.34292E+15,12185273,Banco Cruzeiro do Sul,cre,Wednesday,
+1367,GP,Gabriel Pereira,3/14/2024,1482,Check,Yes,,42647106,Millennium BCP,che,Thursday,2270
+667,GP,Gabriel Pereira,3/6/2024,913,Check,No,,50241209,Banco Palmas,che,Saturday,8863
+1604,GP,Gabriel Pereira,3/16/2024,1522,Credit Card,No,7.16988E+15,86119976,Banco Atlantico Europa,cre,Saturday,
+1330,GP,Gabriel Pereira,3/17/2024,1216,Credit Card,No,3.40154E+15,99449466,Banco Atlantico Europa,cre,Sunday,
+1789,GP,Gabriel Pereira,3/11/2024,1301,Cash,No,,38953376,,cas,Monday,
+1337,GP,Gabriel Pereira,3/19/2024,1216,Cash,No,,43586176,,cas,Wednesday,
+1956,GP,Gabriel Pereira,3/20/2024,1185,Check,No,,46733229,Caixa Geral de Depósitos,che,Wednesday,3771
+1805,GP,Gabriel Pereira,3/21/2024,1324,Credit Card,No,9.28799E+15,56291796,Banco Cruzeiro do Sul,cre,Thursday,
+50,GP,Gabriel Pereira,3/6/2024,952,Cash,No,,71167190,,cas,Saturday,
+261,GP,Gabriel Pereira,3/23/2024,1465,Credit Card,Yes,4.39736E+15,28160648,Banco Cruzeiro do Sul,cre,Sunday,
